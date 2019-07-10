@@ -45,13 +45,18 @@ SPRITES <-> OBJECTS <-> TRANSITIONS <-> CATEGORIES
               \ /
              SCENE
              
-Now, what means what? One Hour One Life is a game that happens on a tile grid: everything that is in the game, is placed on some tile, with certain (X, Y) coordinates. There are no things that exist in-between tiles, all movement happens instantly after certain delay (with an animation creating an illusion of smooth movement and arbitrary point of stop). Usually only one object per tile is allowed (there are exceptions to this rule, some of them, not numerous in types, are very important to the overall game, like human bodies - objects that are controlled by players; obviously this kind of object is allowed to stay with plenty of different objects simultaneously, as long as tile is declared "passable"; another exception is containers mechanics, but let's not make things overcomplicated right now: generally, one tile can contain one object (or be empty)).
-    - Every "palpable thing" in the world is an OBJECT of some kind, object definitions are stored in .\objects folder.
-    - Every object is drawn using various shapes, usually several of them, rarely only one, or very many (reaching sixty and more in count), each such "drawing shape" is referred as SPRITE, technical information about each sprite, as well as the sprite (the picture) itself is stored in .\sprites folder.
-    - The game not just draws static shapes, but depicts various kinds of their movement. Any real-time change of the object depiction is an ANIMATION, the animation codes are stored in .\animations folder.
-    - The crafting and the world change are among the cornerstone aspects of the game: simply speaking, some objects under various circumstances tend to turn into other objects. Every such transmutation is defined by so-called TRANSITIONS. All code for transitions is stored in .\transitions folder.
+Now, what means what? One Hour One Life is a game that happens on a tile grid (width: 128, height: 128) : everything that is in the game, is placed on some tile, with certain (X, Y) coordinates. There are no things that exist in-between tiles, all movement happens instantly after certain delay (with an animation creating an illusion of smooth movement and arbitrary point of stop). Usually only one object per tile is allowed (there are exceptions to this rule, some of them, not numerous in types, are very important to the overall game, like human bodies - objects that are controlled by players; obviously this kind of object is allowed to stay with plenty of different objects simultaneously, as long as tile is declared "passable"; another exception is containers mechanics, but let's not make things overcomplicated right now: generally, one tile can contain one object (or be empty)).
+    - Every passable item in the world, is an OBJECT of some kind, object definitions are stored in .\objects folder.
+    - Every object is drawn using various images, usually several of them, rarely only one, and sometimes alot (reaching sixty and more in count), each image is referred to as a SPRITE, technical information about each sprite, with the picture itself is stored in .\sprites folder.
+    - The game does not just draws static images, but depicts various kinds of their movement. Any real-time change of the object depiction is an ANIMATION, the animation codes are stored in .\animations folder.
+    - The crafting and the world changes are the cornerstone aspects of the game: simply speaking, some objects under various circumstances tend to turn into other objects. Every such transformation is defined as TRANSITIONS. All code for transitions is stored in .\transitions folder.
     - For the sake of usability many objects are grouped. The formal, defined by an asset file, group is called CATEGORY. Categories are usually not presented to players in game and serve mainly for easy defining the details of transitions, for example making fire includes "object from "wood source" category": that way all branches from various trees, logs, firewood and kindle are included into the recipe, without need to make a different transition for each branch, and, more importantly, not making another transition for any freshly added object.
-    - [REQUIRES UPDATE] Finally, the game occurs on some kind of a background, the world consists of different biomes. [ground tiles?]
+
+Floors are a type of object that lay underneath all other objects and are generally used to multiply move speed of a player, they function exactly the same as objects however.
+
+Finally, the game has a background of biomes called ground, in location ./ground and is cached to ./groundTileCache the ground tile cache images are a 4 by 4 represenation of the non cached ground images with a square and non square type. The ground is static and has no meta data associated with it.
+
+
     
 All these kinds of assets can be created and edited using the editor.
 
