@@ -403,13 +403,13 @@ ANIM [ANIMATION] SECTION
     Fields tied with Sliders:
     
     First two triplets, "X Osc" (oscillation), "X Amp" (amplitude), "X Phase" and "Y Osc", "Y Amp", "Y Phase" determine "oscillating parameters" of the sprite: in utilized animation each sprite can oscillate ("shake", "wiggle", "move around back and forth") around its starting position. How exactly it will do is determined by these triplets.   
-    - X Osc - "how far sprite wiggle horizontally".
+    - X Osc - "how often sprite wiggle horizontally".
         - Off - linear X offset by which sprite will be shifted (left or right) when animation will start to play. It does not influence the sprite position on static object.
-    - X Amp - "how often sprite wiggle horizontally".
+    - X Amp - "how far sprite wiggle horizontally".
     - X Phase - all moving parts of complex object start moving in synchronous manner, but it is often required to make them move in some kind of more complex coordinated fashion, like pistons of combustion engine, #1, 3 go down while #2, 4 go up and vice versa. "Phase" parameter serves the purpose of adjusting the oscillation animations of various sprites to each other, by adjusting (making it start from the different point of the cycle) the actual start of the particular sprite animation ("by adjusting the phase").
-    - Y Osc - "how far sprite wiggle vertically".
+    - Y Osc - "how often sprite wiggle vertically".
         - Off - linear Y offset by which sprite will be shifted (up or down) when animation will start to play. It does not influence the sprite position on static object.
-    - Y Amp - "how often sprite wiggle vertically".
+    - Y Amp - "how far sprite wiggle vertically".
     - Y Phase - see "X Phase".
     
     - Rot - controls rotation animation, provides option to make active sprite rotating, the value determines how fast sprite rotates. The rotation center is marked by red cross.
@@ -483,8 +483,6 @@ SCENE SECTION
     
     - The white square represents currently active tile, the red cross marks the center of the scene. As the hint "Arrows = Change selected cell" suggests, pressing arrow keys will move the white square and the active cell with it.
 
-    - "<" button near upper left corner - [description missing] - crashes the program on clicking
-
     - left list (the same GUI element as in "SPRITES" section) here contains the list of all available biome tiles, to make a background for the test scene. Picking an item will fill the currently active tile of the scene (marked by white square) with that biome, either defining previously empty tile or redefining already filled one. Right click on an item, like the hint below the list suggests, will flood-fill all tiles of the same type with the picked biome, leaving all tiles of different type, as well as tiles that can not be reached from the active point by flood fill tool, without change.
     - right list (the same GUI element as in "SPRITES" section) contains game objects: all stuff that can be inserted into test scene. Picking an object from the list will place that object on currently selected tile. If there is already an object on a tile, it will be replaced with a new one. The "MALEXXX" and "FEMALEXXX" objects, representing bodies of playable characters, are exceptions: they will be added to the existing object. There still only one person can be in a cell of a test scene.
         - "R-Click = Add Floor" tip under the list - if the object from right list is "floor" (has corresponding checkbox checked), right click will add it "as a floor", meaning that it will not block anything passing through its tile and there is still possible to place another object in that tile. Unmodded game has "wooden floor", "stone floor", "ancient stone floor" and road tiles eligible for this.
@@ -492,10 +490,11 @@ SCENE SECTION
         
     - "0, 0" field - the non-clickable field that initially shows "0, 0" - this is a coordinate display, it shows the coordinates of currently selected tile relative to the center of the scene.
 
-    - "Save New" button - saves the scene as another file. [? - elaboration may follow]
-        - upon clicking reveals "Replace" and "Delete" buttons
-        - "Replace" button - replaces the "test scene". There can only be one "Test Scene" loaded per server directory. [? - elaboration may follow]
-        - "Delete" button - [? - elaboration may follow] delete the scene from the directory.
+    - "Save New" button - saves the scene in separate file. Writing performed into .\scenes\N.txt file, where N is the number taken .\scenes\next.txt file, increasing that number afterwards, so scenes are saved as 1.txt, 2.txt, 3.txt and so on.
+    If there is "scenes" folder in the root directory of the game and it's not empty, "Replace" and "Delete" buttons are revealed.
+        - "Replace" button - overwrites the scene .txt file from which the current scene was loaded.
+        - '<', '>' buttons on sides of "Replace" button - meant for cycling through saved scenes, back and forth.
+        - "Delete" button - deletes the corresponding scene file.
         
     - "Clear" button erases the whole scene, reverting the section to its initial state.
     
