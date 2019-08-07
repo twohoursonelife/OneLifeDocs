@@ -66,7 +66,7 @@ SPRITES SECTION
     - '<' near 'Lines import' - restores the last image imported as lineart layer.
     For both '<' buttons the editor remembers the last image even if the source was moved, modified or deleted.
     
-    - 'Overlay import' - [description missing]
+    - 'Overlay import' - This button is used, in conjunction with an overlayImport folder in the editor's home directory, to import new art for editing as a single image. In this way you can completely skip the above section and import images with lineart prepared prior to importing into the game's engine.
     
     Once both sprite and lineart layers are loaded and synchronized (they should form one complementary picture, after sprite will be cut out from the prepared picture, it is going to be treated as a single inseparable image), next thing to do is to select the sprite on loaded image by dragging a rectangle around it: left click and hold the mouse button, then move the selection until the desired shape will not fill into rectangle; only move from left to right and from top to bottom is accepted. Once mouse button is up, the selected area is copied to buffer, it can be viewed right away as it is constantly redrawn wherever cursor is currently placed. In this guide that area is further referred as "cutout". Before that, after graphics are loaded into the sprite layer, the "sight mark" is revealed, it is glued to the middle of work area and represents sprite rotation center: any cutout will use its relative position to the mark for all tasks related to further sprite modification (such as rotation) or animation, so, before making cutout, it is expected to move the shape in question somewhere close to "the sight mark".
     
@@ -83,7 +83,7 @@ SPRITES SECTION
     Good amount of hotkey hints is revealed upon loading the sprite layer:
     - 'r-mouse = Mv sheet' - Right-click and holding allows to move image.
     - 'c = Mv sprite center' - click while holding 'c' key moves "the sight mark", the sprite rotation center described above.
-    - 'x = Copy pixel color' - [description missing]
+    - 'x = Copy pixel color' - [? - elaboration may follow] copies the RGB value of the pixel under the mouse pointer.
     - 'w-click = white out' - click while holding 'w' key fills small area around cursor with white color.
     - 'W = clear white out' - pressing 'W' removes all alterations made with "w-click".
     - 'ijkl = Mv sheet' - again, means for moving a loaded image, this time with keys. The shift is only 1 pixel per key pressed, key holding has no effect.
@@ -94,7 +94,7 @@ SPRITES SECTION
     Filling lineart layer reveals additional hint:
     - "arrows = Mv lines" - keyboard arrow keys are used for moving content of lineart layer.
 
-    - TRIM button - [description missing]
+    - TRIM button - used for trimming sprite sheets. this is very inefficient and creates auto-populated names for sprites.
 
     Sliders:
     - 'Shadow' - to each cutout a drop shadow is automatically added, this slider determines how dense the shadow is going to be. Zero means no shadow. In unmodded game this setting is usually left at 50% but can vary depending on specific picture requirements.
@@ -104,7 +104,7 @@ SPRITES SECTION
     - 'Saturation' - once sprite candidate is cut out, that slider can be used to adjust (post-process) its colors.
     Each of these options adjusts the final cutout look "on the fly", there is no need to figure out the required settings before selecting the shape from the loaded picture, all adjustments will be immediately visible with currently active cutout.
 
-    - 'Solid' checkbox - [description missing]
+    - 'Solid' checkbox - unchecking this box will create a transparent sprite. This is useful when making transparent objects such as glass jars or ice.
 
 OBJECTS SECTION
 
@@ -144,8 +144,8 @@ OBJECTS SECTION
     - Pg Up/Down = Layer order - increase or decrease the drawing order of currently active sprite by one. In other words, move it one step up or below in the whole stack of drawn images.
     - r = Rotate layer - while holding "r" key, cursor moving will rotate the currently active sprite; the exact degree of rotation is shown with "Rot: NUMBER" hint to the left of main area, with 0 meaning the default sprite orientation, and 1/-1 meaning the sprite made one full circle clockwise/counterclockwise respectively (ending up in the default position). Keep in mind that sprite rotated not exactly by eighth part of the circle (so, by 1/8, 2/8, 3/8 and so on) most probably will end up blurred, will lose part of its initial quality. '<', '>' buttons provide an option of rotation by exact 1/8 per operation, see below, in "Revealed upon sprite selection" paragraph.
     - p = Ignore parent links - if a sprite will be moved while "p" key is pressed, only that sprite will be moved, while all its "children" (normally moved with it as well) will be ignored and stay at their old position.
-    - c/v = Copy/paste color - [description missing]
-    - C/V = Copy/paste delta from saved - [description missing]
+    - c/v = Copy/paste color - [? - elaboration may follow] copies or pastes the RGB value of the selected layer.
+    - C/V = Copy/paste delta from saved - [? - elaboration may follow] copies or pastes the RGB values as an additive or subtractive value to the selected layer.
     
     If one of these controls is checked, that means the object is a piece of clothing:
     - Bottom - "something to cover crotch", example: loincloth made from rabbit fur.
@@ -176,10 +176,10 @@ OBJECTS SECTION
     - Rideable - determines if the object can be mounted by a player. While mounted, object counts as "held" by player, so to hold anything player must dismount first, but unlike held object, mounted one overrides player's speed, so horses make people faster. Mounted people still can end their movement on occupied tiles, like players usually able to do, although to dismount they must find a free tile to leave their steed/vehicle. Alternatively, player can dismount by interacting with another object, for which an according transition reserved, like instantly hitching riding horse to fence: for purpose of transitions rideable/mounted object also counts as handheld and can participate in transitions where is presented in UL slot (see TRANS section for details). The notable difference with handheld status is that mounted object can't instantly be swapped with another object, lying on ground.
 
     - Blocking - means the tile that is occupied by an object is impassable by players. The object is a physical obstacle, either permanent, like a wall, or temporary: transforming interactions or movement may still be allowed.
-    Checking "blocking" reveals "L Radius" and "R Radius" fields - [description missing]
+    Checking "blocking" reveals "L Radius" and "R Radius" fields - radius of tiles to the right or left that are blocked beyond the visual representation of the object's sprite.
     
     - Floor - indicates if object is a kind of floor tile: a pavement that can't be picked up, can be walked over, does not count as occupying the tile (so other objects can be here, except other floor tiles, of course) and may alter the insulation properties of the tile. Floor tiles are objects, they can be constructed and (if according transitions are provided) deconstructed and should not be confused with biomes, a "background" of the world.
-    - Death - [description missing]
+    - Death - [? - elaboration may follow] flags this as a final death condition to simplify transitions later on.
     
     - Containable - this one indicates whether the object can be put into container.
         - "Contain Size" field - how much space object takes when placed in container. 1.0 size means object is small enough for backpack, basket or cart-like container; 2.0 means the object is large, but can fit in a cart. The majority of pickable game objects use one of these two sizes, some are marked as "extra small", like stock letters with 0.5 size. Object can't fit in a slot if the object is larger than the slot. Otherwise, regardless of the size, object occupies one full slot: only one object can fit in one slot.
@@ -197,7 +197,7 @@ OBJECTS SECTION
     - Speed - how fast object moves. 1 is human movement speed, 2 is wild horse movement speed. Non-moving objects have their animations proportionally affected by this parameter.
     
     - Slots: determines whether the object is a container and can hold items. Number of slots is how many items can hold container, "More" button adds another slot, "Less" removes the last added slot. Added slot will appear as red box with a number in a main area, it is a sprite placeholder which determines where the stored object is going to appear inside container. Selecting the box reveals "Vertical Slot" checkbox, it determines whether the stored object should be rotated by 90 degrees.
-        - "Tm Strtch" field - [description missing]
+        - "Tm Strtch" field - [? - elaboration may be required] time strech indicates whether an object will undergo modified time, i.e. food in a refrigerator.
         - "Locked" checkbox - if checked, objects can't be taken from the container. For example, there are two transitions allowing free transmutation between "open wooden chest" and "closed wooden chest" or vice versa. "Open wooden chest" is not locked container, items can be picked from it, "Closed wooden chest" marked as locked container and not gives away its items.
         - "Slot Size" field - determines the maximum size of item that can occupy container slot. Unmodded game makes a distinction between 1.0 size slots (backpack and apron slots, can hold small items) and 2.0 size slots (cart slots, can carry logs and similar large objects); text signs are actually containers that have generous amount of slots, but restrict their use to objects not large than 0.5 (and each letter stock has 0.5 size). So that means that the system can be expanded or modded with any other sizes. Or anything of size 0.5 or lesser can be squeezed into billboard. Object can't fit in a slot if the object is larger than the slot. Otherwise, regardless of the size, object occupies one full slot: only one object can fit in one slot.
         - "Demo Slots" - a tool to see how actual items are going to look inside that container. After hitting "Demo Slots" button, picking an object from the right list will not load that object, but instead place it into every container slot (if the size allows it). "End Demo" button exits the mode.
@@ -213,7 +213,7 @@ OBJECTS SECTION
         
     - "Use Dist" field - how many tiles away can handheld object be successfully used on another object to create a successful transition. For example, bow&arrow has "Use Distance" 5, meaning any animal or person can be shot if it is withing 5 tiles and nothing blocks the view. Most objects have "Use Distance" 1.
     - "Deadly Distance" field - identical to "Use Dist", but restricted solely for wound inflicting transitions. [How the game determines that it is wound-inflicting transition? Perhaps, from technical point of view, "Deadly Distance" parameter is used for determining the possibility of "Generic on-person Transition", since editor distinguishes that subtype and gives appropriate hint, see transition types for more info.]
-    - "Pickup Age" field - characters whose age is less than this parameter, can't pick up an object. Note that object still has to be marked as "Handheld" or "Rideable" to allow picking/mounting in general. [Will the game allow transition interactions, if object has high pickup age, but neither is handheld, nor rideable?]
+    - "Pickup Age" field - characters whose age is less than this parameter, can't pick up an object. Note that object still has to be marked as "Handheld" or "Rideable" to allow picking/mounting in general. Objects do not need to be handheld to be interacted with.
     
     - "Description" field - the same thing as "tag" for sprites, it is "the human-recognizable name" of the object; this is the string which will be displayed near the picture of the saved object in each list where that object will appear, and will bring the object for every matching search query.
     
@@ -236,7 +236,7 @@ OBJECTS SECTION
         - "Race" field - each person is assigned to some race, [it seems that any female of given race can have only babies of the same race, that's a simplest nod to genetics that game does so far].
         - "NoSpawn" button - [description missing]
         - "Male" button - if checked, the object depicts male person, otherwise female. In unmodded game the only mechanistic difference between males and females is that females can have babies (which appear just as another player joins the server, by an asexual reproduction/parthenogenesis from mom's point of view) at some period of their lives, while males can't.
-        - "Age" field - [description missing]
+        - "Age" field - allows to see how person looks at different age, how all revealing-hiding sprite directives (see "Age Layer" below) actually interact during age progression. Merely referential tool, not influences actual properties of object.
     Selection of a single sprite while editing "person" object reveals (sprite + person)-specific controls:
         - "Head", "Body", "Back Foot", "Front Foot" - [supposedly, sprite can be marked as representing the according body part for the purpose of proper attaching various articles of clothing, so the game will automatically know, seeing object marked as "hat" that it should go somewhere around "head" sprite of the wearer.]
         
@@ -274,9 +274,9 @@ NEW ACTOR  +  NEW TARGET
     Supplementary parts of user interface:
     - [X] button is attached to each slot, 4 buttons overall - clears contents of active slot and hides related parts of interface.
     - "Last use" checkbox is attached to each of 2 upper slots - determines whether the current transition is used when "# Use" parameter of the object in corresponding slot is greater than 1 (case if checkbox not checked), or it is reserved for the situation when "# Use" of the object goes from 1 to 0. [Checking it for object that has 1 use maximum (so, most objects in game) seemingly makes no difference.]
-    - "Min Use Fraction" field is attached to each of 2 upper slots - [description missing]
-    - "Reverse Use" checkbox is attached to each of 2 lower slots - [description missing]
-    - "No Use" checkbox is attached to each of 2 lower slots - [description missing]
+    - "Min Use Fraction" field is attached to each of 2 upper slots - for variable-use objects that occasionally use more than one "use", this sets a minimum per interaction.
+    - "Reverse Use" checkbox is attached to each of 2 lower slots - replenishes a "use" of the object. See the vanilla ponds for an example.
+    - "No Use" checkbox is attached to each of 2 lower slots - does not exhaust a "use" of the object.
     - '<- ->' arrows buttons between each pair of adjanced slots - swaps contents of corresponding slots; upon swapping active slot changes as well.
     
     - "Save" button - saves the current transition; it will start to appear in transition list related to participating objects.
@@ -355,7 +355,7 @@ CATEGORIES SECTION
 
     Category is a list of items that can play a role of an "item substitute" in a transition, meaning that any item from given list will suit for that transition. "Categories" editor is meant for compiling of such lists. There are no failsafe measures in that section, not even save button: any change is immediately written in a corresponding file in .\categories\ folder. So, trying to add an item for a category as a test and then immediately removing it leads to two subsequent overwrites of corresponding category.
 
-    - left list (the same GUI element as in "SPRITES" section) - [description missing]
+    - left list (the same GUI element as in "SPRITES" section) - list of possible items and categories.
     - right list (the same GUI element as in "SPRITES" section) - [description missing]
     
     - the list (another one) that appears upon selecting an item from the left list - [description missing]
@@ -437,14 +437,14 @@ ANIM [ANIMATION] SECTION
     All available animation types can be invoked at the same time, overlapping and producing all kinds of interesting movement patterns.
     
     Below fields and sliders:
-    - Full sound copy - [description missing]
-    - Button with red circle - [starts recording of sound from sound input device currently connected to PC; the details so far remain unclear]
+    - Full sound copy - copy all animation state sounds from selection.
+    - Button with red circle - record using audio input device.
     [How to attach prerecorded sample to object or animation?]
     Recorded sound reveals a set of controls for manipulation with sound sample:
     upper row
-    - 'x' button - [description missing]
-    - '>' button - [description missing]
-    - '1' green triangle button - ["play once"?]
+    - 'x' button - stop.
+    - '>' button - play.
+    - '1' green triangle button - play once.
     - 'X' button - [description missing]
     - overlapping squares button - places current sound sample into sound buffer, revealing "folder button".
     - folder button - places the content of sound buffer into current sound slot, either filling empty slot or replacing whatever sound was previously loaded.
@@ -454,15 +454,15 @@ ANIM [ANIMATION] SECTION
     - 'D' button - [description missing]
     
     The rest of the controls is nominally available right after the anim section is loaded, but will lead to application crash upon accessing their functions if no object was loaded:
-    - "Copy all" button - [copies the full set of animations of current object, meant for quick transfer of animation between object of identical structure, like "domestic sheep" and "shorn sheep" for example]
+    - "Copy all" button - copies the full set of animations of current object, meant for quick transfer of animation between objects of identical structure, like "domestic sheep" and "shorn sheep" for example.
     - "Copy" button - copies into buffer the state of "fields with sliders" for currently active sprite; it is meant for quick transfer of already refined movement from one object to another, similar one.
     - "Paste" button - applies the contents of "slider buffer" to the currently active sprite.
     - "Clear" button - resets "fields with sliders" of currently active sprite to default "no movement ordered" values.
     
-    - "Random start point" checkbox - [description missing]
-    - "Force zero start" checkbox - [description missing]
+    - "Random start point" checkbox - begins animation at a random keyframe.
+    - "Force zero start" checkbox - always plays animation in sequence beginning at keyframe 1.
     
-    - "Extra" checkbox - [description missing]
+    - "Extra" checkbox - [? - elaboration may follow] additional animation state.
     
     - "Delete" button [DB_ANIM] - instantly deletes active animation. NO CONFIRMATION PROMPTS WILL APPEAR, one click or one misclick and animation is instantly erased from asset files. It remains unclear why it is programmed that way in a context of various confirmations presented at other places, but when dealing with animations modder should be careful. ONE CLICK == YOUR WORK/PART OF THE GAME LOOK IS LOST, reinstallation or asset reintegration will be required.
     - "Save" button - saves all changes made to animation. Works in the same fashion as "Delete": NO CONFIRMATION WILL APPEAR, ASSET FILES ON HARD DRIVE WILL BE INSTANTLY OVERWRITTEN, OLD VERSION WILL BE LOST.
@@ -471,7 +471,7 @@ ANIM [ANIMATION] SECTION
     
     More animation types:
     - "Eating" - how should be displayed the "person"-object during the consumption of edible item; in unmodded game arms moving towards mouth, mouth moves as munching something, etc.
-    - "Doing" - [supposedly meant to be played during prolonged interactions, but so far the game has only instant interactions]
+    - "Doing" - [supposedly meant to be played during prolonged interactions, but so far the game has only instant interactions]; [? - elaboration may follow] similar to eating, but for extended duration interactions.
     
     - "+ Clothes" button - adds clothes to person's animations depiction.
     - "+ Held" button - adds held item to person's animations depiction.
@@ -492,10 +492,10 @@ SCENE SECTION
         
     - "0, 0" field - the non-clickable field that initially shows "0, 0" - this is a coordinate display, it shows the coordinates of currently selected tile relative to the center of the scene.
 
-    - "Save New" button - [description missing]
+    - "Save New" button - saves the scene as another file. [? - elaboration may follow]
         - upon clicking reveals "Replace" and "Delete" buttons
-        - "Replace" button - [description missing]
-        - "Delete" button - [description missing] - upon clicking hide "Replace" and "Delete" buttons
+        - "Replace" button - replaces the "test scene". There can only be one "Test Scene" loaded per server directory. [? - elaboration may follow]
+        - "Delete" button - [? - elaboration may follow] delete the scene from the directory.
         
     - "Clear" button erases the whole scene, reverting the section to its initial state.
     
