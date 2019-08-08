@@ -45,15 +45,20 @@ SPRITES <-> OBJECTS <-> TRANSITIONS <-> CATEGORIES
               \ /
              SCENE
              
-Now, what means what? One Hour One Life is a game that happens on a tile grid: everything that is in the game, is placed on some tile, with certain (X, Y) coordinates. There are no things that exist in-between tiles, all movement happens instantly after certain delay (with an animation creating an illusion of smooth movement and arbitrary point of stop). Usually only one object per tile is allowed (there are exceptions to this rule, some of them, not numerous in types, are very important to the overall game, like human bodies - objects that are controlled by players; obviously this kind of object is allowed to stay with plenty of different objects simultaneously, as long as tile is declared "passable"; another exception is containers mechanics, but let's not make things overcomplicated right now: generally, one tile can contain one object (or be empty)).
-    - Every "palpable thing" in the world is an OBJECT of some kind, object definitions are stored in .\objects folder.
-    - Every object is drawn using various shapes, usually several of them, rarely only one, or very many (reaching sixty and more in count), each such "drawing shape" is referred as SPRITE, technical information about each sprite, as well as the sprite (the picture) itself is stored in .\sprites folder.
-    - The game not just draws static shapes, but depicts various kinds of their movement. Any real-time change of the object depiction is an ANIMATION, the animation codes are stored in .\animations folder.
-    - The crafting and the world change are among the cornerstone aspects of the game: simply speaking, some objects under various circumstances tend to turn into other objects. Every such transmutation is defined by so-called TRANSITIONS. All code for transitions is stored in .\transitions folder.
+Now, what means what? One Hour One Life is a game that happens on a tile grid (width: 128, height: 128) : everything that is in the game, is placed on some tile, with certain (X, Y) coordinates. There are no things that exist in-between tiles, all movement happens instantly after certain delay (with an animation creating an illusion of smooth movement and arbitrary point of stop). Usually only one object per tile is allowed (there are exceptions to this rule, some of them, not numerous in types, are very important to the overall game, like human bodies - objects that are controlled by players; obviously this kind of object is allowed to stay with plenty of different objects simultaneously, as long as tile is declared "passable"; another exception is containers mechanics, but let's not make things overcomplicated right now: generally, one tile can contain one object (or be empty)).
+    - Practically everything in the world is an OBJECT of some kind, object definitions are stored in .\objects folder.
+    - Every object is drawn using multiple parts, usually several of them, rarely only one, and sometimes alot (reaching sixty and more in count), each such part is referred to as a SPRITE, technical information about each sprite, with the picture itself is stored in .\sprites folder.
+    - The game does not just draw static images, but depicts various kinds of their movement. Any real-time change of the object depiction is an ANIMATION, the animation codes are stored in .\animations folder.
+    - The crafting and the world change are among the cornerstone aspects of the game: simply speaking, some objects under various circumstances tend to turn into other objects. Every such transformation is defined as TRANSITION. All code for transitions is stored in .\transitions folder.
     - For the sake of usability many objects are grouped. The formal, defined by an asset file, group is called CATEGORY. Categories are usually not presented to players in game and serve mainly for easy defining the details of transitions, for example making fire includes "object from "wood source" category": that way all branches from various trees, logs, firewood and kindle are included into the recipe, without need to make a different transition for each branch, and, more importantly, not making another transition for any freshly added object.
-    - [REQUIRES UPDATE] Finally, the game occurs on some kind of a background, the world consists of different biomes. [ground tiles?]
-    
+
 All these kinds of assets can be created and edited using the editor.
+
+    - In addition to all that, the game uses tile backgrounds, or "BIOMES", also called ground, stored in ./ground, cached to ./groundTileCache. The ground tile cache images are a 4 by 4 represenation of the non cached ground images with a square and non square type. The ground is static, has no meta data associated with it, editor not provides tools for tile editing. Take a note: there is also special kind of objects called "floors", they lay underneath all other objects, are passable, can have various other properties. Generally they look similiar to biomes yet they are OBJECTS. See the details in corresponding section (quick search: [FL]).
+
+
+    
+                                                                     
 
 Before starting to mod anything it is good idea to make backups of corresponding folders. Modders confident in knowing that they know what they're doing will benefit from reading ["Save" button] and ["Delete" button] paragraphs of ANIM section (quick search: DB_ANIM).
 	   
@@ -178,7 +183,7 @@ OBJECTS SECTION
     - Blocking - means the tile that is occupied by an object is impassable by players. The object is a physical obstacle, either permanent, like a wall, or temporary: transforming interactions or movement may still be allowed.
     Checking "blocking" reveals "L Radius" and "R Radius" fields - radius of tiles to the right or left that are blocked beyond the visual representation of the object's sprite.
     
-    - Floor - indicates if object is a kind of floor tile: a pavement that can't be picked up, can be walked over, does not count as occupying the tile (so other objects can be here, except other floor tiles, of course) and may alter the insulation properties of the tile. Floor tiles are objects, they can be constructed and (if according transitions are provided) deconstructed and should not be confused with biomes, a "background" of the world.
+    - [FL]Floor - indicates if object is a kind of floor tile: a pavement that can't be picked up, can be walked over, does not count as occupying the tile (so other objects can be here, except other floor tiles, of course) and may alter the insulation properties of the tile. Floor tiles are objects, they can be constructed and (if according transitions are provided) deconstructed and should not be confused with biomes, a "background" of the world.
     - Death - [? - elaboration may follow] flags this as a final death condition to simplify transitions later on.
     
     - Containable - this one indicates whether the object can be put into container.
@@ -482,6 +487,8 @@ SCENE SECTION
     This section serves the purpose of creating and using the test environment where the creator can observe how things that he's working on would look inside the game.
     
     - The white square represents currently active tile, the red cross marks the center of the scene. As the hint "Arrows = Change selected cell" suggests, pressing arrow keys will move the white square and the active cell with it.
+
+                                                                                                 
 
     - left list (the same GUI element as in "SPRITES" section) here contains the list of all available biome tiles, to make a background for the test scene. Picking an item will fill the currently active tile of the scene (marked by white square) with that biome, either defining previously empty tile or redefining already filled one. Right click on an item, like the hint below the list suggests, will flood-fill all tiles of the same type with the picked biome, leaving all tiles of different type, as well as tiles that can not be reached from the active point by flood fill tool, without change.
     - right list (the same GUI element as in "SPRITES" section) contains game objects: all stuff that can be inserted into test scene. Picking an object from the list will place that object on currently selected tile. If there is already an object on a tile, it will be replaced with a new one. The "MALEXXX" and "FEMALEXXX" objects, representing bodies of playable characters, are exceptions: they will be added to the existing object. There still only one person can be in a cell of a test scene.
