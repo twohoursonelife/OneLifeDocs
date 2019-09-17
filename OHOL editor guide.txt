@@ -7,7 +7,7 @@ This document contains assumptions and unfinished sections. Technical remarks, s
 It is assumed that the reader (as potential modder) has initial familiarity with the overall look of One Hour One Life game "from player's point of view", there are examples and references to facts about things in game world.
 It is also assumed that the reader has "on fly" access to the editor, as without direct access to particular user interface in question, literary descriptions of such interface tend to be overburdened with details and provide a vague, if not useless impression.
 
-It takes time to compile, process and organize things, parts of this guide may be already outdated, newer versions of editor can have options currently not just uncovered with [description missing] tag, but not even mentioned: first published version of the document covers state of things for "OHOL before roads update".
+It takes time to process things, newer versions of editor have options currently not just marked with [description missing] tag, but not even mentioned: first published version of the document covers state of things for "OHOL before roads update".
 
 ADDITIONAL INFO
 
@@ -17,11 +17,13 @@ https://www.youtube.com/watch?v=WbQsZ5rQ2gg - Jason adds sheep to OHOL (long ver
 
 Documentation available on GitHub repository:
 https://github.com/jasonrohrer/OneLife/blob/master/documentation/EditorNotes.txt
-https://github.com/jasonrohrer/OneLife/blob/master/documentation/EditorAndServerBuildNotes.txt
+https://github.com/jasonrohrer/OneLife/blob/master/documentation/EditorAndServerBuildNotes.txt (including instructions about compiling editor executable from source code).
 
 STARTING EDITONELIFE.EXE ON WINDOWS
 
-Depending on the software configuration the program may refuse to start, telling various obscure messages. If that seem to be the case, adding zlib1.dll file to the game's root directory may solve the problem, the program works with 1.3.0.0 version of the library (71.8 kb or 73 544 bytes).
+Depending on the software configuration and way of obtaining the executable, the program may refuse to start, telling various obscure messages. If that seem to be the case, adding zlib1.dll file to the game's root directory may solve the problem:
+    If you're working with more fresh, past-2018, version of the editor, or building it from sources yourself, version 2.2.11.0 (76 088 bytes) will suit.
+    EditOneLife.exe from 2HOL-2018 worked with 1.3.0.0 version of the library (73 544 bytes).
 
 There is no editonelife.exe in official user package. In 2HOL package the executive file was located in the root directory of the game.
 
