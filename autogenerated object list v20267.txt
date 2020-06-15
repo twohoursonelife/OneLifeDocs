@@ -1,0 +1,4153 @@
+===================================
+Object list for 2HOL v20267
+===================================
+11.txt : Skin Tone A,B,C,D,E,F
+19.txt : Female001 D
+30.txt : Wild Gooseberry Bush
+31.txt : Gooseberry
+32.txt : Big Hard Rock
+33.txt : Stone
+34.txt : Sharp Stone
+35.txt : Gooseberry Seed
+36.txt : Seeding Wild Carrot
+39.txt : Dug Wild Carrot
+40.txt : Wild Carrot
+45.txt : Lombardy Poplar Tree
+48.txt : Maple Tree
+49.txt : Juniper Tree
+50.txt : Milkweed
+51.txt : Flowering Milkweed
+52.txt : Fruiting Milkweed
+53.txt : Milkweed Debris
+54.txt : Milkweed Debris#Flowering
+55.txt : Milkweed Debris#Fruit
+56.txt : Milkweed Stump
+57.txt : Milkweed Stalk
+58.txt : Thread
+59.txt : Rope
+60.txt : Milkweed Stump#Fertile
+61.txt : Juniper Tinder
+62.txt : Leaf
+63.txt : Maple Tree#Branch
+64.txt : Straight Branch
+65.txt : Lombardy Poplar Tree#Branch
+66.txt : Small Curved Branch
+67.txt : Long Straight Shaft
+68.txt : Small Curved Shaft
+69.txt : Short Shaft
+70.txt : Tied Short Shaft
+71.txt : Stone Hatchet
+72.txt : Kindling
+73.txt : Bow Drill Bow
+74.txt : Fire Bow Drill
+75.txt : Ember Shaft
+77.txt : Ember Leaf
+78.txt : Smoldering Tinder
+79.txt : Spent Tinder
+80.txt : Burning Tinder
+82.txt : Fire
+83.txt : Large Fast Fire
+85.txt : Hot Coals
+86.txt : Ashes
+87.txt : Fresh Grave# origGrave fromDeath
+88.txt : Grave# origGrave
+89.txt : Old Grave# origGrave
+92.txt : Tied Long Shaft
+96.txt : Pine Needles
+99.txt : White Pine Tree
+100.txt : White Pine Tree with Needles
+101.txt : Wooden Frame
+103.txt : Netted Wooden Frame
+104.txt : Partial Wooden Frame
+105.txt : Half Wooden Frame
+106.txt : Pine Panel
+107.txt : Stakes
+108.txt : East-West Wall Stakes
+109.txt : North-South Wall Stakes
+110.txt : Corner Wall Stakes
+111.txt : Pine Wall
+112.txt : Pine Wall
+113.txt : Pine Wall
+114.txt : Pine Door
+115.txt : Pine Door# Installed
+116.txt : Pine Door# installed vert
+117.txt : Open Pine Door# installed vert
+119.txt : Open Pine Needle Door# installed
+121.txt : Tule Reeds
+122.txt : Tule Stumps
+123.txt : Harvested Tule
+124.txt : Reed Bundle
+125.txt : Clay Deposit
+126.txt : Clay
+127.txt : Adobe
+128.txt : Reed Skirt
+131.txt : Yew Shaft
+132.txt : Yew Branch
+133.txt : Flint
+134.txt : Flint Arrowhead
+135.txt : Flint Chip
+136.txt : Sapling
+137.txt : Sapling Stump
+138.txt : Cut Sapling Skewer
+139.txt : Skewer
+140.txt : Tied Skewer
+141.txt : Canada Goose Pond
+142.txt : Canada Goose Pond#swimming
+143.txt : Canada Goose Pond#swimming, feather
+144.txt : Goose Feather
+146.txt : Fletching
+147.txt : Featherless Arrow
+148.txt : Arrow
+149.txt : Headless Arrow
+150.txt : Flint Chips
+151.txt : Yew Bow
+152.txt : Bow and Arrow
+153.txt : Yew Tree#Branch
+154.txt : Adobe Wall
+155.txt : Adobe Wall
+156.txt : Adobe Wall
+157.txt : Partial Adobe Wall
+158.txt : Partial Adobe Wall
+159.txt : Partial Adobe Wall
+160.txt : Snare
+161.txt : Rabbit Hole#hiding,single
+162.txt : Snared Rabbit Hole#hiding
+163.txt : Snared Rabbit Family Hole#hiding
+164.txt : Rabbit Hole#out,single
+165.txt : Rabbit Hole#peeking2,single
+166.txt : Rabbit Hole#peeking1,single
+167.txt : Rabbit Family Hole#hiding
+168.txt : Snared Rabbit Hole#peeking2,single
+169.txt : Snared Rabbit Hole#peeking1,single
+171.txt : Snared Rabbit Family Hole#peeking2
+172.txt : Snared Rabbit Family Hole#peeking1
+173.txt : Rabbit Family Hole#out
+174.txt : Snared Rabbit#alive
+175.txt : Snared Family Rabbit#alive
+176.txt : Snared Rabbit#dead
+177.txt : Snared Rabbit#dead,family
+178.txt : Rabbit Hole with Used Snare#single
+179.txt : Rabbit Hole with Used Snare#family
+180.txt : Dead Rabbit
+181.txt : Skinned Rabbit
+182.txt : Skinned Rabbit
+183.txt : Rabbit Fur
+184.txt : Four Pieces of Cut Rabbit Fur
+185.txt : Skewered Rabbit
+186.txt : Cooked Rabbit
+187.txt : Burnt Rabbit
+189.txt : Rabbit Bone
+190.txt : Rabbit Bones
+191.txt : Bone Needle
+192.txt : Needle and Thread
+193.txt : Rabbit Family Hole#peeking1
+194.txt : Rabbit Family Hole#peeking2
+195.txt : Abandoned Rabbit Hole
+196.txt : Rabbit Hole#growing
+197.txt : Cooked Rabbit
+198.txt : Backpack
+199.txt : Rabbit Fur Hat
+200.txt : Rabbit Fur Loincloth
+201.txt : Rabbit Fur Shawl
+202.txt : Rabbit Fur Coat
+203.txt : Rabbit Fur Shoe
+204.txt : Two Rabbit Furs
+205.txt : Three Rabbit Furs
+206.txt : Four Rabbit Furs
+207.txt : Two Pieces of Cut Rabbit Fur
+208.txt : Four Full and Two Cut Rabbit Furs
+209.txt : Empty Water Pouch
+210.txt : Full Water Pouch
+211.txt : Fertile Soil Deposit
+212.txt : Soil-filled Backpack
+213.txt : Deep Tilled Row# groundOnly
+214.txt : Dry Planted Milkweed Seed
+215.txt : Wet Planted Milkweed Seed
+216.txt : Dry Planted Gooseberry Seed#fertile
+217.txt : Wet Planted Gooseberry Seed#fertile
+218.txt : Milkweed Sprout
+219.txt : Gooseberry Sprout
+220.txt : Milkweed Seed
+223.txt : Wheat Seed Head
+224.txt : Harvested Wheat
+225.txt : Wheat Sheaf
+226.txt : Threshed Wheat
+227.txt : Straw
+228.txt : Dry Planted Wheat
+229.txt : Wet Planted Wheat
+230.txt : Wheat Sprouts
+231.txt : Adobe Oven Base
+233.txt : Wet Clay Bowl
+234.txt : Wet Clay Plate
+235.txt : Clay Bowl
+236.txt : Clay Plate
+237.txt : Adobe Oven
+238.txt : Adobe Kiln
+239.txt : Wooden Tongs
+240.txt : Wet Plate in Wooden Tongs
+241.txt : Fired Plate in Wooden Tongs
+242.txt : Ripe Wheat
+243.txt : Unripe Wheat
+244.txt : Wheat Stumps
+245.txt : Bowl of Wheat
+247.txt : Wood-filled Adobe Oven
+248.txt : Firebrand
+249.txt : Burning Adobe Oven
+250.txt : Hot Adobe Oven
+251.txt : Bowl of Flour
+252.txt : Bowl of Dough
+253.txt : Bowl of Gooseberries
+254.txt : Bowl of Rabbit
+255.txt : Bowl of Minced Rabbit
+256.txt : Bowl of Gooseberries And Rabbit
+257.txt : Bowl of Gooseberries, Rabbit, and Carrot
+258.txt : Bowl of Gooseberries and Carrot
+259.txt : Bowl of Mashed Berries, Rabbit, and Carrot
+260.txt : Bowl of Mashed Berries and Carrot
+261.txt : Bowl of Mashed Berries and Rabbit
+262.txt : Bowl of Rabbit and Carrot
+263.txt : Bowl of Mashed Rabbit and Carrot
+264.txt : Raw Pie Crust
+265.txt : Raw Berry Pie
+266.txt : Raw Berry Carrot Pie
+267.txt : Raw Berry Carrot Rabbit Pie
+268.txt : Raw Carrot Pie
+269.txt : Raw Carrot Rabbit Pie
+270.txt : Raw Rabbit Pie
+271.txt : Raw Berry Rabbit Pie
+272.txt : Cooked Berry Pie
+273.txt : Cooked Carrot Pie
+274.txt : Cooked Rabbit Pie
+275.txt : Cooked Berry Carrot Pie
+276.txt : Cooked Berry Rabbit Pie
+277.txt : Cooked Rabbit Carrot Pie
+278.txt : Cooked Berry Carrot Rabbit Pie
+279.txt : Empty Wild Gooseberry Bush
+281.txt : Wood-filled Adobe Kiln
+282.txt : Firing Adobe Kiln
+283.txt : Wooden Tongs with Fired Bowl
+284.txt : Wet Bowl in Wooden Tongs
+285.txt : Wet Clay Nozzle
+286.txt : Clay Nozzle
+287.txt : Bellows Without Nozzle
+288.txt : Bellows
+289.txt : Iron Ore in Wooden Tongs
+290.txt : Iron Ore
+291.txt : Flat Rock
+292.txt : Basket
+293.txt : Firing Adobe Kiln Sealed
+294.txt : Sealed Adobe Kiln
+295.txt : Wet Nozzle in Wooden Tongs
+296.txt : Fired Nozzle in Wooden Tongs
+297.txt : Threshed Wheat#straw removed
+298.txt : Basket of Charcoal
+299.txt : Adobe Kiln with Charcoal
+300.txt : Big Charcoal Pile#3
+301.txt : Small Charcoal Pile#2
+302.txt : Charcoal#1
+303.txt : Forge
+304.txt : Firing Forge
+305.txt : Forge with Charcoal
+307.txt : Hot Iron Bloom
+308.txt : Hot Iron Bloom in Wooden Tongs
+309.txt : Hot Iron Bloom on Flat Rock
+310.txt : Cold Iron Bloom
+311.txt : Cold Iron Bloom in Wooden Tongs
+312.txt : Cold Iron Bloom on Flat Rock
+313.txt : Wrought Iron on Flat Rock
+314.txt : Wrought Iron
+316.txt : Crucible with Iron and Charcoal
+317.txt : Crucible with Iron
+318.txt : Crucible with Charcoal
+319.txt : Unforged Sealed Steel Crucible
+320.txt : Unforged Steel Crucible in Wooden Tongs
+321.txt : Hot Forged Steel Crucible
+322.txt : Forged Steel Crucible
+323.txt : Hot Steel Crucible in Wooden Tongs
+324.txt : Cool Steel Crucible in Wooden Tongs
+325.txt : Crucible with Steel
+326.txt : Steel Ingot
+327.txt : Wooden Tongs#cool steel ingot
+328.txt : Hot Steel Ingot
+329.txt : Hot steel Ingot in Wooden Tongs
+330.txt : Hot Steel Ingot on Flat Rock
+331.txt : Hot Steel Axe Head#flat rock
+332.txt : Steel Axe Head on Flat Rock
+333.txt : Steel Axe Head
+334.txt : Steel Axe
+335.txt : Steel Ingot on Flat Rock
+336.txt : Basket of Soil
+338.txt : Stump
+339.txt : Chopped Tree#big,log
+340.txt : Chopped Tree with Firewood#big,log,wood2
+341.txt : Chopped Tree with Firewood#big,log,wood1
+342.txt : Chopped Tree with Firewood#Small,wood2
+343.txt : Chopped Tree with Firewood#Small,wood1
+344.txt : Firewood
+345.txt : Butt Log
+346.txt : Large Slow Fire
+347.txt : Male002 D
+350.txt : Female003 D
+351.txt : Female004 C
+352.txt : Male005 D
+353.txt : Female006 C
+354.txt : Male007 C
+355.txt : Male008 C
+356.txt : Basket of Bones
+357.txt : Bone Pile# origGrave
+365.txt : Touched Edge
+366.txt : Edge
+367.txt : @ Kindling Source
+382.txt : Bowl of Water
+388.txt : @ Pond Water Source
+389.txt : Dying Gooseberry Bush
+390.txt : Dead Gooseberry Bush
+391.txt : Domestic Gooseberry Bush
+392.txt : Languishing Domestic Gooseberry Bush
+393.txt : Dry Domestic Gooseberry Bush
+394.txt : @ Full Portable Water Source
+395.txt : Carrot Seed Head
+396.txt : Dry Planted Carrots
+398.txt : Carrot Sprouts
+399.txt : Wet Planted Carrots
+400.txt : Carrot Row
+401.txt : Seeding Carrots
+402.txt : Carrot
+404.txt : Wild Carrot
+405.txt : @ Carrot
+406.txt : Yew Tree
+408.txt : Empty Clay Pit
+409.txt : Clay Pit#partial
+410.txt : Wormy Empty Fertile Soil Pit
+411.txt : Fertile Soil Pit#partial
+412.txt : @ Wet Canada Goose Pond
+416.txt : Burnt Rabbit
+418.txt : Wolf
+420.txt : Shot Wolf
+421.txt : Dead Wolf with Arrow
+422.txt : Dead Wolf
+423.txt : Skinned Wolf
+424.txt : Skinless Wolf
+425.txt : Wolf Skin
+426.txt : Wolf Hat
+427.txt : Attacking Wolf
+428.txt : Attacking Shot Wolf
+429.txt : Dying Shot Wolf
+432.txt : Domestic Gooseberry
+433.txt : Jason Test
+434.txt : Wooden Box
+440.txt : Hot Steel Hammer Head#flat rock
+441.txt : Smithing Hammer
+442.txt : Steel Hammer Head on Flat Rock
+443.txt : Smithing Hammer Head
+444.txt : Hot Steel Adze Head#flat rock
+445.txt : Hot Steel Chisel#flat rock
+446.txt : Hot Steel Froe Blade#flat rock
+447.txt : Hot Steel File Blank#flat rock
+448.txt : Hot Steel Blade Blank#flat rock
+449.txt : Steel Froe Blade#flat rock
+450.txt : Steel File Blank#flat rock
+451.txt : Steel Chisel#flat rock
+452.txt : Steel Blade Blank#flat rock
+453.txt : Steel Adze Head#flat rock
+454.txt : Steel Adze Head
+455.txt : Steel Chisel
+456.txt : Steel Froe Blade
+457.txt : Steel File Blank
+458.txt : Steel File
+459.txt : Steel Blade Blank
+460.txt : Steel Saw Blade
+461.txt : Bow Saw
+462.txt : Steel Adze
+463.txt : Steel Froe
+464.txt : Oiled File Blank
+465.txt : Oiled File Blank with Chisel
+466.txt : Steel File with Chisel
+467.txt : Mallet
+468.txt : Froe Wedged In Log
+469.txt : Boards with Froe
+470.txt : Boards
+471.txt : Wooden Sledge
+472.txt : Wooden Disks
+473.txt : Wooden Disk
+474.txt : Flint-tipped Bow Drill
+475.txt : Wooden Wheel
+483.txt : Wheelbarrow
+484.txt : Hand Cart
+485.txt : Wooden Floor# groundOnly
+486.txt : Floor Stakes
+487.txt : Home Marker# eveHomeMarker
+488.txt : Long Play Phonorecord Album
+489.txt : Phonorecord Sleeve
+490.txt : Long Play Phonorecord
+491.txt : Phonograph
+492.txt : Playing Phonograph
+493.txt : Yew Bow#just shot
+494.txt : @ Yew Bow
+495.txt : Crucible with Scrap Steel
+496.txt : Dug Stump
+497.txt : Dug Sapling Stump
+498.txt : Dug Gooseberry Bush
+499.txt : Hot Steel Shovel Head#flat rock
+500.txt : Steel Shovel Head#flat rock
+501.txt : Steel Shovel Head
+502.txt : Shovel
+503.txt : Dug Big Rock
+504.txt : Split Big Rock#right
+505.txt : Split Big Rock#left
+506.txt : Split Big Rock
+507.txt : @ Diggable Live Berry Bush
+508.txt : Dug Big Rock with Chisel
+509.txt : Pond with Dead Goose
+510.txt : Pond with Dead Goose#arrow
+511.txt : Pond
+512.txt : Dry Pond
+513.txt : Flooded Pond
+514.txt : Dead Canada Goose
+515.txt : Plucked Goose
+516.txt : Skewered Goose
+517.txt : Cooked Goose
+518.txt : Cooked Goose
+519.txt : @ Food Burner
+520.txt : Burnt Goose
+521.txt : Burnt Goose
+522.txt : Goose Bones
+524.txt : @ Edible Pie
+527.txt : Willow Tree
+530.txt : Bald Cypress Tree
+531.txt : Mouflon
+532.txt : Mouflon with Lamb
+534.txt : Mouflon Lamb
+536.txt : Shot Mouflon with Lamb#arrow
+537.txt : Shot Mouflon with Lamb#no arrow
+538.txt : Dead Mouflon#no arrow
+539.txt : Shot Mouflon#arrow
+540.txt : Mouflon Lamb#rope
+541.txt : Domestic Mouflon
+542.txt : Domestic Lamb
+543.txt : Domestic Lamb#rope
+544.txt : Domestic Mouflon with Lamb
+545.txt : Domestic Lamb#just left parent
+546.txt : Split Big Rock#chisel
+547.txt : Bowl of Carrot
+548.txt : Bowl of Mashed Carrot
+549.txt : Fence
+550.txt : Fence
+551.txt : Fence
+553.txt : East-West Fence Holes# groundOnly
+554.txt : North-South Fence Holes# groundOnly
+555.txt : Corner Fence Holes# groundOnly
+556.txt : Fence Kit
+557.txt : Two Shafts
+558.txt : Open Fence Gate
+559.txt : Steel Blade
+560.txt : Knife
+561.txt : @ Skinning Tool
+562.txt : Skinned Mouflon
+563.txt : Skinned Mouflon#with hide
+564.txt : Mouflon Hide
+565.txt : Butchered Mouflon
+566.txt : Mouflon Bones
+567.txt : Two Steel Blades
+568.txt : Shears
+569.txt : Raw Mutton
+570.txt : Cooked Mutton
+571.txt : Basket of Mouflon Bones
+572.txt : Mouflon Bones#dumped
+573.txt : Arrow#just pulled
+575.txt : Domestic Sheep
+576.txt : Shorn Domestic Sheep
+577.txt : Shorn Domestic Sheep
+578.txt : Fleece
+579.txt : Drop Spindle
+580.txt : Big Ball of Yarn
+581.txt : Small Ball of Yarn
+582.txt : Huge Ball of Yarn
+583.txt : Knitting Needles
+584.txt : Wool Hat
+585.txt : Wool Sweater
+586.txt : Wool Booty
+587.txt : Butchered Sheep
+588.txt : Sheep Bones
+589.txt : Sheep Bones#dumped
+590.txt : Basket of Sheep Bones
+591.txt : Skinned Sheep#with hide
+593.txt : Sheep Skin
+595.txt : Dead Sheep
+596.txt : Skinned Sheep
+597.txt : Dead Sheep#shorn
+598.txt : Dead Sheep#shorn fleece
+599.txt : Dead Domestic Mouflon
+600.txt : Domestic Sheep with Lamb
+601.txt : Fed Mouflon Lamb
+602.txt : Fed Domestic Lamb
+603.txt : Hungry Mouflon Lamb
+604.txt : Hungry Domestic Lamb
+605.txt : Dead Mouflon Lamb
+606.txt : Dead Domestic Lamb
+608.txt : Domestic Lamb#rope fed
+609.txt : Fed Domestic Lamb#post hungry
+610.txt : Fed Mouflon Lamb#post hungry
+612.txt : @ Lamb Food Bowl
+613.txt : Domestic Lamb#rope fed post hungry
+614.txt : Fed Shorn Domestic Sheep
+615.txt : Eaten Carrot Row
+616.txt : Sheep Eating Carrot Row
+617.txt : Small Trash Pit
+618.txt : Filled Small Trash Pit
+619.txt : @ Small Trash
+620.txt : Small Trash Pit with Stakes# groundOnly
+621.txt : Filled Small Trash Pit with Stakes
+622.txt : Pit Stakes
+623.txt : Dry Compost Pile
+624.txt : Composted Soil
+625.txt : Wet Compost Pile
+626.txt : @ Planted Stakes
+627.txt : Parts
+628.txt : Grizzly Bear
+630.txt : Bear Cave
+631.txt : Hungry Grizzly Bear
+632.txt : Shot Grizzly Bear#1
+635.txt : Shot Grizzly Bear#2
+637.txt : Shot Grizzly Bear#3
+639.txt : Dead Grizzly Bear#3
+641.txt : Dead Grizzly Bear#2
+642.txt : Dead Grizzly Bear#1
+643.txt : Dead Grizzly Bear#0
+644.txt : Dying Shot Grizzly Bear#3
+645.txt : Fed Grizzly Bear
+646.txt : @ Unshot Grizzly Bear
+647.txt : Bear Cave#waking
+648.txt : Bear Cave#awake
+649.txt : Bear Cave#empty just left
+650.txt : Bear Cave#empty
+653.txt : Hungry Grizzly Bear#attacking
+654.txt : Shot Grizzly Bear#1 attacking
+655.txt : Shot Grizzly Bear#2 attacking
+656.txt : Bear Skin Rug
+657.txt : Skinned Bear#with hide
+658.txt : Skinned Bear
+659.txt : Empty Bucket
+660.txt : Full Bucket of Water
+661.txt : Stone Pile
+662.txt : Shallow Well
+663.txt : Deep Well
+664.txt : Dry Shallow Well
+665.txt : Dry Deep Well
+666.txt : Stanchion Kit
+667.txt : Bear Skin
+668.txt : Boards with Bearskin
+669.txt : @ Empty Portable Water Source
+670.txt : Empty Cistern#just built
+671.txt : Full Cistern
+672.txt : Cistern
+673.txt : Empty Cistern
+674.txt : Limestone
+675.txt : Bowl of Limestone
+676.txt : Bowl of Quicklime
+677.txt : Bowl of Plaster
+678.txt : Limestone Bowl in Wooden Tongs
+679.txt : Quicklime Bowl in Wooden Tongs
+680.txt : Gold Vein
+681.txt : Gold Flakes#just mined
+682.txt : Hot Steel Mining Pick#flat rock
+683.txt : Steel Mining Pick#flat rock
+684.txt : Steel Mining Pick
+685.txt : Steel Mining Pick Head
+686.txt : Bowl of Gold Flakes
+687.txt : Bowl with Gold Ingot
+688.txt : Gold Flakes#dumped
+689.txt : Gold Ingot
+690.txt : Bowl of Gold in Wooden Tongs
+691.txt : Bowl with Gold Ingot in Wooden Tongs
+692.txt : Crown Blank
+693.txt : Carrot Crown
+694.txt : Leaf Crown
+695.txt : Wolf Crown
+696.txt : @ New Scrap Steel
+697.txt : Crown Blank with Leaf
+698.txt : Crown Blank with Carrot
+699.txt : Crown Blank with Wolf Skin
+700.txt : Leaf Crown with Leaf
+701.txt : Carrot Crown with Carrot
+702.txt : Wolf Crown with Wolf Skin
+703.txt : Penguin
+705.txt : Penguin#slide
+706.txt : Ice Hole
+707.txt : Antarctic Fur Seal
+708.txt : Clubbed Seal
+709.txt : Skinned Seal#with fur
+710.txt : Skinned Seal#no fur
+711.txt : Seal Skin
+712.txt : Sealskin Coat
+713.txt : Indigo
+714.txt : Rose Madder
+715.txt : Rose Madder Root
+716.txt : Indigo Bundle
+717.txt : Ice Hole#seal in
+718.txt : Ice Hole#penguin in
+719.txt : Ice Hole#seal out
+720.txt : Ice Hole#penguin out
+721.txt : Ice Hole#animal just left
+722.txt : @ Shallow Digger
+723.txt : @ Rough Cutter
+724.txt : Boards with Disk
+725.txt : Indigo Wool Sweater
+726.txt : Red Wool Sweater
+729.txt : Alum
+730.txt : Simmering Water
+731.txt : Simmering Dye Mordant
+732.txt : Ashes with Bowl
+733.txt : Simmering Indigo Dye
+734.txt : Simmering Rose Madder Dye
+735.txt : @ Simmering Liquid
+736.txt : Dye-Ready Wool Booty
+737.txt : Dye-Ready Wool Hat
+738.txt : Dye-Ready Wool Sweater
+739.txt : Indigo Wool Booty
+740.txt : Red Wool Booty
+741.txt : Red Wool Hat
+742.txt : Indigo Wool Hat
+749.txt : Yew Bow#just murdered
+750.txt : Bloody Knife
+752.txt : Murder Grave# origGrave fromDeath
+753.txt : Adobe Rubble
+754.txt : Damp Adobe Wall
+755.txt : Soft Adobe Wall
+756.txt : Damp Adobe Wall
+757.txt : Damp Adobe Wall
+758.txt : Soft Adobe Wall
+759.txt : Soft Adobe Wall
+760.txt : Dead Tree
+761.txt : Barrel Cactus
+762.txt : Flowering Barrel Cactus
+763.txt : Fruiting Barrel Cactus
+764.txt : Rattle Snake
+765.txt : Snake Skin
+766.txt : Snake Skin Boot
+767.txt : Lasso
+768.txt : Cactus Fruit
+769.txt : Wild Horse
+770.txt : Riding Horse
+771.txt : Captured Horse
+772.txt : Hitched Wild Horse
+773.txt : Hitched Tame Horse
+774.txt : Hitched Riding Horse
+775.txt : Escaped Riding Horse
+776.txt : Sheepskin Saddle
+778.txt : Horse-Drawn Cart
+779.txt : Hitched Horse-Drawn Cart
+780.txt : Escaped Horse-Drawn Cart
+782.txt : Filled Empty Trash Pit
+783.txt : @ Partial Adobe Build
+784.txt : Stone Pile#rubble
+785.txt : @ Stone Rubble Sources
+787.txt : Worm Pit
+788.txt : Wormless Soil Pit
+789.txt : Worm
+790.txt : Composting Compost Pile
+791.txt : Monolith
+792.txt : Full Monolith
+793.txt : Oddity
+794.txt : Crowned Wild Horse
+795.txt : Crowned Captured Horse
+796.txt : Crowned Wild Horse
+797.txt : Knife Wound
+798.txt : Arrow Wound
+799.txt : Staked Gooseberry Bush
+800.txt : Moist Staked Gooseberry Bush
+801.txt : Dug Gooseberry Bush with Stakes
+802.txt : Raw Mutton Pie
+803.txt : Cooked Mutton Pie
+804.txt : Burdock
+805.txt : Wild Onion
+806.txt : Dug Burdock
+807.txt : Burdock Root
+808.txt : Wild Onion
+809.txt : Tower Bell
+810.txt : Two Gold Ingots
+811.txt : Split Big Rock with Chisel
+812.txt : Stone Block
+813.txt : Stone Block with Chisel
+814.txt : Half Bell Tower Base
+815.txt : Unstable Bell Tower Base#1.2
+816.txt : Stable Bell Tower Base#1
+818.txt : Unstable Bell Tower Base#2.2 monumentStep
+819.txt : Unstable Bell Tower Base#2.1 monumentStep
+820.txt : Stable Bell Tower Base#2
+822.txt : Unstable Bell Tower Base#3.1 monumentStep
+823.txt : Unstable Bell Tower Base#3.2 monumentStep
+824.txt : Stable Bell Tower Base#3
+825.txt : Unstable Bell Tower Base#4.1 monumentStep
+826.txt : Unstable Bell Tower Base#4.2 monumentStep
+827.txt : Stable Bell Tower Base#4
+828.txt : Unstable Bell Tower Base#5.1 monumentStep
+829.txt : Unstable Bell Tower Base#5.2 monumentStep
+830.txt : Stable Bell Tower Base#5
+831.txt : Unstable Bell Tower Base#6.1 monumentStep
+832.txt : Unstable Bell Tower Base#6.2 monumentStep
+833.txt : Stable Bell Tower Base#6
+834.txt : Bell Tower Structure# monumentStep
+835.txt : Bell Tower# monumentDone
+836.txt : Tower Bell with Rope
+837.txt : Psilocybe Mushroom# remapStart
+838.txt : Wormless Soil Pit with Mushroom
+839.txt : Bell Tower# monumentCall
+840.txt : Stuck Bell Tower
+841.txt : Bell Tower# just rang
+842.txt : Bell Tower# ready to ring
+843.txt : Stone Block#justDug
+844.txt : Fruit Boot
+845.txt : Floppy Basket
+846.txt : Broken Hand Cart
+847.txt : Broken Skewer
+848.txt : Hardened Row
+849.txt : @ Row Tiller
+850.txt : Stone Hoe
+851.txt : Broken Stone Tool
+852.txt : Weak Skewer
+853.txt : @ Non-tilling Skewer
+854.txt : Hot Steel Hoe Blade#flat rock
+855.txt : Steel Hoe Blade
+856.txt : Steel Hoe Blade on Flat Rock
+857.txt : Steel Hoe
+858.txt : Broken Steel Tool
+859.txt : Broken Small Stone Tool
+860.txt : Broken Basket
+861.txt : Old Hand Cart
+862.txt : Broken Steel Tool# no wood
+863.txt : Broken Wood Tool
+864.txt : Rag Hat
+865.txt : Rag Shirt
+866.txt : Rag Loincloth
+869.txt : Rag Shoe
+870.txt : @ Decaying Hat
+871.txt : @ Decaying Shirt
+872.txt : @ Decaying Bottom
+873.txt : @ Decaying Shoe
+874.txt : Tattered Backpack
+875.txt : Wooden Door
+876.txt : Wooden Door# Installed
+877.txt : Wooden Door# installed vert
+878.txt : Open Wooden Door# installed
+879.txt : Open Wooden Door# installed vert
+880.txt : Big Stack of Boards
+881.txt : Cut Stones
+882.txt : Split Big Rock with Chisel
+883.txt : Cut Stones with Chisel
+884.txt : Stone Floor# groundOnly
+885.txt : Stone Wall
+886.txt : Stone Wall
+887.txt : Stone Wall
+888.txt : Bear Skin Rug# stone
+889.txt : Cracking Adobe Wall
+890.txt : Cracking Adobe Wall
+891.txt : Cracking Adobe Wall
+892.txt : Fixed Adobe Wall
+893.txt : Fixed Adobe Wall
+894.txt : Fixed Adobe Wall
+895.txt : Ancient Stone Wall
+896.txt : Ancient Stone Wall
+897.txt : Ancient Stone Wall
+898.txt : Ancient Stone Floor# groundOnly
+899.txt : Sheep Dung
+900.txt : Shovel of Dung
+901.txt : Wormy Hardened Row
+902.txt : Tilled Row with Worm
+903.txt : @ Tillable Row
+904.txt : Lock Blank
+905.txt : Lock Blank with Chisel
+906.txt : Steel Ingot with Chisel
+907.txt : Steel Blade Blank with Chisel
+908.txt : Lock and Key Parts
+910.txt : Lock and Key Parts with Chisel
+911.txt : Lock and Key Blank
+912.txt : Lock and Key $10
+917.txt : Key $10
+921.txt : Locked Wooden Door# $10
+922.txt : Locked Wooden Door# vert $10
+923.txt : Open Locked Wooden Door# vert $10
+924.txt : Open Locked Wooden Door# $10
+927.txt : Steel Blade Blank with Key $10
+928.txt : Duplicate Keys $10
+929.txt : @ Decaying Basket
+930.txt : Clump of Scrap Steel
+931.txt : @ Broken Steel Source
+932.txt : @ Weak Chisel Breaker
+933.txt : Fence# just closed
+934.txt : Fence Rail
+935.txt : Sapling with Cutting
+936.txt : Sapling Cutting
+937.txt : Dry Sapling Cutting
+938.txt : Wet Sapling Cutting
+939.txt : Domestic Sapling
+940.txt : Cut Domestic Sapling Skewer
+941.txt : Domestic Sapling with Cutting
+942.txt : Iron Vein
+943.txt : Iron Pit
+944.txt : Iron Mine
+945.txt : Collapsed Iron Mine
+946.txt : Letter Stock
+947.txt : Letter I
+948.txt : Hyphen
+949.txt : Letter V
+950.txt : Bendy Letter Stock
+951.txt : Letter U
+952.txt : Letter C
+953.txt : Letter O
+955.txt : Letter B
+956.txt : Letter A
+957.txt : Letter D
+958.txt : Letter T
+959.txt : Letter F
+960.txt : Letter E
+961.txt : Letter G
+962.txt : Letter H
+963.txt : Letter J
+964.txt : @ Fine Cutter
+965.txt : Letter K
+966.txt : Letter L
+967.txt : Letter W
+968.txt : Letter N
+969.txt : Letter M
+970.txt : Letter P
+971.txt : Letter R
+972.txt : Letter Q
+973.txt : Letter S
+974.txt : Letter X
+975.txt : Letter Y
+976.txt : Letter Z
+977.txt : Small Sign
+978.txt : Big Sign
+979.txt : Loose Small Sign
+980.txt : Loose Big Sign
+981.txt : Small Sign on Stone Wall
+982.txt : Big Sign on Stone Wall
+983.txt : Small Sign on Ancient Stone Wall
+984.txt : Big Sign on Ancient Stone Wall
+985.txt : @ Weak Froe Breaker
+986.txt : Open Wooden Chest
+987.txt : Closed Wooden Chest
+988.txt : Locked Wooden Chest# $10
+989.txt : Unlocked Wooden Chest# $10
+990.txt : Locked Small Sign# $10
+991.txt : Locked Big Sign# $10
+992.txt : Loose Locked Small Sign# $10
+993.txt : Loose Locked Big Sign# $10
+994.txt : Locked Small Sign on Stone Wall# $10
+995.txt : Locked Big Sign on Stone Wall# $10
+996.txt : Locked Small Sign on Ancient Stone Wall# $10
+997.txt : Locked Big Sign on Ancient Stone Wall# $10
+998.txt : @ Unlocked Sign
+999.txt : @ Locked Sign
+1000.txt : Lock and Key $10# removed
+1001.txt : @ Free Lock
+1002.txt : Duplicate Lock and Key $10
+1003.txt : Lock Removal Key $10
+1006.txt : Clay Bowl#bender
+1007.txt : Female009 D
+1008.txt : Male010 D
+1009.txt : Female011 C
+1010.txt : Male012 C
+1011.txt : Buried Grave# origGrave groundOnly
+1012.txt : Marked Grave# origGrave
+1013.txt : Wild Rose with Fruit
+1014.txt : Wild Rose# picked
+1015.txt : Wild Rose Hip
+1016.txt : Wild Rose Seed# pink
+1017.txt : Dry Planted Rose Seed# pink
+1018.txt : Wet Planted Rose Seed# pink
+1019.txt : Rose Sprout# pink
+1020.txt : Snow Bank
+1021.txt : Cold Bowl
+1022.txt : Cold Bowl with Rose Seed# pink
+1023.txt : Cold Bowl with Stratified Rose Seed# pink
+1024.txt : Stratified Rose Seed# pink
+1025.txt : Wild Rose Seed# red
+1026.txt : Wild Rose Seed# white
+1027.txt : Cold Bowl with Rose Seed# red
+1028.txt : Cold Bowl with Stratified Rose Seed# red
+1029.txt : Cold Bowl with Rose Seed# white
+1030.txt : Cold Bowl with Stratified Rose Seed# white
+1031.txt : Stratified Rose Seed# red
+1032.txt : Stratified Rose Seed# white
+1033.txt : Pink Rose Bush
+1034.txt : Dry Pink Rose Bush
+1035.txt : Vigorous Pink Rose Bush
+1036.txt : Pink Rose
+1037.txt : Rose Hip# pink
+1039.txt : Rose Seed# pink
+1040.txt : Rose Seed# red
+1041.txt : Rose Seed# white
+1042.txt : Dry Planted Rose Seed# red
+1043.txt : Wet Planted Rose Seed# red
+1044.txt : Rose Sprout# red
+1045.txt : Dry Planted Rose Seed# white
+1046.txt : Wet Planted Rose Seed# white
+1047.txt : Rose Sprout# white
+1051.txt : Red Rose
+1052.txt : White Rose
+1053.txt : Rose Hip# red
+1054.txt : Rose Hip# white
+1055.txt : Dry White Rose Bush
+1056.txt : Dry Red Rose Bush
+1057.txt : Vigorous Red Rose Bush
+1058.txt : Vigorous White Rose Bush
+1059.txt : Red Rose Bush
+1060.txt : White Rose Bush
+1061.txt : Cold Bowl# just inserted
+1062.txt : Marked Grave# origGrave mother
+1063.txt : Marked Grave# origGrave brother
+1064.txt : Marked Grave# origGrave sister
+1065.txt : Marked Grave# origGrave uncle
+1066.txt : Marked Grave# origGrave son
+1067.txt : Marked Grave# origGrave daughter
+1068.txt : Marked Grave# origGrave aunt
+1069.txt : Mother Template Grave# origGrave
+1070.txt : Mother Template Grave with Chisel# origGrave
+1071.txt : Marked Grave with Chisel# origGrave mother
+1072.txt : Marked Grave# origGrave just placed
+1073.txt : Double S
+1074.txt : Aunt Template Grave# origGrave
+1075.txt : Aunt Template Grave with Chisel# origGrave
+1077.txt : Marked Grave with Chisel# origGrave aunt
+1078.txt : Uncle Template Grave# origGrave
+1079.txt : Uncle Template Grave with Chisel# origGrave
+1080.txt : Marked Grave with Chisel# origGrave uncle
+1081.txt : Brother Template Grave# origGrave
+1082.txt : Brother Template Grave with Chisel# origGrave
+1083.txt : Marked Grave with Chisel# origGrave brother
+1084.txt : Sister Template Grave# origGrave
+1085.txt : Sister Template Grave with Chisel# origGrave
+1086.txt : Marked Grave with Chisel# origGrave sister
+1087.txt : Son Template Grave# origGrave
+1088.txt : Son Template Grave with Chisel# origGrave
+1089.txt : Marked Grave with Chisel# origGrave son
+1090.txt : Daughter Template Grave# origGrave
+1091.txt : Daughter Template Grave with Chisel# origGrave
+1092.txt : Marked Grave with Chisel# origGrave daughter
+1093.txt : Blue Rose
+1096.txt : Well Site# eveSecondaryLoc
+1097.txt : Full Deep Well
+1098.txt : Full Shallow Well
+1099.txt : Partial Bucket of Water
+1100.txt : Empty Bucket# just emptied
+1101.txt : Fertile Soil Pile
+1105.txt : @ Non Vigorous Gooseberry
+1106.txt : Dug Fertile Soil Pit#partial
+1107.txt : Teosinte
+1108.txt : Teosinte Seed Head
+1109.txt : Dry Planted Corn Seed
+1110.txt : Wet Planted Corn Seed
+1111.txt : Corn Sprout
+1112.txt : Corn Plant
+1113.txt : Ear of Corn
+1114.txt : Shucked Ear of Corn
+1115.txt : Dried Ear of Corn
+1117.txt : Straw Hat
+1118.txt : Dried Ear of Corn with Kernel
+1119.txt : Corn Kernel
+1120.txt : Bowl with Corn Cob
+1121.txt : Popcorn
+1122.txt : Popping Corn
+1123.txt : Bare Teosinte
+1125.txt : Ball of Thread
+1126.txt : Needle and Ball of Thread
+1127.txt : @ Hand Sew
+1128.txt : Dug Teosinte
+1129.txt : Snake-Bit Riding Horse# just died
+1130.txt : Snake-Bit Riding Horse# ground
+1132.txt : Tipped Horse-Drawn Cart# just tipped
+1133.txt : Tipped Horse-Drawn Cart# ground
+1134.txt : Vigorous Domestic Gooseberry Bush
+1135.txt : Empty Domestic Gooseberry Bush
+1136.txt : Shallow Tilled Row# groundOnly
+1137.txt : Bowl of Soil
+1138.txt : Fertile Soil
+1140.txt : Wild Potato
+1141.txt : Wild Potato Tubers
+1142.txt : Wet Planted Potatoes
+1143.txt : Potato Plants
+1144.txt : Mounded Potato Plants
+1145.txt : Dry Planted Potatoes
+1146.txt : Mature Potato Plants
+1147.txt : Raw Potato
+1148.txt : Baked Potato
+1149.txt : Half Baked Potato
+1150.txt : Dug Potato
+1152.txt : Potato in Water
+1153.txt : Sprouting Potato
+1154.txt : Sprouting Potato
+1155.txt : Split Potato Sprouts
+1156.txt : Raw Potato# just dug
+1157.txt : Wild Bean Plant
+1158.txt : Empty Wild Bean Plant
+1159.txt : Dug Wild Bean Plant
+1160.txt : Dry Bean Pod
+1161.txt : Dry Planted Beans
+1162.txt : Wet Planted Beans
+1163.txt : Bean Sprouts
+1172.txt : Dry Bean Plants
+1173.txt : Green Bean Plants
+1175.txt : Bowl of Green Beans
+1176.txt : Bowl of Dry Beans
+1177.txt : Dry Beans with Chaff
+1178.txt : Winnowed Dry Beans
+1179.txt : Bowl of Cleaned Dried Beans
+1180.txt : Bowl of Soaking Beans
+1181.txt : Bowl of Soaked Beans
+1183.txt : Wild Squash
+1184.txt : Wild Squash Plant
+1185.txt : Empty Wild Squash Plant
+1186.txt : Squash Seeds
+1188.txt : Dug Wild Squash Plant
+1189.txt : @ Pounder
+1190.txt : Wet Planted Squash Seed
+1191.txt : Squash Sprout
+1192.txt : Dry Planted Squash Seed
+1195.txt : Blooming Squash Plant
+1196.txt : Ripe Squash Plant
+1197.txt : Growing Squash Plant
+1198.txt : Cut Hubbard Squash
+1199.txt : Hubbard Squash
+1200.txt : Hubbard Squash On Plate
+1201.txt : Plate of Squash Chunks with Seeds
+1202.txt : Plate of Squash Chunks
+1203.txt : Wild Cabbage
+1204.txt : Dug Wild Cabbage
+1206.txt : Cabbage Seed
+1207.txt : Dry Planted Cabbage Seed
+1208.txt : Wet Planted Cabbage Seed
+1209.txt : Cabbage Sprout
+1210.txt : Ripe Cabbage Plant
+1211.txt : Cut Red Cabbage
+1212.txt : Red Cabbage
+1213.txt : Three Steel Blades
+1214.txt : Kraut Board
+1215.txt : Seeding Cabbage Plant
+1216.txt : Wet Clay Crock
+1217.txt : Clay Crock
+1218.txt : Wet Crock in Wooden Tongs
+1219.txt : Wooden Tongs with Fired Crock
+1220.txt : Crock with Kraut Board
+1221.txt : Stomper
+1222.txt : Shredded Cabbage
+1225.txt : Shredded Cabbage with Board
+1226.txt : Bowl of Salt Water
+1227.txt : @ Any Ice Hole
+1228.txt : Full Salt Water Pouch
+1230.txt : Ice Hole# water dumped
+1231.txt : Simmering Salt Water
+1232.txt : Dried Salt
+1233.txt : Ashes with Bowl of Salt
+1234.txt : Bowl of Salt
+1235.txt : Shredded Cabbage with Salt
+1236.txt : Stomped Fresh Sauerkraut
+1237.txt : Covered Fresh Sauerkraut
+1238.txt : Weighted Fresh Sauerkraut
+1239.txt : Fermented Sauerkraut
+1240.txt : Covered Fermented Sauerkraut
+1241.txt : Open Fermented Sauerkraut
+1242.txt : Bowl of Sauerkraut
+1243.txt : Crock with Squash
+1244.txt : Crock with Squash and Beans
+1245.txt : Dry Stew Pot
+1246.txt : Raw Stew Pot
+1247.txt : Bowl with Corn Kernels
+1248.txt : Cooking Three Sisters Stew
+1249.txt : Three Sisters Stew
+1250.txt : Empty Stew Pot
+1251.txt : Bowl of Stew
+1252.txt : Ice Hole# water dumped 2
+1253.txt : Squash Seed
+1254.txt : Weak Skewer# just dug
+1255.txt : Gosling
+1256.txt : Domestic Goose
+1260.txt : Goose Beheaded
+1261.txt : Canada Goose Pond with Egg
+1262.txt : Cold Goose Egg
+1263.txt : Dung Goose Egg Incubator
+1264.txt : Dung with Hatched Egg
+1265.txt : Dung with Hatched Gosling
+1266.txt : @ Dung Shovel Source
+1267.txt : Domestic Goose# held
+1268.txt : Goose On Stump
+1269.txt : Domestic Goose# Dropped
+1270.txt : Stump# goose just left
+1271.txt : Beheaded Goose On Stump
+1272.txt : Beheaded Goose
+1273.txt : Dead Goose
+1274.txt : Stump with Goose Head# just left
+1275.txt : Stump with Goose Head
+1277.txt : Domestic Goose with Corn
+1278.txt : Fed Domestic Goose
+1279.txt : Cold Goose Egg# just laid
+1280.txt : Hot Flat Rock
+1281.txt : Cooked Omelette
+1283.txt : Burned Omelette
+1284.txt : Cool Flat Rock
+1285.txt : Omelette
+1286.txt : Flat Rock with Wheat Dough
+1287.txt : Flat Rock with Masa Dough
+1288.txt : Flat Rock with Wheat Tortilla
+1289.txt : Raw Wheat Tortilla
+1290.txt : Cooked Wheat Tortilla
+1291.txt : Stack of Wheat Tortillas
+1292.txt : Bowl of Cooked Beans
+1293.txt : Stack of Bean Burritos
+1294.txt : Bean Burrito
+1295.txt : Cooked Wheat Tortilla# just cooked
+1296.txt : Stack of Bean Burritos# just Made
+1297.txt : Bowl of Slaked Lime
+1298.txt : Bowl of Corn in Lime Water
+1299.txt : Bowl of Limed Corn
+1300.txt : Bowl of Masa Dough
+1301.txt : Flat Rock with Corn Tortilla
+1302.txt : Raw Corn Tortilla
+1303.txt : Cooked Corn Tortilla# just cooked
+1304.txt : Cooked Corn Tortilla
+1305.txt : Stack of Corn Tortillas
+1307.txt : Stack of Bean Tacos
+1308.txt : Stack of Bean Tacos# just made
+1309.txt : Bean Taco
+1310.txt : Flat Rock with Wheat Tortilla# just made
+1311.txt : Flat Rock with Corn Tortilla# just made
+1312.txt : Bowl of Cabbage Seeds
+1313.txt : Bowl of Squash Seeds
+1314.txt : Toque Blanche
+1315.txt : White Apron
+1316.txt : Stack of Firewood
+1317.txt : Stack of Logs
+1318.txt : @ Young Stone Wall
+1321.txt : Old Wheelbarrow
+1322.txt : Broken Wheelbarrow
+1323.txt : Wild Boar
+1324.txt : Wild Piglet# held
+1325.txt : Domestic Pig
+1327.txt : Domestic Piglet
+1328.txt : Wild Boar with Piglet
+1329.txt : Shot Wild Boar with Piglet# arrow
+1330.txt : Shot Boar# arrow
+1331.txt : Shot Boar with Piglet# no arrow
+1332.txt : Dead Boar# no arrow
+1333.txt : Attacking Wild Boar
+1334.txt : Attacking Wild Boar with Piglet
+1335.txt : Fleeing Wild Piglet
+1336.txt : Hungry Wild Piglet
+1337.txt : Dead Wild Piglet
+1338.txt : Fed Wild Piglet
+1339.txt : Domestic Boar
+1340.txt : Butchered Pig
+1341.txt : Domestic Boar with Piglet
+1342.txt : Raw Pork
+1343.txt : Pig Bones
+1344.txt : Basket of Pig Bones
+1345.txt : Pig Bones#dumped
+1347.txt : Attacking Boar# domestic
+1348.txt : Attacking Boar with Piglet# domestic
+1349.txt : Hungry Domestic Piglet
+1350.txt : Dead Piglet
+1351.txt : Fed Domestic Piglet
+1352.txt : Dead Domestic Pig
+1353.txt : Domestic Pig with Piglet
+1354.txt : Bowl of Raw Pork
+1355.txt : Bowl of Carnitas
+1356.txt : Stack of Pork Tacos
+1357.txt : Stack of Pork Tacos# just made
+1358.txt : Pork Taco
+1359.txt : Fed Domestic Piglet# just fed
+1360.txt : Fed Wild Piglet# just fed
+1361.txt : Dirty Raw Corn Tortilla
+1362.txt : Dirty Raw Wheat Tortilla
+1363.txt : Bite Wound
+1364.txt : Hog Cut
+1365.txt : Embedded Arrowhead Wound
+1366.txt : Empty Arrow Wound
+1367.txt : Extracted Arrowhead Wound
+1368.txt : Sterilized Knife
+1369.txt : @ high heat source
+1370.txt : Headless Arrow# just pulled
+1371.txt : Flint Arrowhead# just removed
+1372.txt : Knife# surgery
+1373.txt : Bowl of Antivenom Blood
+1374.txt : Antivenom Knife
+1375.txt : Snake-Bit Horse with Blood Leak# ground
+1376.txt : Red Cross Apron
+1377.txt : Snake Bite
+1378.txt : Sterile Wool Pad
+1379.txt : Bloody Wool Pad
+1380.txt : Clean Knife Wound
+1381.txt : Clean Bite Wound
+1382.txt : Clean Arrow Wound
+1383.txt : Clean Hog Cut
+1384.txt : Clean Snake Bite
+1385.txt : Attacking Rattle Snake
+1386.txt : Bowl of Sterile Pads
+1387.txt : Dirty Wool Pad
+1388.txt : Knife# no longer sterile
+1389.txt : Sterile Wool Pad# just cleaned
+1390.txt : Tutorial Stone# tutorial 1
+1391.txt : Tutorial Stone# tutorial 2
+1392.txt : Tutorial Stone# tutorial 3
+1393.txt : Tutorial Stone# tutorial 99 done
+1394.txt : Tutorial Stone# tutorial 4
+1395.txt : Tutorial Stone# tutorial 5
+1398.txt : Tutorial Stone# tutorial 6
+1399.txt : Tutorial Stone# tutorial 7
+1400.txt : Tutorial Stone# tutorial 8
+1401.txt : Tutorial Stone# tutorial 9
+1402.txt : Tutorial Stone# tutorial 601
+1403.txt : Tutorial Stone# tutorial 10
+1404.txt : Tutorial Stone# tutorial 11
+1405.txt : Tutorial Stone# tutorial 12
+1406.txt : Tutorial Stone# tutorial 13
+1407.txt : Fire# Tut_only burns forever
+1408.txt : Tutorial Stone# tutorial 14
+1409.txt : Tutorial Stone# tutorial 15
+1410.txt : Tutorial Stone# tutorial 16
+1411.txt : Tutorial Stone# tutorial 17
+1412.txt : Tutorial Stone# tutorial 18
+1413.txt : Tutorial Stone# tutorial 19
+1414.txt : Tutorial Stone# tutorial 20
+1415.txt : Final Tutorial Torch
+1416.txt : Burning Tutorial Torch# tutorial 21 done
+1417.txt : Hot Coals# Tut_only burns forever
+1418.txt : Tutorial Stone# tutorial 1901
+1420.txt : Tutorial Stone# tutorial 1902
+1421.txt : Escaped Riding Horse# just released
+1422.txt : Escaped Horse-Drawn Cart# just released
+1423.txt : Bow Drill with Removed Tip
+1424.txt : Tutorial Stone# tutorial 22
+1425.txt : Tutorial Stone# tutorial 23
+1426.txt : Tutorial Stone# tutorial 24
+1427.txt : Tutorial Stone# tutorial 25
+1428.txt : Tutorial Stone# tutorial 26
+1429.txt : Tutorial Stone# tutorial 27
+1435.txt : Bison
+1436.txt : Bison with Calf
+1437.txt : Bison Calf
+1438.txt : Shot Bison
+1440.txt : Shot Bison with Calf
+1441.txt : Dead Bison with Calf#arrow 2
+1442.txt : Dead Bison#arrow 2
+1443.txt : Dead Bison with Calf#arrow 1
+1444.txt : Dead Bison#arrow 1
+1445.txt : Dead Bison with Calf
+1446.txt : Dead Bison
+1447.txt : Domestic Bison
+1448.txt : Bison Calf#rope
+1450.txt : Domestic Bison with Calf
+1454.txt : Domestic Cow with Calf
+1458.txt : Domestic Cow
+1459.txt : Domestic Calf
+1461.txt : Hungry Bison Calf
+1462.txt : Hungry Domestic Calf
+1463.txt : Bowl of Whole Milk
+1464.txt : Bowl of Cream
+1465.txt : Bowl of Butter
+1466.txt : Bowl of Leavened Dough 
+1467.txt : Butter Knife
+1468.txt : Leavened Dough on Clay Plate
+1469.txt : Raw Bread Loaf
+1470.txt : Baked Bread
+1471.txt : Sliced Bread
+1473.txt : Buttered Bread on Clay Plate
+1474.txt : Bread Slice on Clay Plate
+1476.txt : Slice of Bread
+1478.txt : Full Bucket of Milk
+1479.txt : Partial Bucket of Milk
+1480.txt : Bucket of Separated Milk
+1481.txt : Bowl of Skim Milk
+1483.txt : Partial Bucket of Skim Milk
+1484.txt : Fed Bison Calf
+1485.txt : Fed Domestic Calf
+1486.txt : Dead Bison Calf
+1487.txt : Dead Domestic Calf
+1488.txt : Fed Domestic Cow
+1489.txt : Milk Cow
+1491.txt : Full Bucket of Milk#just refilled
+1492.txt : Dry Milk Cow
+1493.txt : Milk Cow#justDrank
+1510.txt : South Track End
+1511.txt : North Track End
+1512.txt : East West Track
+1513.txt : North South Track
+1514.txt : West Track End
+1515.txt : East Track End
+1521.txt : Track Cart# moving North
+1522.txt : Track Cart#moving East
+1524.txt : Hot Steel Spring in Wooden Tongs
+1525.txt : Hot Steel Blade in Wooden Tongs
+1526.txt : Cool Steel Blade in Wooden Tongs
+1527.txt : Soft Steel Spring in Wooden Tongs
+1528.txt : Quenching Spring Steel
+1529.txt : Quenched Spring Steel
+1530.txt : Track Kit
+1531.txt : East Track End Stakes
+1532.txt : West Track End Stakes
+1533.txt : North Track End Stakes
+1534.txt : South Track End Stakes
+1539.txt : Quenched Steel Spring in Wooden Tongs
+1540.txt : Tempered Steel Spring in Wooden Tongs
+1541.txt : Steel Spring
+1542.txt : Quenched Steel Spring
+1543.txt : Soft Steel Spring
+1544.txt : Partial Track Cart Kit#1 wheel
+1545.txt : Partial Track Cart Kit#2 wheel
+1546.txt : Partial Track Cart Kit#3 wheel
+1547.txt : Partial Track Cart Kit#4 wheel
+1548.txt : Track Cart Kit
+1550.txt : West Track End with Cart
+1551.txt : East Track End with Cart
+1552.txt : West Track End with Cart#built
+1553.txt : East Track End with Cart#built
+1554.txt : East Track End with Wound Cart
+1555.txt : West Track End with Wound Cart
+1556.txt : East West Track with Cart#movingWest
+1557.txt : East West Track with Cart#movingEast
+1567.txt : Track Cart#moving West
+1568.txt : Track Cart#moving East left end
+1569.txt : Track Cart#moving West left end
+1571.txt : Track Cart# moving South
+1572.txt : Track Cart# moving South left end
+1573.txt : Track Cart# moving North left end
+1574.txt : North Track End with Cart
+1575.txt : North Track End with Cart#built
+1576.txt : North Track End with Wound Cart
+1577.txt : South Track End with Cart
+1578.txt : South Track End with Cart#built
+1579.txt : South Track End with Wound Cart
+1580.txt : North South Track with Cart# moving South
+1581.txt : North South Track with Cart# moving North
+1582.txt : Derailed Cart
+1583.txt : Cross Track
+1584.txt : Cross Track with Cart# moving North
+1585.txt : Cross Track with Cart# moving South
+1586.txt : Cross Track with Cart#movingEast
+1587.txt : Cross Track with Cart#movingWest
+1588.txt : Track Cart# moving North left cross
+1589.txt : Track Cart# moving South left cross
+1590.txt : Track Cart#moving West left cross
+1591.txt : Track Cart#moving East left cross
+1592.txt : Partial Track Cart Kit#3 wheel remade
+1593.txt : Hot Steel Spring in Wooden Tongs#justBent
+1594.txt : @ Diggable Track
+1595.txt : Track Kit# just dug
+1596.txt : Stone Road
+1597.txt : @ Moving Cart
+1598.txt : Iron Ore Pile
+1599.txt : Kindling Pile
+1600.txt : @ Pile
+1601.txt : @ Pile Element
+1602.txt : Stack of Clay Plates
+1603.txt : Stack of Clay Bowls
+1605.txt : Stack of Baskets
+1606.txt : Flat Rock with Wood Pulp
+1607.txt : Flat Rock with Spread Wood Pulp
+1608.txt : Pressed Wood Pulp
+1609.txt : Flat Rock with Paper
+1610.txt : Wood Shavings in Simmering Water
+1611.txt : Bowl of Wood Shavings in Water
+1612.txt : Ashes with Bowl of Cooked Wood Shavings
+1613.txt : Bowl of Wood Pulp
+1614.txt : Bowl of Cooked Wood Shavings
+1615.txt : Paper with Charcoal Writing# &written
+1616.txt : Blank Paper with Charcoal# &writable
+1617.txt : Charcoal Pencil
+1618.txt : Written Paper# &written
+1619.txt : Blank Paper
+1620.txt : Wood Shavings
+1621.txt : Written Paper# writing happening &written
+1622.txt : Cooked Wood Shavings on Hot Coals
+1624.txt : Bow and Arrow with Note# &written
+1625.txt : Note Arrow Wound# &written
+1626.txt : Arrow with Note# &written
+1627.txt : Bloody Note# &written
+1628.txt : Female013 F
+1629.txt : Male014 A
+1630.txt : Semi-tame Wolf
+1631.txt : Semi-tame Wolf with Puppies#3
+1632.txt : Wolf Puppy#1
+1633.txt : German Shepherd Puppy
+1634.txt : Collie Puppy
+1635.txt : Semi-tame Wolf with Puppies#2
+1636.txt : Semi-tame Wolf with Puppy#1
+1637.txt : Wolf Puppy#1 held
+1638.txt : German Shepherd Puppy# held
+1639.txt : Collie Puppy# held
+1640.txt : Semi-tame Wolf# just fed
+1641.txt : @ Deadly Wolf
+1642.txt : Semi-tame Wolf# pregnant
+1643.txt : Pit Bull Puppy
+1644.txt : Pit Bull Puppy# held
+1645.txt : Beagle Puppy
+1646.txt : Beagle Puppy# held
+1647.txt : Airedale Puppy
+1648.txt : Airedale Puppy# held
+1649.txt : Poodle Puppy
+1650.txt : Poodle Puppy# held
+1651.txt : Schnauser Puppy
+1652.txt : Schnauser Puppy# held
+1653.txt : Dachshund Puppy
+1654.txt : Dachshund Puppy# held
+1655.txt : Chihuahua Puppy
+1656.txt : Chihuahua Puppy# held
+1657.txt : Collie
+1658.txt : German Shepherd
+1659.txt : Pit Bull
+1660.txt : Beagle
+1661.txt : Airedale
+1662.txt : Poodle
+1663.txt : Dachshund
+1664.txt : Schnauser
+1665.txt : Chihuahua
+1667.txt : Collie# pregnant
+1668.txt : German Shepherd# pregnant
+1669.txt : Pit Bull# pregnant
+1670.txt : Beagle# pregnant
+1671.txt : Airedale# pregnant
+1672.txt : Poodle# pregnant
+1673.txt : Dachshund# pregnant
+1674.txt : Schnauser# pregnant
+1675.txt : Chihuahua# pregnant
+1676.txt : Collie# just fed
+1677.txt : German Shepherd# just fed
+1678.txt : Pit Bull# just fed
+1679.txt : Beagle# just fed
+1680.txt : Airedale# just fed
+1681.txt : Poodle# just fed
+1682.txt : Dachshund# just fed
+1683.txt : Schnauser# just fed
+1684.txt : Chihuahua# just fed
+1685.txt : German Shepherd with Puppies#3
+1686.txt : Collie with Puppies#3
+1687.txt : Pit Bull with Puppies#3
+1688.txt : Beagle with Puppies#3
+1689.txt : Airedale with Puppies#3
+1690.txt : Poodle with Puppies#3
+1691.txt : Dachshund with Puppies#3
+1692.txt : Schnauser with Puppies#3
+1693.txt : Chihuahua with Puppies#3
+1694.txt : German Shepherd with Puppies#2
+1695.txt : German Shepherd with Puppy#1
+1696.txt : Collie with Puppies#2
+1697.txt : Collie with Puppy#1
+1698.txt : Pit Bull with Puppies#2
+1699.txt : Pit Bull with Puppy#1
+1700.txt : Beagle with Puppies#2
+1701.txt : Beagle with Puppy#1
+1702.txt : Airedale with Puppies#2
+1703.txt : Airedale with Puppy#1
+1704.txt : Dachshund with Puppies#2
+1705.txt : Dachshund with Puppy#1
+1706.txt : Schnauser with Puppies#2
+1707.txt : Schnauser with Puppy#1
+1708.txt : Chihuahua with Puppies#2
+1709.txt : Chihuahua with Puppy#1
+1710.txt : Poodle with Puppies#2
+1711.txt : Poodle with Puppy#1
+1712.txt : Attacking Pit Bull
+1713.txt : Shot Pit Bull
+1714.txt : @ Pit Bull
+1715.txt : Shot Pit Bull# no arrow
+1716.txt : Hungry German Shepherd Puppy
+1717.txt : Hungry Poodle Puppy# held
+1718.txt : Hungry Airedale Puppy# held
+1719.txt : Hungry Schnauser Puppy# held
+1720.txt : Hungry Pit Bull Puppy# held
+1721.txt : Hungry Collie Puppy# held
+1722.txt : Hungry Chihuahua Puppy# held
+1723.txt : Hungry Beagle Puppy# held
+1724.txt : Hungry German Shepherd Puppy# held
+1725.txt : Hungry Dachshund Puppy# held
+1726.txt : Hungry Wolf Puppy#1 held
+1727.txt : Hungry Wolf Puppy#1
+1728.txt : Hungry Collie Puppy
+1729.txt : Hungry Pit Bull Puppy
+1730.txt : Hungry Beagle Puppy
+1731.txt : Hungry Airedale Puppy
+1732.txt : Hungry Poodle Puppy
+1733.txt : Hungry Schnauser Puppy
+1734.txt : Hungry Dachshund Puppy
+1735.txt : Hungry Chihuahua Puppy
+1736.txt : Dead Wolf Puppy#1
+1737.txt : Dead German Shepherd Puppy
+1738.txt : Dead Collie Puppy
+1739.txt : Dead Pit Bull Puppy
+1740.txt : Dead Beagle Puppy
+1741.txt : Dead Airedale Puppy
+1742.txt : Dead Poodle Puppy
+1743.txt : Dead Schnauser Puppy
+1744.txt : Dead Dachshund Puppy
+1745.txt : Dead Chihuahua Puppy
+1747.txt : Mean Pit Bull
+1748.txt : Old Semi-tame Wolf
+1749.txt : Old German Shepherd
+1750.txt : Old Pit Bull
+1752.txt : Old Beagle
+1753.txt : Old Airedale
+1754.txt : Old Poodle
+1755.txt : Old Dachshund
+1756.txt : Old Schnauser
+1757.txt : Old Chihuahua
+1758.txt : Old Collie
+1759.txt : Dying German Shepherd
+1760.txt : Dying Collie
+1761.txt : Dying Semi-tame Wolf
+1762.txt : Dying Pit Bull
+1763.txt : Dying Beagle
+1764.txt : Dying Airedale
+1765.txt : Dying Poodle
+1766.txt : Dying Dachshund
+1767.txt : Dying Schnauser
+1768.txt : Dying Chihuahua
+1769.txt : Dead German Shepherd
+1770.txt : Dead Collie
+1771.txt : Dead Semi-tame Wolf
+1772.txt : Dead Pit Bull
+1773.txt : Dead Beagle
+1774.txt : Dead Airedale
+1775.txt : Dead Poodle
+1776.txt : Dead Dachshund
+1777.txt : Dead Schnauser
+1778.txt : Dead Chihuahua
+1779.txt : Wolf Puppy#1 just fed
+1780.txt : German Shepherd Puppy# just fed
+1781.txt : Collie Puppy# just fed
+1782.txt : Pit Bull Puppy# just fed
+1783.txt : Beagle Puppy# just fed
+1784.txt : Airedale Puppy# just fed
+1785.txt : Poodle Puppy# just fed
+1786.txt : Schnauser Puppy# just fed
+1787.txt : Dachshund Puppy# just fed
+1788.txt : Chihuahua Puppy# just fed
+1789.txt : Abused Pit Bull
+1790.txt : Dry Maple Sapling Cutting
+1791.txt : Dry Poplar Sapling Cutting
+1792.txt : Wet Maple Sapling Cutting
+1793.txt : Wet Poplar Sapling Cutting
+1794.txt : Maple Tree Cutting
+1795.txt : Poplar Tree Cutting
+1796.txt : Pine Tree Cutting
+1797.txt : Yew Tree Cutting
+1798.txt : Dry Yew Sapling Cutting
+1799.txt : Dry Pine Sapling Cutting
+1800.txt : Wet Yew Sapling Cutting
+1801.txt : Wet Pine Sapling Cutting
+1802.txt : Dry Maple Sapling
+1803.txt : Dry Poplar Sapling
+1804.txt : Dry Pine Sapling
+1805.txt : Dry Yew Sapling
+1806.txt : Wet Maple Sapling
+1807.txt : Wet Yew Sapling
+1808.txt : Wet Pine Sapling
+1809.txt : Wet Poplar Sapling
+1810.txt : Dry Yew Cutting in Bowl
+1811.txt : Wet Yew Cutting in Bowl
+1812.txt : Dead Young Yew Bonsai
+1813.txt : Dry Yew Sapling in Bowl
+1814.txt : Dry Young Yew Bonsai in Bowl
+1815.txt : Wet Young Yew Bonsai in Bowl
+1816.txt : Overgrown Yew Bonsai in Bowl
+1817.txt : Dead Yew Bonsai
+1818.txt : Dry Pruned Yew Bonsai
+1819.txt : Wet Pruned Yew Bonsai
+1820.txt : Dry Old Yew Bonsai
+1821.txt : Wet Old Yew Bonsai
+1822.txt : Overgrown Old Yew Bonsai
+1823.txt : Dry Pruned Old Yew Bonsai
+1825.txt : Dry Ancient Yew Bonsai
+1826.txt : Wet Pruned Old Yew Bonsai
+1827.txt : Wet Ancient Yew Bonsai
+1828.txt : Dead Sapling
+1829.txt : Shears with Maple Cutting
+1830.txt : Shears with Poplar Cutting
+1831.txt : Shears with Yew Cutting
+1832.txt : Shears with Pine Cutting
+1833.txt : Dead Bonsai
+1834.txt : Dead Bonsai out of Bowl
+1835.txt : Stack of Blank Paper
+1836.txt : Stack of Flat Rocks
+1837.txt : Stack of Steel Ingots
+1839.txt : Anger Brows
+1840.txt : Anger Mouth
+1841.txt : Sad Brows
+1842.txt : Sad Mouth
+1843.txt : Happy Mouth
+1844.txt : Blush
+1845.txt : Loose Fence
+1846.txt : Loose Fence
+1847.txt : Loose Fence
+1848.txt : Stack of Floppy Baskets
+1849.txt : Buried Grave with Dug Stone# origGrave
+1850.txt : Kindling Pile# just chopped
+1851.txt : Fence Gate
+1852.txt : Fence with Dislodged Shaft
+1853.txt : Cut Stones#just removed
+1854.txt : Flat Rock#just removed
+1855.txt : Cut Stones with Bear Skin
+1856.txt : Domestic Piglet# held
+1857.txt : Hungry Domestic Piglet# held
+1858.txt : Hungry Wild Piglet# held
+1859.txt : Stone Wall with Board Stack
+1860.txt : Stone Wall with Boards
+1861.txt : Deep Well# was empty
+1862.txt : Shallow Well# was empty
+1863.txt : Domestic Calf# rope
+1864.txt : Domestic Calf with Rope
+1865.txt : Dumped Wheat Bowl
+1866.txt : @ Bowl Flipper
+1868.txt : Dry Mango Sapling Cutting
+1869.txt : Wet Mango Sapling Cutting
+1870.txt : Shears with Mango Cutting
+1871.txt : Mango Tree Cutting
+1872.txt : Dry Mango Sapling
+1873.txt : Wet Mango Sapling
+1874.txt : Wild Mango Tree
+1875.txt : Fruiting Domestic Mango Tree
+1876.txt : Languishing Domestic Mango Tree
+1877.txt : Mango
+1878.txt : Mango Leaf
+1879.txt : Mango on a Plate
+1880.txt : Mango Slices
+1883.txt : Plaster Wall
+1884.txt : Plaster Wall
+1885.txt : Plaster Wall
+1886.txt : Adobe Wall# just deplastered
+1887.txt : Adobe Wall# just deplastered
+1888.txt : Adobe Wall# just deplastered
+1890.txt : Lapis Lazuli
+1891.txt : Cinnabar
+1892.txt : Bowl of Lapis Lazuli
+1893.txt : Bowl of Cinnabar
+1894.txt : Bowl of Ultramarine Pigment
+1895.txt : Bowl of Vermilion Pigment
+1896.txt : Urushiol Poisoned Cow
+1897.txt : Bowl of Indian Yellow Pigment
+1898.txt : Bowl of Mango-Infused Cow Urine
+1900.txt : Dead Cow
+1903.txt : Bucket of Milk Paint
+1904.txt : Bucket of Blue Paint
+1905.txt : Bucket of Red Paint
+1906.txt : Bucket of Yellow Paint
+1907.txt : Blue Plaster Wall
+1908.txt : Blue Plaster Wall
+1909.txt : Blue Plaster Wall
+1910.txt : Red Plaster Wall
+1911.txt : Red Plaster Wall
+1912.txt : Red Plaster Wall
+1913.txt : Yellow Plaster Wall
+1914.txt : Yellow Plaster Wall
+1915.txt : Yellow Plaster Wall
+1919.txt : Dehydrated Urushiol Poisoned Cow
+1920.txt : Baby Bones# fromDeath
+1922.txt : Dry Fertile Domestic Mango Tree
+1923.txt : Wet Fertile Domestic Mango Tree
+1924.txt : @ Leaf-source Mango Tree
+1925.txt : @ Cutting-source Mango Tree
+1927.txt : Tule Stumps with Basket
+1928.txt : Tutorial Stone# tutorial 1921
+1929.txt : Tutorial Stone# tutorial 28
+1930.txt : Twenty Minute Wooden Door# Installed
+1931.txt : Twenty Minute Barricade
+1932.txt : Tutorial Stone# tutorial 29
+1933.txt : Tutorial Stone# tutorial 30
+1934.txt : Tutorial Stone# tutorial 31
+1935.txt : Tutorial Stone# tutorial 32
+1936.txt : Tutorial Stone# tutorial 33
+1937.txt : Tutorial Stone# tutorial 34
+1938.txt : Smooth Ground
+1939.txt : Unknown Card
+1941.txt : Ace of Clubs
+1942.txt : Two of Clubs
+1943.txt : Three of Clubs
+1944.txt : Four of Clubs
+1945.txt : Five of Clubs
+1947.txt : Deck of Cards
+1948.txt : Revealed Card
+1949.txt : @ Any Card
+1950.txt : Hidden Card# A of Clubs
+1951.txt : Hidden Card# 2 of Clubs
+1952.txt : Hidden Card# 3 of Clubs
+1953.txt : Hidden Card# 4 of Clubs
+1954.txt : Hidden Card# 5 of Clubs
+1955.txt : Last Card
+1956.txt : Die
+1958.txt : Die Roll of One
+1959.txt : Die Roll of Two
+1960.txt : Die Roll of Three
+1961.txt : Die Roll of Four
+1962.txt : Die Roll of Five
+1963.txt : Die Roll of Six
+1965.txt : Rolling Die
+1966.txt : Random Die Roll
+1967.txt : @ Rolled Die
+1968.txt : Rolling Dice
+1969.txt : Dice Roll of Two# 1 1
+1970.txt : Dice Roll of Four# 1 3
+1971.txt : Dice Roll of Five# 1 4
+1972.txt : Dice Roll of Three# 1 2
+1973.txt : Dice Roll of Six# 1 5
+1974.txt : Dice Roll of Seven# 1 6
+1975.txt : Random Dice Roll
+1976.txt : @ Rolled Dice
+1977.txt : Dice Roll of Four# 2 2
+1978.txt : Dice Roll of Five# 2 3
+1979.txt : Dice Roll of Six# 2 4
+1980.txt : Dice Roll of Seven# 2 5
+1981.txt : Dice Roll of Eight# 2 6
+1982.txt : Dice Roll of Six# 3 3
+1983.txt : Dice Roll of Seven# 3 4
+1984.txt : Dice Roll of Eight# 3 5
+1985.txt : Dice Roll of Nine# 3 6
+1986.txt : Dice Roll of Nine# 4 5
+1987.txt : Dice Roll of Ten# 4 6
+1988.txt : Dice Roll of Eight# 4 4
+1989.txt : Dice Roll of Ten# 5 5
+1990.txt : Dice Roll of Eleven# 5 6
+1991.txt : Dice Roll of Twelve# 6 6
+1993.txt : Dice in Bowl
+1994.txt : Die in Bowl
+1995.txt : Six of Clubs
+1996.txt : Seven of Clubs
+1997.txt : Eight of Clubs
+1998.txt : Nine of Clubs
+1999.txt : Ten of Clubs
+2000.txt : Jack of Clubs
+2001.txt : Queen of Clubs
+2002.txt : King of Clubs
+2003.txt : Ace of Spades
+2004.txt : Two of Spades
+2005.txt : Three of Spades
+2006.txt : Four of Spades
+2007.txt : Five of Spades
+2008.txt : Six of Spades
+2009.txt : Seven of Spades
+2010.txt : Eight of Spades
+2011.txt : Nine of Spades
+2012.txt : Ten of Spades
+2013.txt : Jack of Spades
+2014.txt : Queen of Spades
+2015.txt : King of Spades
+2016.txt : Ace of Hearts
+2017.txt : Two of Hearts
+2018.txt : Three of Hearts
+2019.txt : Four of Hearts
+2020.txt : Five of Hearts
+2021.txt : Six of Hearts
+2022.txt : Seven of Hearts
+2023.txt : Eight of Hearts
+2024.txt : Nine of Hearts
+2025.txt : Ten of Hearts
+2026.txt : Jack of Hearts
+2027.txt : Queen of Hearts
+2028.txt : King of Hearts
+2029.txt : Ace of Diamonds
+2030.txt : Two of Diamonds
+2031.txt : Three of Diamonds
+2032.txt : Four of Diamonds
+2033.txt : Five of Diamonds
+2034.txt : Six of Diamonds
+2035.txt : Seven of Diamonds
+2036.txt : Eight of Diamonds
+2037.txt : Nine of Diamonds
+2038.txt : Ten of Diamonds
+2039.txt : Jack of Diamonds
+2040.txt : Queen of Diamonds
+2041.txt : King of Diamonds
+2042.txt : Hidden Card# 6 of Clubs
+2043.txt : Hidden Card# 7 of Clubs
+2044.txt : Hidden Card# 8 of Clubs
+2045.txt : Hidden Card# 9 of Clubs
+2046.txt : Hidden Card# 10 of Clubs
+2047.txt : Hidden Card# J of Clubs
+2048.txt : Hidden Card# Q of Clubs
+2049.txt : Hidden Card# K of Clubs
+2050.txt : Hidden Card# A of Spades
+2051.txt : Hidden Card# 2 of Spades
+2052.txt : Hidden Card# 3 of Spades
+2053.txt : Hidden Card# 4 of Spades
+2054.txt : Hidden Card# 5 of Spades
+2055.txt : Hidden Card# 6 of Spades
+2056.txt : Hidden Card# 7 of Spades
+2057.txt : Hidden Card# 8 of Spades
+2058.txt : Hidden Card# 9 of Spades
+2059.txt : Hidden Card# 10 of Spades
+2060.txt : Hidden Card# J of Spades
+2061.txt : Hidden Card# Q of Spades
+2062.txt : Hidden Card# K of Spades
+2063.txt : Hidden Card# A of Hearts
+2064.txt : Hidden Card# 2 of Hearts
+2065.txt : Hidden Card# 3 of Hearts
+2066.txt : Hidden Card# 4 of Hearts
+2067.txt : Hidden Card# 5 of Hearts
+2068.txt : Hidden Card# 6 of Hearts
+2069.txt : Hidden Card# 7 of Hearts
+2070.txt : Hidden Card# 8 of Hearts
+2071.txt : Hidden Card# 9 of Hearts
+2072.txt : Hidden Card# 10 of Hearts
+2073.txt : Hidden Card# J of Hearts
+2074.txt : Hidden Card# Q of Hearts
+2075.txt : Hidden Card# K of Hearts
+2076.txt : Hidden Card# A of Diamonds
+2077.txt : Hidden Card# 2 of Diamonds
+2078.txt : Hidden Card# 3 of Diamonds
+2079.txt : Hidden Card# 4 of Diamonds
+2080.txt : Hidden Card# 5 of Diamonds
+2081.txt : Hidden Card# 6 of Diamonds
+2082.txt : Hidden Card# 7 of Diamonds
+2083.txt : Hidden Card# 8 of Diamonds
+2084.txt : Hidden Card# 9 of Diamonds
+2085.txt : Hidden Card# 10 of Diamonds
+2086.txt : Hidden Card# J of Diamonds
+2087.txt : Hidden Card# Q of Diamonds
+2088.txt : Hidden Card# K of Diamonds
+2090.txt : Bound Deck of Cards
+2091.txt : Fishing Pole
+2092.txt : Fishing Pole without Hook
+2093.txt : @ Thorn Source
+2094.txt : Baited Fishing Pole
+2095.txt : Perhaps a Fish
+2096.txt : Arctic Char
+2097.txt : Fishing Pole with Char# just caught
+2098.txt : Fishing Pole with Old Boot
+2099.txt : Old Boot
+2100.txt : Fishing Pole with Char
+2101.txt : Cast Fishing Pole
+2102.txt : Arctic Char# alive
+2103.txt : Skewered Fish
+2104.txt : Cooked Fish
+2105.txt : Burnt Fish
+2106.txt : Cooked Fish
+2107.txt : Fish Bones
+2108.txt : Burnt Fish
+2109.txt : Wet Blank Die
+2110.txt : Clay with Nozzle
+2111.txt : Wet Die in Wooden Tongs
+2112.txt : Fired Die in Wooden Tongs
+2113.txt : Blank Die
+2114.txt : Blank Card Stack
+2115.txt : Deck of Blank Cards
+2116.txt : Deck of Cards with No Red
+2117.txt : Deck of Damp Cards
+2118.txt : Deck of Cards with No Black
+2119.txt : Tutorial Stone# tutorial 1201
+2120.txt : Tutorial Stone# tutorial 1202
+2121.txt : Bowl of Corn Seeds
+2122.txt : @ Seed Bowl
+2123.txt : Stack of Wrought Iron
+2124.txt : Full Bucket of Skim Milk
+2125.txt : Full Bucket of Skim Milk#just refilled
+2126.txt : Track Kit with Separated Blade
+2127.txt : Full Bucket of Salt Water
+2128.txt : Partial Bucket of Salt Water
+2129.txt : @ Any Crown
+2130.txt : Gold Ingot# just hammered
+2135.txt : Rubber Tree
+2136.txt : Slashed Rubber Tree
+2137.txt : Slashed Rubber Tree with Bucket
+2138.txt : Bowl of Sulfur
+2140.txt : Hot Spring
+2141.txt : Oil Palm
+2142.txt : Banana Tree
+2143.txt : Banana
+2144.txt : Banana Peel
+2145.txt : Empty Banana Tree
+2146.txt : Bowl of Palm Kernels
+2147.txt : Bowl of Roasted Palm Kernels
+2148.txt : Bowl of Crushed Palm Kernels
+2149.txt : Bowl of Separating Palm Oil
+2150.txt : Bowl of Soaking Palm Kernels
+2151.txt : Bowl of Palm Oil
+2152.txt : Empty Oil Palm
+2153.txt : Jaundice Head
+2154.txt : Jaundice Body
+2155.txt : Yellow Fever# sick emot_7_35  food_0.3 fever_15
+2156.txt : Mosquito Swarm
+2157.txt : Mosquito Swarm#just bit
+2158.txt : Slashed Rubber Tree with Full Bucket
+2159.txt : Rubber Tree with Sealed Slash
+2160.txt : Bucket of Liquid Latex
+2161.txt : Bucket of Coagulated Latex
+2162.txt : Bucket of Sulfured Latex
+2163.txt : Bucket of Oiled and Sulfured Latex
+2164.txt : Bucket of Rubber Dough
+2165.txt : Bowl with Raw Rubber Ball
+2166.txt : Raw Rubber Tire
+2167.txt : Bowl with Vulcanized Rubber Ball
+2168.txt : Vulcanized Rubber Tire
+2169.txt : Two Rubber Tires
+2170.txt : Rubber Ball# held
+2171.txt : Rubber Ball# bouncing
+2172.txt : Hand Cart with Tires
+2173.txt : Sulfur-Free Hot Spring
+2174.txt : Turkey
+2175.txt : Turkey# just poked
+2176.txt : Shot Turkey# with Arrow
+2177.txt : Shot Turkey# no arrow
+2178.txt : Turkey Feather
+2179.txt : Shot Turkey# no feathers
+2180.txt : Rabbit Fur Hat with Feather
+2181.txt : Straw Hat with Feather
+2182.txt : Plucked Turkey
+2183.txt : Plucked Turkey on Plate
+2184.txt : Roasting Turkey
+2185.txt : Cooked Turkey
+2186.txt : Cooked Turkey on Plate
+2187.txt : Carved Turkey on Plate
+2188.txt : Drum Sticks on Plate
+2189.txt : Turkey Carcass on Plate
+2190.txt : Turkey Slice on Plate
+2191.txt : Turkey Drumstick
+2192.txt : Turkey Leg Bone
+2193.txt : Drum Stick on Plate
+2194.txt : Crock with Turkey Bones
+2195.txt : Soaking Turkey Bones
+2196.txt : Cooking Turkey Broth
+2197.txt : Turkey Broth
+2198.txt : Bowl of Turkey Broth
+2200.txt : Turkey Bones on Plate
+2201.txt : Partial Turkey Bones on Plate
+2202.txt : Hot Wrought Iron#flat rock
+2204.txt : Hot Piston#flat rock
+2205.txt : Hot Cylinder#flat rock
+2206.txt : Hot Boiler#flat rock
+2208.txt : Boiler on Flat Rock
+2209.txt : Crude Piston on Flat Rock
+2210.txt : Crude Cylinder on Flat Rock
+2211.txt : Crude Cylinder
+2212.txt : Crude Piston
+2213.txt : Boiler
+2214.txt : Two Curved Shafts
+2215.txt : Pump Beam Kit
+2216.txt : Hot Wrought Iron
+2217.txt : Hot Wrought Iron in Wooden Tongs
+2218.txt : Wooden Tongs#cool wrought iron
+2219.txt : Crude Piston with Seal
+2220.txt : Dry Newcomen Pump
+2221.txt : Newcomen Pump with Full Boiler
+2222.txt : Newcomen Pump with Charcoal
+2224.txt : Firing Newcomen Pump
+2226.txt : Newcomen Pump without Rope
+2227.txt : Boiler with Cylinder
+2228.txt : Newcomen Atmospheric Core
+2229.txt : Newcomen Pump Tower
+2230.txt : Newcomen Tower
+2231.txt : Newcomen Tower Foundation# 3
+2232.txt : Newcomen Tower Foundation# 2
+2233.txt : Newcomen Tower Foundation# 1
+2234.txt : Wet Newcomen Pump
+2235.txt : Tutorial Stone# tutorial 2701
+2236.txt : Tutorial Stone# tutorial 2201
+2238.txt : Firing Newcomen Hammer
+2239.txt : Newcomen Tower Stakes
+2240.txt : Newcomen Hammer
+2241.txt : Newcomen Hammer with Full Boiler
+2242.txt : Newcomen Hammer with Charcoal
+2243.txt : Multipurpose Newcomen Engine
+2244.txt : Newcomen Engine without Shaft
+2245.txt : Newcomen Engine without Rope
+2246.txt : Newcomen Engine Tower
+2247.txt : Freestanding Newcomen Tower
+2248.txt : Freestanding Newcomen Foundation# 3
+2249.txt : Freestanding Newcomen Foundation# 2
+2250.txt : Freestanding Newcomen Foundation# 1
+2251.txt : Crude Piston on Flat Rock# just placed
+2252.txt : Hot Small Pulley in Wooden Tongs
+2253.txt : Hot Large Pulley in Wooden Tongs
+2254.txt : Small Pulley in Wooden Tongs
+2255.txt : Large Pulley in Wooden Tongs
+2256.txt : Large Pulley
+2257.txt : Small Pulley
+2258.txt : Hot Small Pulley
+2259.txt : Hot Large Pulley
+2260.txt : Hot Large Pulley in Wooden Tongs# grab
+2261.txt : Hot Small Pulley in Wooden Tongs# grab
+2262.txt : Pulley Drive Mechanism
+2263.txt : Roller Mechanism
+2264.txt : Partial Pulley Mechanism
+2265.txt : Disconnected Pulley Drive Mechanism
+2266.txt : Vulcanized Rubber Belt
+2267.txt : Raw Rubber Belt
+2268.txt : Bore Mechanism
+2269.txt : Pulley Drive Mechanism# detached
+2270.txt : Newcomen Bore
+2271.txt : Firing Newcomen Bore
+2274.txt : Newcomen Bore with Full Boiler
+2275.txt : Newcomen Bore with Charcoal
+2276.txt : Bore Mechanism# just grabbed
+2277.txt : Firing Newcomen Roller
+2278.txt : Roller Mechanism# just grabbed
+2280.txt : Newcomen Roller
+2281.txt : Newcomen Roller with Full Boiler
+2283.txt : Newcomen Roller with Charcoal
+2284.txt : Two Ropes
+2285.txt : Tarry Spot
+2286.txt : Hot Piston Blank in Wooden Tongs
+2287.txt : Hot Steel Piston Blank
+2289.txt : Hot Piston Blank in Wooden Tongs# just grab
+2290.txt : Steel Piston Blank in Wooden Tongs
+2291.txt : Steel Piston Blank
+2292.txt : Steel Cylinder Blank
+2293.txt : Hot Rod in Wooden Tongs
+2294.txt : Steel Rod in Wooden Tongs
+2295.txt : Hot Steel Rod
+2296.txt : Steel Rod
+2297.txt : Steel Pipe
+2298.txt : Pump Valve Jacket
+2299.txt : Pump Valve
+2300.txt : Hot Fuel Tank#flat rock
+2301.txt : Fuel Tank on Flat Rock
+2302.txt : Empty Fuel Tank
+2303.txt : Firing Oil Drilling Rig
+2304.txt : Dry Oil Drilling Rig
+2305.txt : Oil Drilling Rig with Pipe Extension
+2306.txt : Gushing Oil Rig
+2307.txt : Wet Drilling Oil Rig
+2308.txt : Oil Pumpjack
+2309.txt : Oil Pumpjack with Full Tank
+2311.txt : Firing Oil Pumpjack
+2312.txt : Oil Pumpjack with Empty Tank
+2313.txt : Oil Drilling Rig without Bit
+2314.txt : Complete Oil Drilling Rig
+2315.txt : Oil Drilling Rig without Rope
+2316.txt : Oil Drilling Tower
+2317.txt : Oil Drilling Foundation# 4
+2318.txt : Oil Drilling Foundation# 3
+2319.txt : Oil Drilling Foundation# 2
+2320.txt : Oil Drilling Foundation# 1
+2321.txt : Oil Drilling Tube
+2325.txt : Oil Drilling Rig with Full Boiler
+2326.txt : Oil Drilling Rig with Charcoal
+2328.txt : Perhaps Oil
+2329.txt : Oil Drilling Rig with Full Boiler# extended
+2330.txt : Oil Drilling Rig with Charcoal# extended
+2331.txt : Firing Oil Drilling Rig# extended
+2332.txt : Oil Pumpjack with Full Boiler
+2333.txt : Oil Pumpjack with Charcoal
+2334.txt : Tank of Crude Oil
+2335.txt : Double Cylinder
+2336.txt : Fractional Distillation Tower
+2337.txt : Firing Fractional Distiller
+2338.txt : Fractional Distiller with Empty Tank
+2339.txt : Fractional Distiller
+2340.txt : Fractional Distiller with Kerosene Tank
+2341.txt : Fractional Distiller with Crude Oil
+2342.txt : Fractional Distiller with Charcoal
+2343.txt : Tank of Kerosene
+2344.txt : Firing Kerosene Newcomen Pump
+2345.txt : Dry Kerosene Newcomen Pump
+2347.txt : Wick Housing
+2348.txt : Kerosene Wick Burner
+2349.txt : Kerosene Newcomen Pump with Full Boiler
+2350.txt : Newcomen Pump with Kerosene
+2352.txt : Wet Kerosene Newcomen Pump
+2355.txt : Lathe Head
+2356.txt : Lathe Mechanism
+2357.txt : Firing Newcomen Lathe
+2359.txt : Newcomen Lathe
+2360.txt : Newcomen Lathe with Charcoal
+2361.txt : Newcomen Lathe with Full Boiler
+2363.txt : Timing Belt Working
+2364.txt : Timing Belt
+2365.txt : Diesel Engine
+2366.txt : Test Engine Running
+2368.txt : Cam Shaft
+2369.txt : Crank Shaft
+2370.txt : Engine Fuel System
+2371.txt : Precision Cylinder
+2372.txt : Precision Piston
+2373.txt : Steel Valve
+2374.txt : Fuel Nozzle Body
+2375.txt : Fuel Injection Nozzle
+2376.txt : Diesel Piston Head
+2379.txt : Diesel Cylinder Head
+2380.txt : Diesel Cylinder Head with Valves
+2381.txt : Diesel Cylinder Head with One Valve
+2382.txt : Diesel Piston Block
+2383.txt : Diesel Crank Assembly
+2384.txt : Cam Timing Assembly
+2385.txt : Diesel Drive Assembly
+2386.txt : Pulley Timing Mechanism
+2387.txt : Unpowered Pump Head# from shallow
+2388.txt : Dry Diesel Water Pump
+2389.txt : Running Water Pump
+2390.txt : Wet Diesel Water Pump
+2391.txt : Wooden Wheel with Tire
+2392.txt : Two Wheels with Tires
+2393.txt : Four Wheels with Tires
+2394.txt : Unpowered Crude Car
+2395.txt : Crude Car with Empty Tank
+2396.txt : Running Crude Car
+2400.txt : Crude Car with Empty Tank#driven
+2401.txt : Snake Roadkill
+2403.txt : Male015 F
+2404.txt : Female016 A
+2405.txt : Snowball Splat# sick emot_8_10
+2406.txt : Snowball Splat Face
+2407.txt : Snowball
+2408.txt : Big Snowball
+2410.txt : Melting Snowman
+2411.txt : Huge Snowball
+2412.txt : Medium Snowball
+2413.txt : Melting Snowball
+2414.txt : Snowman Foundation
+2415.txt : Blank Snowman
+2416.txt : Blank Snowman with Arms
+2417.txt : Blank Snowman with Charcoal
+2418.txt : Snowman
+2419.txt : Two Curved Branches
+2420.txt : Snowman Remnants
+2421.txt : Snowman Remnants# 2
+2422.txt : Snowman Remnants# 3
+2423.txt : Snowman Remnants# 4
+2428.txt : Garland
+2429.txt : Partial Garland# 6
+2430.txt : Partial Garland# 5
+2431.txt : Partial Garland# 4
+2432.txt : Partial Garland# 3
+2433.txt : Partial Garland# 2
+2434.txt : Partial Garland# 1
+2435.txt : Pine Tree with One Garland
+2436.txt : Pine Tree with Two Garlands
+2437.txt : Pine Tree with Three Garlands
+2438.txt : Pine Tree with Four Garlands
+2439.txt : Fractionated Palm Oil
+2440.txt : Bowl of Palm Wax
+2441.txt : Bowl of Palm Olein
+2442.txt : Molten Palm Wax
+2443.txt : Thin Partial Dipped Candle
+2444.txt : Hot Partial Dipped Candle
+2445.txt : Hot Partial Dipped Candle# 2
+2446.txt : Thick Partial Dipped Candle
+2447.txt : Hot Candle
+2448.txt : Candle
+2449.txt : Candle Set
+2450.txt : Pine Tree with Candles
+2452.txt : Yule Tree
+2454.txt : Spent Yule Tree
+2455.txt : Yule Tree with Half Candles
+2456.txt : Santa Hat
+2460.txt : Pine Tree with Male Cardinal
+2461.txt : Pine Tree with Cardinals
+2462.txt : Female017 F
+2464.txt : Female018 A
+2465.txt : Snowball# just thrown
+2466.txt : Dark Nosaj
+2467.txt : Endstone
+2469.txt : Empty Endblock
+2470.txt : Endblock
+2474.txt : Live Nosaj with Endstone#appear
+2475.txt : Live Nosaj with Endstone
+2476.txt : Live Nosaj# endstone gone
+2477.txt : Endtower Base
+2478.txt : Seeping Endtower Base
+2481.txt : Seeping Endtower# monumentCall
+2482.txt : The Apocalypse# monumentCall
+2483.txt : Endtower Base
+2484.txt : Seeping Endtower Base# monumentCall
+2485.txt : Endtower Base
+2486.txt : Seeping Endtower Base
+2487.txt : Endtower Base
+2488.txt : Endblock with Chisel
+2489.txt : Shot Domestic Boar with Piglet# arrow
+2490.txt : Daniell Cell
+2491.txt : Hot Thin Rod in Wooden Tongs
+2492.txt : Thin Steel Rod in Wooden Tongs
+2493.txt : Hot Thin Steel Rod
+2494.txt : Thin Steel Rod
+2495.txt : Drill Bit
+2496.txt : Drill Mechanism
+2497.txt : Drill Mechanism# just grabbed
+2498.txt : Firing Newcomen Drill
+2500.txt : Newcomen Drill
+2501.txt : Newcomen Drill with Charcoal
+2502.txt : Newcomen Drill with Full Boiler
+2503.txt : Draw Plate
+2504.txt : Malachite
+2505.txt : Crucible with Malachite and Charcoal
+2506.txt : Unforged Sealed Copper Crucible
+2507.txt : Hot Forged Copper Crucible
+2508.txt : Forged Copper Crucible
+2509.txt : Cool Copper Crucible in Wooden Tongs
+2510.txt : Unforged Copper Crucible in Wooden Tongs
+2511.txt : Hot Copper Crucible in Wooden Tongs
+2512.txt : Crucible with Copper
+2513.txt : Crucible with Malachite
+2514.txt : Copper Ingot
+2515.txt : Calamine
+2516.txt : Crucible with Calamine
+2517.txt : Crucible with Calamine and Charcoal
+2518.txt : Zinc Ingot
+2519.txt : Cool Zinc Crucible in Wooden Tongs
+2520.txt : Unforged Zinc Crucible in Wooden Tongs
+2521.txt : Hot Zinc Crucible in Wooden Tongs
+2522.txt : Unforged Sealed Zinc Crucible
+2523.txt : Forged Zinc Crucible
+2524.txt : Hot Forged Zinc Crucible
+2525.txt : Crucible with Zinc
+2526.txt : Cool Zinc Ingot in Wooden Tongs
+2527.txt : Warm Zinc Ingot in Wooden Tongs
+2528.txt : Zinc Rod in Wooden Tongs
+2529.txt : Zinc Rod
+2530.txt : Copper Rod
+2531.txt : Copper Wire
+2532.txt : Copper Foil
+2533.txt : Foil and Paper Sandwich
+2535.txt : Capacitor
+2536.txt : Copper Coil
+2537.txt : Short Antenna
+2538.txt : Medium Antenna
+2539.txt : Long Antenna
+2540.txt : Niter
+2541.txt : Bowl of Niter Solution
+2542.txt : Bowl of Dissolved Niter with Ashes
+2543.txt : Ash Niter Solution with Filter Paper
+2544.txt : Bowl of Saltpeter Solution
+2545.txt : Bowl with Dirty Filter Paper
+2546.txt : Dirty filter Paper
+2547.txt : Bowl of Saltpeter
+2548.txt : Copper Pot
+2549.txt : Bowl of Saltpeter and Sulfur
+2550.txt : Sulfur Trioxide Reaction
+2551.txt : Sulfuric Acid on Ashes
+2552.txt : Bowl of Sulfuric Acid
+2553.txt : Bowl of Copper Sulfate
+2554.txt : Pot of Copper Sulfate
+2555.txt : Daniell Cell Anode
+2556.txt : Light Bulb
+2557.txt : Glasswort
+2558.txt : Cut Glasswort
+2559.txt : Dry Glasswort
+2560.txt : Burning Glasswort
+2561.txt : Glasswort Ashes
+2562.txt : Bowl of Glasswort Ashes
+2563.txt : Bowl of Soaking Glasswort Ashes
+2564.txt : Bowl of Glasswort Ashes with Filter Paper
+2565.txt : Bowl of Soda Ash Solution
+2566.txt : Bowl of Soda Ash
+2567.txt : Sand Deposit
+2568.txt : Sand Pit
+2569.txt : Empty Sand Pit
+2570.txt : Bowl of Sand
+2571.txt : Small Sand Pile
+2572.txt : Bowl of Soda Lime Mixture
+2573.txt : Soda Lime Glass Batch
+2574.txt : Molten Glass
+2575.txt : Blowpipe
+2576.txt : Molten Glass in Wooden Tongs
+2577.txt : Soda Lime Batch in Wooden Tongs
+2578.txt : Cool Glass
+2579.txt : Cool Glass in Wooden Tongs
+2580.txt : Blowpipe With Hot Glass Bulb
+2581.txt : Blowpipe With Cool Glass Bulb
+2582.txt : Cool Glass# just added
+2583.txt : Thread in Clay Bowl
+2584.txt : Thread in Sealed Crucible
+2585.txt : Thread Crucible in Wooden Tongs
+2586.txt : Filament Crucible in Wooden Tongs
+2587.txt : Filament in Sealed Crucible
+2588.txt : Carbon Filament in Clay Bowl
+2589.txt : Carbon Filament
+2590.txt : Carbon Filament with Wire Leads
+2591.txt : Wrought Iron with Filings
+2592.txt : Iron Filings
+2594.txt : Clay Bowl with Coherer Parts
+2595.txt : Bowl of Iron Filings
+2596.txt : Coherer
+2597.txt : Bowl with Coherer
+2598.txt : Iron Rod in Wooden Tongs
+2599.txt : Iron Rod
+2600.txt : Electromagnet
+2601.txt : Spark Terminal
+2602.txt : Two Spark Terminals
+2603.txt : Partial Spark Gap Transmitter# 1
+2604.txt : Two Capacitors
+2605.txt : Partial Spark Gap Transmitter# 2
+2606.txt : Partial Spark Gap Transmitter# 3
+2607.txt : High Frequency Spark Gap Transmitter# !global1
+2608.txt : Medium Frequency Spark Gap Transmitter# !global2
+2609.txt : Low Frequency Spark Gap Transmitter# !global3
+2610.txt : Operating High Frequency Transmitter# *global1
+2611.txt : Operating Medium Frequency Transmitter# *global2
+2612.txt : Operating Low Frequency Transmitter# *global3
+2613.txt : Partial Marconi Receiver# 1
+2614.txt : Two Copper Coils
+2615.txt : Partial Marconi Receiver# 2
+2616.txt : Partial Marconi Receiver# 3
+2617.txt : Partial Marconi Receiver# 4
+2619.txt : Two Daniell Cells
+2620.txt : Partial Marconi Receiver# 5
+2621.txt : High Frequency Marconi Receiver# >global1
+2622.txt : Medium Frequency Marconi Receiver# >global2
+2623.txt : Low Frequency Marconi Receiver# >global3
+2624.txt : High Frequency Marconi Receiver# on
+2625.txt : Medium Frequency Marconi Receiver# on
+2626.txt : Low Frequency Marconi Receiver# on
+2627.txt : >global1
+2629.txt : >global2
+2631.txt : >global3
+2634.txt : Hot Rod in Wooden Tongs# reheated
+2635.txt : Hot Rod in Wooden Tongs# grabbed
+2636.txt : Cool Glass in Wooden Tongs# grabbed
+2638.txt : Diode Leads
+2639.txt : Triode Leads
+2640.txt : Vacuum Diode
+2641.txt : Vacuum Triode
+2642.txt : Carbon Microphone
+2643.txt : Copper Foil with Carbon Granules
+2644.txt : Copper Foil Carbon Sandwich
+2645.txt : Loudspeaker
+2646.txt : Two Vacuum Triodes
+2647.txt : Partial AM Transmitter# 1
+2648.txt : Partial AM Transmitter# 2
+2650.txt : Partial AM Transmitter# 3
+2651.txt : Three Capacitors
+2652.txt : Partial AM Transmitter# 4
+2653.txt : Unpowered High Frequency AM Transmitter
+2654.txt : Unpowered Medium Frequency AM Transmitter
+2655.txt : Unpowered Low Frequency AM Transmitter
+2656.txt : Low Frequency AM Transmitter# speechIn_0
+2659.txt : Medium Frequency AM Transmitter# speechIn_1
+2660.txt : High Frequency AM Transmitter# speechIn_2
+2661.txt : Partial AM Receiver# 1
+2662.txt : Partial AM Receiver# 2
+2663.txt : Partial AM Receiver# 3
+2664.txt : Partial AM Receiver# 4
+2665.txt : Partial AM Receiver# 5
+2669.txt : High Frequency AM Receiver# speechOut_2
+2670.txt : Medium Frequency AM Receiver# speechOut_1
+2671.txt : Low Frequency AM Receiver# speechOut_0
+2672.txt : Tutorial Stone# tutorial 1101
+2673.txt : Tutorial Stone# tutorial 1001
+2674.txt : Tutorial Stone# tutorial 1002
+2675.txt : Tutorial Stone# tutorial 1010
+2676.txt : Tutorial Stone# tutorial 1011
+2677.txt : Landing Strip# +land
+2680.txt : Loom with Cloth
+2681.txt : Loom with Warp
+2682.txt : Loom
+2684.txt : Loom# cloth just removed
+2685.txt : Bolt of Wool Cloth
+2686.txt : Loom with Cut Cloth
+2687.txt : Loom Reed
+2688.txt : Loom Heddle
+2689.txt : Two Loom Heddles
+2690.txt : Two Loom Heddles with Reed
+2691.txt : Wing Strut
+2692.txt : Two Wing Struts
+2693.txt : Four Wing Struts
+2694.txt : Cloth Wing
+2695.txt : Rubberized Wing
+2696.txt : Pair of Wings
+2697.txt : Propeller
+2698.txt : Running Crude Airplane# +fly
+2699.txt : Airplane Kit
+2700.txt : Crude Airplane with Empty Tank
+2701.txt : Crude Airplane with Empty Tank#flown
+2703.txt : Running Crude Airplane on Landing Strip
+2704.txt : Crude Airplane on Landing Strip
+2705.txt : Bowl of Kerosene
+2706.txt : Tank of Kerosene# just filled
+2707.txt : Tutorial Stone# tutorial 1501
+2708.txt : Tutorial Stone# tutorial 1601
+2709.txt : Large Slow Fire#tut_only burns forever
+2710.txt : Wild Horse with Lasso
+2711.txt : Mouflon Lamb with Rope
+2712.txt : Domestic Lamb with Rope
+2713.txt : Fed Domestic Lamb with Rope
+2714.txt : Fed Domestic Lamb with Rope#post hungry
+2715.txt : Dumped Palm Kernel Bowl
+2716.txt : Dumped Crushed Palm Kernel Bowl
+2717.txt : Dumped Palm Kernels
+2718.txt : Dumped Crushed Palm Kernels
+2719.txt : Shears with Juniper Cutting
+2720.txt : Juniper Tree Cutting
+2721.txt : Dry Juniper Sapling Cutting
+2722.txt : Wet Juniper Sapling Cutting
+2723.txt : Dry Juniper Sapling
+2724.txt : Wet Juniper Sapling
+2725.txt : Limestone Pile
+2726.txt : Fed Bison Calf# just fed
+2727.txt : Fed Domestic Calf# just fed
+2728.txt : Bison Calf with Rope
+2729.txt : Fed Domestic Calf# rope
+2730.txt : Fed Domestic Calf with Rope
+2731.txt : Dumped Iron Filings
+2732.txt : Vulcanized Rubber Tire#removed
+2733.txt : Melting Snowman# 2
+2734.txt : Melting Snowman# 3
+2735.txt : Melting Snowman# 4
+2736.txt : Huge Snowball# melted
+2737.txt : Big Snowball# melted
+2738.txt : Medium Snowball# melted
+2739.txt : Snowball# melted
+2740.txt : Wooden Box with Boards
+2741.txt : Wooden Box with Shaft
+2742.txt : Carrot Pile
+2743.txt : Bowl of Gooseberry Seeds
+2744.txt : Bowl of Milkweed Seeds
+2745.txt : Bowl of Carrot Seeds
+2746.txt : Blade with Shaft
+2747.txt : Hubba Brows
+2748.txt : SickFace
+2749.txt : SickMouth
+2750.txt : YoohooMouth
+2752.txt : Hmph Brows
+2753.txt : Hmph Mouth
+2754.txt : Love Heart
+2755.txt : OReally Brows
+2756.txt : Shock Mouth
+2757.txt : Springy Wooden Door# Installed
+2758.txt : Springy Open Wooden Door# installed
+2759.txt : Springy Wooden Door# installed vert
+2760.txt : Springy Open Wooden Door# installed vert
+2762.txt : Springy Wooden Door
+2765.txt : Sugarcane
+2766.txt : Sugarcane Bundle
+2767.txt : Sugarcane Stalk
+2768.txt : Sugarcane Chunks
+2770.txt : Dry Planted Sugarcane
+2771.txt : Wet Planted Sugarcane
+2772.txt : Sprouting Sugarcane
+2773.txt : Bowl of Sugarcane Chunks
+2774.txt : Bowl of Sugarcane Pulp
+2775.txt : Bowl of Soaking Sugarcane Pulp
+2776.txt : Sugarcane Pulp in Simmering Water
+2777.txt : Bowl of Cooked Sugarcane Pulp
+2778.txt : Cooked Sugarcane Pulp on Hot Coals
+2779.txt : Ashes with Bowl of Cooked Sugarcane Pulp
+2780.txt : Bowl of Cane Juice
+2781.txt : Simmering Cane Juice
+2782.txt : Bowl of Bagasse
+2783.txt : Bowl of Raw Sugar
+2784.txt : Ashes with Bowl of Raw Sugar
+2785.txt : Dried Raw Sugar
+2786.txt : Bowl of Sugared Cream
+2789.txt : Crock of Snow
+2790.txt : Crock of Salted Snow
+2791.txt : Crock of Chilling Cream
+2792.txt : Crock of Ice Cream
+2793.txt : Crock of Warm Sugared Cream
+2794.txt : Bowl of Ice Cream
+2795.txt : Spoon
+2796.txt : Spoon of Ice Cream
+2797.txt : Sugarcane Bundle#just harvested
+2798.txt : Sugarcane Chunks#dumped
+2799.txt : Bowl of Vinegar
+2800.txt : Wild Tomato Plant
+2801.txt : Wild Tomato Cluster
+2802.txt : Dug Wild Tomato Plant
+2803.txt : Empty Wild Tomato Plant
+2804.txt : Wild Pepper Plant
+2805.txt : Dug Wild Pepper Plant
+2806.txt : Empty Wild Pepper Plant
+2807.txt : Wild Pepper
+2808.txt : Pepper Seed
+2809.txt : Net
+2810.txt : Cast Net
+2811.txt : Perhaps some Shrimp
+2812.txt : Net of Shrimp#just caught
+2813.txt : Net# just pulled
+2814.txt : Live Shrimp
+2815.txt : Shrimp
+2816.txt : Net# just emptied
+2817.txt : Net of Shrimp
+2818.txt : Plate of Whole Shrimp
+2819.txt : Plate of Cleaned Shrimp
+2820.txt : Skewered Shrimp
+2821.txt : Burnt Shrimp
+2822.txt : Burnt Shrimp
+2823.txt : Cooked Shrimp
+2824.txt : Holey Net
+2825.txt : Bowl of Tomato Seed Pulp
+2826.txt : Bowl of Fermented Tomato Seed Pulp
+2827.txt : Bowl of Soaking Tomato Seed Pulp
+2828.txt : Bowl of Tomato Seeds
+2829.txt : Dry Planted Tomato Seed
+2830.txt : Tomato Seed
+2831.txt : Wet Planted Tomato Seed
+2832.txt : Tomato Sprout
+2833.txt : Staked Tomato Sprout
+2834.txt : Tomato Plant
+2835.txt : Fruiting Tomato Plant
+2836.txt : Tomato
+2837.txt : Hardened Row with Stake
+2838.txt : Bowl of Pepper Seeds
+2839.txt : Dry Planted Pepper Seed
+2840.txt : Wet Planted Pepper Seed
+2841.txt : Pepper Sprout
+2842.txt : Pepper Plant
+2843.txt : Fruiting Pepper Plant
+2844.txt : Hot Pepper
+2845.txt : Dry Planted Wild Onion
+2846.txt : Wet Planted Wild Onion
+2847.txt : Sprouted Second-Year Onion
+2848.txt : Blooming Onion
+2849.txt : Onion Seeds
+2850.txt : Bowl of Onion Seeds
+2851.txt : Dry Planted Onions
+2852.txt : Wet Planted Onions
+2853.txt : Onion Sprouts
+2854.txt : Ripe Onions
+2855.txt : Onion
+2856.txt : Dry Planted Onion
+2857.txt : Wet Planted Onion
+2858.txt : Onion on Plate
+2859.txt : Tomato on Plate
+2860.txt : Chopped Onion on Plate
+2861.txt : Chopped Tomato on Plate
+2862.txt : Bowl of Salsa
+2863.txt : Chopped Tomato and Onion on Plate
+2864.txt : Chopped Tomato and Onion with Hot Pepper
+2865.txt : Corn Tortilla in Bowl
+2866.txt : Raw Tortilla Chips
+2867.txt : Simmering Palm Oil
+2868.txt : Tortilla Chips
+2869.txt : Tortilla Chip
+2870.txt : Chip with Salsa
+2871.txt : Potato on Plate
+2872.txt : Raw French Fries on Plate
+2873.txt : French Fries on Plate
+2874.txt : French Fry
+2875.txt : French Fry with Ketchup
+2876.txt : Bowl of Sweetened Vinegar
+2877.txt : Bowl of Ketchup
+2878.txt : Undyed Long Skirt
+2879.txt : Undyed Long Dress
+2880.txt : Undyed Pleated Skirt
+2881.txt : Undyed Short Trousers
+2882.txt : Undyed Button-down Shirt
+2883.txt : Undyed Cloak
+2884.txt : Undyed Bowler Hat
+2885.txt : Undyed Top Hat
+2886.txt : Wooden Shoe
+2887.txt : Sandal
+2888.txt : Wool Felt
+2889.txt : Two Pieces of Wool Felt
+2890.txt : Skirt and Shirt
+2891.txt : Tortilla Chips# just cooked
+2892.txt : French Fries on Plate# just cooked
+2893.txt : Bowl of Rust
+2894.txt : Bowl of Rust in Salt Water
+2895.txt : Bowl of Black Dye
+2896.txt : Simmering Black Dye
+2897.txt : Simmering Yellow Dye
+2898.txt : Simmering Green Dye
+2899.txt : @ Undyed Item Pattern
+2900.txt : @ Dye-ready Item Pattern
+2901.txt : @ Dyed Red Item Pattern
+2902.txt : @ Dyed Indigo Item Pattern
+2903.txt : @ Dyed Green Item Pattern
+2904.txt : @ Dyed Yellow Item Pattern
+2905.txt : @ Dyed Black Item Pattern
+2907.txt : Dye-Ready Long Skirt
+2908.txt : Dye-Ready Cloak
+2909.txt : Dye-Ready Long Dress
+2910.txt : Dye-Ready Pleated Skirt
+2911.txt : Dye-Ready Button-down Shirt
+2912.txt : Dye-Ready Short Trousers
+2913.txt : Dye-Ready Bowler Hat
+2914.txt : Dye-Ready Top Hat
+2915.txt : Red Cloak
+2916.txt : Red Long Skirt
+2917.txt : Red Pleated Skirt
+2918.txt : Red Short Trousers
+2919.txt : Red Button-down Shirt
+2920.txt : Red Bowler Hat
+2921.txt : Red Top Hat
+2922.txt : Red Long Dress
+2925.txt : Indigo Cloak
+2926.txt : Indigo Long Dress
+2927.txt : Indigo Long Skirt
+2928.txt : Indigo Pleated Skirt
+2929.txt : Indigo Short Trousers
+2930.txt : Indigo Button-down Shirt
+2931.txt : Indigo Bowler Hat
+2932.txt : Indigo Top Hat
+2933.txt : Green Cloak
+2934.txt : Green Long Dress
+2935.txt : Green Long Skirt
+2936.txt : Green Pleated Skirt
+2937.txt : Green Short Trousers
+2938.txt : Green Button-down Shirt
+2939.txt : Green Bowler Hat
+2940.txt : Green Top Hat
+2941.txt : Yellow Cloak
+2942.txt : Yellow Long Dress
+2943.txt : Yellow Long Skirt
+2944.txt : Yellow Pleated Skirt
+2945.txt : Yellow Short Trousers
+2946.txt : Yellow Button-down Shirt
+2947.txt : Yellow Bowler Hat
+2948.txt : Yellow Top Hat
+2949.txt : Black Cloak
+2950.txt : Black Long Dress
+2951.txt : Black Long Skirt
+2952.txt : Black Pleated Skirt
+2953.txt : Black Short Trousers
+2954.txt : Black Button-down Shirt
+2955.txt : Black Bowler Hat
+2956.txt : Black Top Hat
+2957.txt : Property Fence Twigs
+2959.txt : Property Fence
+2960.txt : Property Fence
+2961.txt : Property Fence
+2962.txt : Property Gate# +owned
+2963.txt : Property Gate# +owned
+2965.txt : Proposed Property Fence# groundOnly
+2966.txt : Proposed Property Gate
+2968.txt : Proposed Property Fence# groundOnly
+2970.txt : Approved Property Fence
+2971.txt : Approved Property Fence
+2972.txt : Proposed Property Fence# groundOnly
+2973.txt : Approved Property Fence
+2974.txt : Approved Property Gate
+2976.txt : Rickety Fence
+2977.txt : Rickety Property Fence
+2978.txt : Rickety Property Fence
+2982.txt : Shaky Property Fence
+2983.txt : Shaky Property Gate# +owned
+2984.txt : Shaky Property Gate# +owned
+2985.txt : Shaky Property Fence
+2986.txt : Shaky Property Fence
+2992.txt : Property Fence Twigs# just set down
+2993.txt : Gathering Property Fence Twigs
+2994.txt : Gathering Property Fence Twigs# B
+2995.txt : @ Shaky Fence Buster
+2996.txt : @ Any approved fence
+2997.txt : Empty Camera
+2998.txt : Camera taking Photograph# +photo
+2999.txt : Loaded Camera
+3000.txt : Wound Loaded Camera
+3001.txt : Electrum Ore
+3002.txt : Crucible with Electrum Ore
+3003.txt : Unforged Sealed Electrum Crucible
+3004.txt : Unforged Electrum Crucible in Wooden Tongs
+3005.txt : Cool Electrum Crucible in Wooden Tongs
+3006.txt : Hot Electrum Crucible in Wooden Tongs
+3007.txt : Hot Forged Electrum Crucible
+3008.txt : Forged Electrum Crucible
+3009.txt : Crucible with Electrum
+3010.txt : Electrum Ingot
+3011.txt : Bowl of Copper Sulfate with Alum
+3012.txt : Bowl of Copper Sulfate with Alum and Niter
+3013.txt : Bowl of Nitric Acid
+3014.txt : Bowl of Silver Nitrate Solution
+3015.txt : Gold in Silver Nitrate Solution
+3017.txt : Protected Stack of Photo Paper
+3018.txt : Damp Photo Paper
+3019.txt : Ruined Photo Paper
+3021.txt : Bowl of Charcoal Powder
+3022.txt : Bucket of Black Paint
+3025.txt : Camera Body
+3026.txt : Spring Loaded Black Box
+3027.txt : Black Box
+3028.txt : Tripod
+3029.txt : Flash Fire
+3030.txt : Natural Spring# gridPlacement40 evePrimaryLoc
+3031.txt : Exhausted Deep Well
+3032.txt : Exhausted Newcomen Pump
+3033.txt : Exhausted Kerosene Newcomen Pump
+3034.txt : Perhaps an Exhausted Pump
+3035.txt : Perhaps an Exhausted Kerosene Pump
+3036.txt : Exhausted Newcomen Pump# no core
+3037.txt : Exhausted Newcomen Pump# no beam
+3038.txt : Exhausted Newcomen Pump# 3 stone
+3039.txt : Exhausted Newcomen Pump# 2 stone
+3040.txt : Exhausted Newcomen Pump# 1 stone
+3041.txt : Unpowered Pump Head# from exhausted
+3042.txt : Unpowered Pump Head# from deep
+3043.txt : @ Unpowered Pump Head
+3044.txt : Wet Kerosene Newcomen Pump# burner added
+3046.txt : Pregnant Belly
+3047.txt : Sharp War Sword
+3048.txt : Bloody War Sword
+3050.txt : Backpack with Sword
+3051.txt : Baby Bone Pile# origGrave
+3052.txt : Basket of Baby Bones
+3053.txt : Baby Bone Pile# origGrave justDied
+3054.txt : Hot Steel Rod on Flat Rock
+3055.txt : Steel Rod on Flat Rock
+3056.txt : War Sword on Flat Rock
+3057.txt : Steel Rod# from sword
+3059.txt : Track Kit with Stakes
+3060.txt : Stakes# track laid
+3062.txt : Single Track Kit# just dug
+3064.txt : Wooden Box with Slot Notches
+3065.txt : Wooden Slot Box
+3066.txt : Murder Mouth
+3068.txt : Red Cross Apron with Sterile Pads
+3069.txt : Dry Rubber Sapling
+3070.txt : Wet Rubber Sapling
+3071.txt : Dry Rubber Sapling Cutting
+3072.txt : Wet Rubber Sapling Cutting
+3073.txt : Shears with Rubber Cutting
+3074.txt : Rubber Tree Cutting
+3075.txt : @ Cutting-source Rubber Tree
+3076.txt : Scrap Bowl
+3077.txt : Clay Bowl# scrap mark erased
+3078.txt : Male019 A
+3079.txt : Male020 A
+3080.txt : Male021 F
+3081.txt : Male022 F
+3083.txt : Exhausted Oil Pumpjack
+3084.txt : Exhausted Oil Pumpjack# 1
+3085.txt : Ropeless Exhausted Oil Pumpjack# 2
+3086.txt : Exhausted Oil Pump Tower# 3
+3087.txt : Exhausted Oil Pump Tower# 4
+3088.txt : Exhausted Oil Pumpjack# 5
+3089.txt : Exhausted Oil Pump Tower# 6
+3090.txt : Exhausted Oil Pump Tower# 7
+3091.txt : Exhausted Oil Well# 8
+3092.txt : Pump Valve# removed
+3093.txt : Renewed Property Fence
+3095.txt : Renewed Property Fence
+3096.txt : Renewed Property Fence
+3097.txt : Rift# A 1 +noHighlight
+3098.txt : Rift# A 2 +noHighlight
+3099.txt : Rift# A 3 +noHighlight
+3100.txt : Rift# A 4 +noHighlight
+3101.txt : Rift# B 1 +noHighlight
+3102.txt : Rift# B 2 +noHighlight
+3103.txt : Rift# B 3 +noHighlight
+3104.txt : Rift# B 4 +noHighlight
+3105.txt : Rift# C 1 +noHighlight
+3106.txt : Rift# C 2 +noHighlight
+3107.txt : Rift# C 3 +noHighlight
+3108.txt : Rift# C 4 +noHighlight
+3109.txt : Staked Wild Gooseberry Bush
+3110.txt : Moist Staked Wild Gooseberry Bush
+3111.txt : Chopped Hardwood Tree - Hungry Work#big,log,wood2 +hungryWork10
+3112.txt : Tarr Monument
+3114.txt : Property Fence with Unsigned Notice
+3115.txt : Property Fence with Partial Notice
+3116.txt : Property Fence with Removal Notice
+3117.txt : Fence Notice Working
+3118.txt : Property Fence with Removal Notice
+3119.txt : Property Fence with Partial Notice
+3120.txt : Property Fence with Unsigned Notice
+3121.txt : Property Fence with Removal Notice
+3122.txt : Property Fence with Unsigned Notice
+3123.txt : Property Fence with Partial Notice
+3124.txt : Temporary Fence Removal Receipt
+3125.txt : Elder Removal Receipt
+3127.txt : Elder Removal Receipt# with charcaol offScreenSound
+3128.txt : Running Diesel Mining Pick
+3129.txt : Ready Diesel Mining Pick
+3130.txt : Diesel Mining Pick without Bit
+3131.txt : Diesel Minging Pick with Iron
+3132.txt : Running Diesel Mining Pick#with Iron
+70000.txt : Single Gold Coin
+70001.txt : Gold Coins (2)
+70002.txt : Gold Coins (3)
+70003.txt : Bowl of Gold Coins
+70004.txt : Gold Key Blank
+70005.txt : Gold Key (Carrot)
+70006.txt : Pine Door Carrot Key# Installed
+70007.txt : Open Pine Needle Door Carrot Key# installed
+70009.txt : Open Pine Needle Door#74 installed
+70010.txt : Pine Door #74
+70015.txt : Pile of Coins (6)
+70016.txt : Pile of Coins (9)
+70017.txt : Pile of Coins (12)
+70018.txt : Pile of Coins (15)
+70021.txt : Pine Door#74 Installed
+70022.txt : Gold Key (Milkweed)
+70023.txt : Gold Key (Leaf)
+70024.txt : Pine Door #82
+70025.txt : Pine Door#82 Installed
+70026.txt : Open Pine Needle Door#82 installed
+70027.txt : Open Pine Needle Door#96 installed
+70028.txt : Pine Door#96 Installed
+70029.txt : Pine Door #96
+70030.txt : Steel Key (Carrot)
+70031.txt : Steel Key (Leaf)
+70032.txt : Steel Key (Milkweed)
+70033.txt : Pine Door#64
+70034.txt : Pine Door #86
+70035.txt : Pine Door #72
+70036.txt : Pine Door #54
+70037.txt : Pine Door #76
+70038.txt : Pine Door #62
+70039.txt : Pine Door#64 Installed
+70040.txt : Open Pine Needle Door#64 installed
+70041.txt : Pine Door#86 Installed
+70042.txt : Open Pine Needle Door#86 installed
+70043.txt : Pine Door#72 Installed
+70044.txt : Open Pine Needle Door#72 installed
+70045.txt : Pine Door#54 Installed
+70046.txt : Pine Door#76 Installed
+70047.txt : Pine Door#62 Installed
+70048.txt : Open Pine Needle Door#54 installed
+70049.txt : Open Pine Needle Door#76 installed
+70050.txt : Open Pine Needle Door#62 installed
+70051.txt : Steel Key Blank
+70052.txt : Wood Key Blank
+70053.txt : Wood Key (Carrot)
+70054.txt : Wood Key (Leaf)
+70055.txt : Wood Key (Milkweed)
+70056.txt : Stump #drilled
+70064.txt : Cairn
+70065.txt : Shrine #A
+70066.txt : Shrine #A one carrot
+70067.txt : Shrine #A two carrots
+70068.txt : Shrine #A three carrots
+70069.txt : Blessed Shrine #A
+70070.txt : Blessed Shrine #A six coins
+70071.txt : Blessed Shrine #A with bridle
+70072.txt : Neglected Shrine #A1
+70073.txt : Fallen Shrine #A
+70074.txt : Cursed Shrine
+70075.txt : Blessed Shrine #A one pie
+70076.txt : Blessed Shrine #A two pies
+70077.txt : Blessed Shrine #A three pies
+70078.txt : Blessed Shrine #A with cocoon
+70079.txt : Neglected Shrine #A2
+70080.txt : Celebrated Shrine #A
+70081.txt : Dromedary
+70082.txt : Celebrated Shrine #A with camel
+70083.txt : Hand Loom
+70084.txt : Hand Loom Frame
+70085.txt : Silk Cocoons
+70086.txt : Bolt of Silk Cloth
+70088.txt : Tent Wall
+70089.txt : Tent Wall Corner
+70090.txt : Tent Wall #vertical
+70092.txt : Tent Door #closed
+70093.txt : Tent Door #open
+70095.txt : Caravan Yoke
+70096.txt : Cargo Crate
+70097.txt : Cocooned Shaft
+70098.txt : Bridle
+70099.txt : Celebrated Shrine #A two crowns
+70100.txt : Celebrated Shrine #A three crowns
+70101.txt : White Silk Roll Tied
+70102.txt : Silk Farm
+70103.txt : Mature Silk Farm
+70104.txt : Maple Sapling
+70105.txt : Juniper Sapling
+70106.txt : Pine Sapling
+70107.txt : Yew Sapling
+70108.txt : Caravan Dromedary #leading
+70109.txt : Caravan Dromedary #stopped
+70110.txt : Caravan Dromedary #riding
+70111.txt : Dromedary #leading
+70112.txt : Hitched Dromedary
+70113.txt : Hitched Caravan Dromedary #riding
+70114.txt : Silk Robes
+70115.txt : Nomad Scarf
+70116.txt : Nomad Skirt
+70117.txt : Nomad Robes
+70118.txt : Bolt of Silk Cloth #2
+70119.txt : Bolt of Silk Cloth #3
+70120.txt : Empty Creamery
+70121.txt : Milky Creamery
+70122.txt : Cultured Creamery
+70123.txt : Unripe Creamery
+70124.txt : Ripe Creamery
+70125.txt : Bowl of Rennet
+70126.txt : Raw Flatbread
+70127.txt : Baked Flatbread
+70128.txt : Baked Flatbread Stack
+70129.txt : Cheese Sandwich
+70130.txt : Cheesy Mutton Sandwich
+70131.txt : Ripe Cheese Wheel
+70132.txt : Ripe Cheese Wheel #1
+70133.txt : Ripe Cheese Wheel #2
+70134.txt : Ripe Cheese Wheel #3
+70135.txt : Cheese Wedges
+70136.txt : Ripe Cheese Wheel #1A
+70137.txt : Ripe Cheese Wheel #2A
+70138.txt : Ripe Cheese Wheel #3A
+70139.txt : Hitched Caravan Dromedary #stopped
+70140.txt : Cheesy Mutton Sandwich #2
+70141.txt : Cheesy Mutton Sandwich #3
+70142.txt : Cheesy Mutton Sandwich #4
+70143.txt : Cheesy Mutton Sandwich #5
+70144.txt : Cheese Sandwich #2
+70145.txt : Cheese Wedge
+70146.txt : Wet Clay Bowl of Clay
+70147.txt : Milk Bucket
+70148.txt : Unripe Cheese Wheel
+70149.txt : Dromedary #hungry
+70150.txt : Dough on Flat Rock
+70151.txt : Raw Flatbread on Flat Rock
+70152.txt : Plastered Floor# groundOnly
+80843.txt : Secure Fence
+80844.txt : Secure Fence
+80850.txt : Trellis #netting
+80851.txt : Trellis
+80852.txt : Sign Panel
+80854.txt : Wet Planted Hops#fertile
+80855.txt : Dry Planted Hops#fertile
+80856.txt : Empty Trellis Plot#fertile
+80857.txt : Hops#1 fertile
+80858.txt : Hops#2 fertile
+80862.txt : Hops#3 fertile alt
+80863.txt : Fruiting Hops#4 fertile alt
+80864.txt : Distillery #test animation
+80867.txt : Firing Distillery
+80870.txt : Distillery with Mash #firewood1
+80871.txt : Distillery with Mash #firewood2
+80872.txt : Distillery with Mash
+80873.txt : Distillery #empty
+80874.txt : Distillery #full
+80875.txt : Primitive Table
+80877.txt : Bowl of Sand
+80878.txt : Glass Jar
+80879.txt : Copper Plate
+80880.txt : Copper Ingot
+80881.txt : Hot Copper Ingot
+80882.txt : Copper Ore
+80883.txt : Copper Plates #2
+80884.txt : Copper Plates #3
+80885.txt : Copper Plates #4
+80886.txt : Mason Jar
+80887.txt : Jar Mold with Mason Jar
+80888.txt : Jar Mold
+80889.txt : Jar Mold with Sand
+80890.txt : Glass Tube Mold
+80891.txt : Glass Tube Mold with Sand
+80892.txt : Glass Tube Mold with Tube
+80897.txt : Mason Jar of Beer
+80898.txt : Mason Jar of Beer#2
+80899.txt : Mason Jar of Beer#3
+80901.txt : Bowl of Hops
+80903.txt : Hops Fruit
+80904.txt : Fruiting Hops#3 fertile alt
+80905.txt : Fruiting Hops#2 fertile alt
+80906.txt : Fruiting Hops#1 fertile alt
+80907.txt : Honeybee
+80908.txt : Flowering Milkweed#bee
+80909.txt : Honeybee#nectar
+80910.txt : Bee Box
+80911.txt : Platform
+80912.txt : Domestic Hive #1A
+80913.txt : Domestic Hive #2A
+80914.txt : Domestic Hive #3A
+80915.txt : Domestic Hive #1B
+80916.txt : Domestic Hive #2B
+80917.txt : Domestic Hive #2C
+80918.txt : Domestic Hive #3B
+80919.txt : Domestic Hive #3C
+80920.txt : Domestic Hive #3D
+80921.txt : Honeybee#moving
+80922.txt : Honeybee#nectar moving
+80923.txt : Indigo Silk Roll
+80924.txt : Indigo Silk Rolls #2
+80925.txt : Indigo Silk Rolls #3
+80926.txt : Nomad Skirt #blue
+80927.txt : Nomad Scarf #blue
+80928.txt : Nomad Robes #blue
+80929.txt : Tent Wall #blue
+80930.txt : Tent Door #closed blue
+80931.txt : Tent Door #open blue
+80932.txt : Domestic Hive #1A spawn
+80933.txt : Domestic Hive #2A spawn
+80934.txt : Domestic Hive #3A spawn
+80935.txt : Domestic Hive #2B spawn
+80936.txt : Domestic Hive #3B spawn
+80937.txt : Domestic Hive #3C spawn
+80938.txt : Bee Box Comb
+80939.txt : Bald Cypress Tree #hive
+80940.txt : Bee Comb
+80941.txt : Fallen Hive
+80942.txt : Swarm of Angry Bees
+80943.txt : Swarm of Angry Bees#hive
+80944.txt : Fallen Hive #no bees
+80945.txt : Domestic Hive #1A swarm
+80946.txt : Domestic Hive #2A swarm
+80947.txt : Domestic Hive #3A swarm
+80948.txt : Mason Jar of Honeycomb
+80949.txt : Simmering Honeycomb
+80950.txt : Ashes with Bowl of Honey
+80951.txt : Mason Jar of Honey
+80952.txt : Mason Jar of Honey #2
+80953.txt : Mason Jar of Honey #3
+80954.txt : Mason Jar of Honey #4
+80955.txt : Wet Clay Plates
+80956.txt : Jar Mold in Wooden Tongs #sand
+80957.txt : Jar Mold in Wooden Tongs #glass
+80958.txt : Tube Mold in Wooden Tongs #sand
+80959.txt : Tube Mold in Wooden Tongs #glass
+80960.txt : Glass Tube
+80961.txt : Mason Jar of Beer#2 remapStart
+80962.txt : Mason Jar of Beer#3 remapStart
+80963.txt : Mason Jar of Water
+80964.txt : Tent Wall #vertical blue
+80965.txt : Tent Wall Corner #blue
+80967.txt : Blue Silk Roll Tied #blue
+80968.txt : Languishing Hops#1 fertile alt
+80969.txt : Dying Hops#1 fertile alt
+80970.txt : Dying Hops#1 fertile alt watered
+80971.txt : Languishing Hops#1 fertile alt watered
+80972.txt : Hops Fruit Pile #2
+80973.txt : Hops Fruit Pile #3
+80974.txt : Hops Fruit Pile #4
+80975.txt : Distillery with Hops
+80976.txt : Copper Plates #4 tube
+80977.txt : Hot Copper Ingot in Wooden Tongs
+80978.txt : Copper Ingot in Wooden Tongs
+80979.txt : Copper Ore in Wooden Tongs
+80980.txt : Hot Copper Bloom
+80981.txt : Cold Copper Bloom
+80982.txt : Hot Copper Bloom in Wooden Tongs
+80983.txt : Cold Copper Bloom in Wooden Tongs
+80984.txt : Hot Copper Bloom on Flat Rock
+80985.txt : Cold Copper Bloom on Flat Rock
+80986.txt : Copper Ingot on Flat Rock
+80987.txt : Bowl of Honey
+85988.txt : Dead Tree #hops fruit
+85989.txt : Dead Tree #hops empty
+85990.txt : Nomad Scarf #blue mouth
+85991.txt : Nomad Scarf #mouth
+85992.txt : Grizzly Bear Hat
+85993.txt : Chicken #test
+85994.txt : The Apocalypse# coins
+85995.txt : The Apocalypse# just coins 12
+85996.txt : The Apocalypse# just coins 9
+85997.txt : The Apocalypse# just coins 6
+85998.txt : The Apocalypse# just coins 3
+85999.txt : Mammoth #animation test
+86000.txt : Empty Vineyard Plot
+86001.txt : Mammoth #plow test animation
+86002.txt : Mammoth #animation calf
+86005.txt : Windmill #animation test
+86102.txt : Cow Mammoth and Calf
+86103.txt : Bull Mammoth #wild sterile
+86104.txt : Bull Mammoth #wild male
+86105.txt : Bull Mammoth #wild female
+86107.txt : Cow Mammoth #wild receptive
+86109.txt : Ancient Stone Wall #avalon
+86110.txt : Shield of Avalon
+86111.txt : Sword of Avalon
+86112.txt : Ancient Stone Wall #sparta
+86113.txt : Sword of Avalon #scabbard
+86114.txt : Shield of Oblivion
+86115.txt : Shield of Sparta
+86116.txt : Shield of Ivory
+86117.txt : Shield of The Commonwealth
+86118.txt : Shield of Lucky Foot Nation
+86119.txt : Shield of Meow Empire
+86120.txt : Shield of Baget Republic
+86121.txt : Shield
+86122.txt : Sword of Sparta
+86123.txt : Sword of Sparta #scabbard
+86125.txt : Vineyard Plot with Vine
+86126.txt : Vineyard Plot with Thriving Vine
+86127.txt : Flowering Vineyard #1A
+86128.txt : Flowering Vineyard #2A
+86129.txt : Fruiting Vineyard #1A
+86130.txt : Fruiting Vineyard #2A
+86131.txt : apple4_all
+86132.txt : apple3_all
+86133.txt : apple2_all
+86134.txt : apple1_all
+86135.txt : apple1_all
+86136.txt : Dead Apple Tree
+86137.txt : Apple Tree
+86138.txt : Flowering Apple Tree
+86139.txt : Fruiting Apple Tree
+86140.txt : bearhatfixed_all
+86142.txt : Mammoth Bones
+86143.txt : Dead Mammoth
+86144.txt : Dead Bull Mammoth #gutted spear
+86145.txt : Ivory Spear
+86146.txt : Dead Cow Mammoth#shot
+86147.txt : Planted Tobacco
+86148.txt : Wet Planted Tobacco
+86149.txt : Tobacco Sprouts
+86150.txt : Tobacco Plants
+86151.txt : Ripe Tobacco Plants
+86152.txt : Fresh Tobacco Leaves
+86153.txt : Cured Tobacco Leaves
+86154.txt : Cured Tobacco Leaf
+86155.txt : Shredded Tobacco
+86156.txt : Cheroot #unlit
+86157.txt : Cheroot #lit
+86158.txt : Cheroot #unlit 2
+86165.txt : Ivory Goblet
+86166.txt : Ivory Goblet #good wine
+86167.txt : Ivory Goblet #bad wine
+86168.txt : Wine Bottle #bad
+86169.txt : Wine Bottle #good
+86170.txt : Raw Mammoth Meat
+86171.txt : Burlap Sack
+86172.txt : Burlap Sack #wheat 1
+86173.txt : Burlap Sack #wheat 2
+86174.txt : Burlap Sack #wheat 3
+86175.txt : Burlap Sack #flour 1
+86176.txt : Burlap Sack #flour 2
+86177.txt : Burlap Sack #flour 3
+86178.txt : Mammoth Bones #1
+86179.txt : Mammoth Bones #2
+86180.txt : Dead Cow Mammoth#gutted
+86181.txt : Dead Bull Mammoth #gutted
+86182.txt : Cow Mammoth #5 arrows
+86183.txt : Cow Mammoth #4 arrows
+86184.txt : Cow Mammoth #3 arrows
+86185.txt : Cow Mammoth #2 arrows
+86186.txt : Cow Mammoth #1 arrow
+86187.txt : Wooden Barrel
+86188.txt : Aged Wine Barrel #good wine
+86189.txt : Aged Wine Barrel #bad wine
+86190.txt : Wine Barrel #aging good
+86191.txt : Wine Barrel #aging bad
+86192.txt : Vinegar Barrel#vinegar
+86193.txt : Hen
+86194.txt : Rooster #male
+86199.txt : Flowering Apple Tree #pollinated
+86200.txt : Hen #just fed
+86201.txt : Hen #pregnant fertilized
+86203.txt : Honeybee#grape pollen A
+86204.txt : Honeybee#grape pollen B
+86205.txt : Stove Frame #deployed
+86206.txt : Camping Stove #empty
+86207.txt : Camping Stove #water
+86208.txt : Camping Stove #water boiling
+86209.txt : Camping Stove #hot stew
+86210.txt : Camping Stove #empty ashes
+86211.txt : Camping Stove #water ashes
+86212.txt : Camping Stove #cold stew ashes
+86213.txt : Catapult #test 
+86214.txt : Frying Pan with Egg #test
+86216.txt : Wooden Barrel #carrying
+86217.txt : Demo Object Pans
+86218.txt : Cooked Flapjacks #3
+86219.txt : Cooked Flapjacks #3 honeyed
+86220.txt : Apple
+86221.txt : Churn Bucket
+86222.txt : Poached Egg
+86223.txt : Sunny Egg
+86224.txt : Butter
+86225.txt : Butter #2
+86226.txt : Raw Apple Pie
+86227.txt : Cooked Apple Pie
+86228.txt : Rooster #dead
+86229.txt : Hen #dead
+86230.txt : Egg #unfertilized
+86231.txt : Windmill
+86232.txt : Windy Windmill
+86233.txt : Sword of Lucky Foot Nation
+86234.txt : Sword of Lucky Foot #scabbard
+86235.txt : Sword of Ivory
+86236.txt : Sword of Ivory #scabbard
+86237.txt : Sword of Oblivion
+86238.txt : Sword of Oblivion #scabbard
+86239.txt : Sword of The Commonwealth
+86240.txt : Sword of The Commonwealth #scabbard
+86241.txt : Sword of Baget
+86242.txt : Sword of Baget #scabbard
+86243.txt : Sword of Meow Empire
+86244.txt : Sword of Meow Empire #scabbard
+86245.txt : Copper Clad Sword#scabbard
+86246.txt : Copper Clad Sword
+86247.txt : Scabbard #lucky
+86248.txt : Scabbard #meow
+86249.txt : Scabbard #avalon
+86250.txt : Scabbard #baget
+86251.txt : Scabbard #sparta
+86252.txt : Scabbard #ivory
+86253.txt : Scabbard #oblivion
+86254.txt : Scabbard #public
+86255.txt : Scabbard #commonwealth
+86256.txt : Bull Mammoth #saddled 2
+86257.txt : Cow Mammoth #saddled 2
+86258.txt : Bucket of Grapes
+86259.txt : Bucket of Grape Juice
+86260.txt : Bucket of Grape Must
+86261.txt : Wild Grape #Eternal
+86262.txt : Wild Tobacco Plants #seeding
+86263.txt : Wild Tobacco Plants #picked
+86264.txt : Wild Grape #Eternal picked
+86265.txt : Cow Mammoth #wild pregnant male
+86266.txt : Cow Mammoth #wild pregnant female
+86267.txt : Cow Mammoth #wild sterile
+86269.txt : Cow Mammoth and Calf #male
+86271.txt : Bull Mammoth Calf
+86272.txt : Cow Mammoth Calf
+86273.txt : Mossy Big Hard Rock
+86274.txt : Yew Shafts
+86275.txt : Yew Shafts #3
+86276.txt : Stove Frame #stowed
+86277.txt : Stove Pot
+86278.txt : Magic Feather
+86279.txt : Wool Gambeson
+86280.txt : Military Skirt #red
+86281.txt : Copper Helm
+86282.txt : Sword of Avalon #scabbard TEST
+86283.txt : Sword of Baget #scabbard TEST
+86284.txt : Sword of Ivory #scabbard TEST
+86285.txt : Sword of Lucky Foot #scabbard TEST
+86286.txt : Sword of Meow Empire #scabbard TEST
+86287.txt : Sword of Oblivion #scabbard TEST
+86288.txt : Sword of Sparta #scabbard TEST
+86289.txt : Copper Sword#scabbard TEST
+86290.txt : Mammoth Hide
+86291.txt : Mammoth Hides
+86292.txt : Mammoth Hides #3
+86293.txt : Mammoth Tusk
+86294.txt : Plucked Chicken
+86295.txt : Baked Chicken
+86296.txt : Wood Key (Carrot) 2
+86297.txt : Wood Key (Carrot) 3
+86298.txt : Wood Key (Carrot) 4
+86299.txt : Wood Key (Carrot) 5
+86300.txt : Wood Key (Carrot) 6
+86301.txt : Wood Key (Carrot) 7
+86302.txt : Wood Key (Carrot) 8
+86303.txt : Wood Key (Carrot) 9
+86304.txt : Wood Key (Leaf) 2
+86305.txt : Wood Key (Leaf) 3
+86306.txt : Wood Key (Leaf) 4
+86307.txt : Wood Key (Leaf) 5
+86308.txt : Wood Key (Leaf) 6
+86309.txt : Wood Key (Leaf) 7
+86310.txt : Wood Key (Leaf) 8
+86311.txt : Wood Key (Leaf) 9
+86312.txt : Wood Key (Milkweed) 2
+86313.txt : Wood Key (Milkweed) 3
+86314.txt : Wood Key (Milkweed) 4
+86315.txt : Wood Key (Milkweed) 5
+86316.txt : Wood Key (Milkweed) 6
+86317.txt : Wood Key (Milkweed) 7
+86318.txt : Wood Key (Milkweed) 8
+86319.txt : Wood Key (Milkweed) 9
+86321.txt : Steel Key (Carrot) 2
+86322.txt : Steel Key (Carrot) 3
+86323.txt : Steel Key (Carrot) 4
+86324.txt : Steel Key (Carrot) 5
+86325.txt : Steel Key (Carrot) 6
+86326.txt : Steel Key (Carrot) 7
+86327.txt : Steel Key (Carrot) 8
+86328.txt : Steel Key (Carrot) 9
+86329.txt : Steel Key (Milkweed) 2
+86330.txt : Steel Key (Milkweed) 3
+86331.txt : Steel Key (Milkweed) 4
+86332.txt : Steel Key (Milkweed) 5
+86333.txt : Steel Key (Milkweed) 6
+86334.txt : Steel Key (Milkweed) 7
+86335.txt : Steel Key (Milkweed) 8
+86336.txt : Steel Key (Milkweed) 9
+86337.txt : Steel Key (Leaf) 2
+86338.txt : Steel Key (Leaf) 3
+86339.txt : Steel Key (Leaf) 4
+86340.txt : Steel Key (Leaf) 5
+86341.txt : Steel Key (Leaf) 6
+86342.txt : Steel Key (Leaf) 7
+86343.txt : Steel Key (Leaf) 8
+86344.txt : Steel Key (Leaf) 9
+86345.txt : Gold Key (Carrot) 2
+86346.txt : Gold Key (Carrot) 3
+86347.txt : Gold Key (Carrot) 4
+86348.txt : Gold Key (Carrot) 5
+86349.txt : Gold Key (Carrot) 6
+86350.txt : Gold Key (Carrot) 7
+86351.txt : Gold Key (Carrot) 8
+86352.txt : Gold Key (Carrot) 9
+86353.txt : Gold Key (Milkweed) 2
+86354.txt : Gold Key (Milkweed) 3
+86355.txt : Gold Key (Milkweed) 4
+86356.txt : Gold Key (Milkweed) 5
+86357.txt : Gold Key (Milkweed) 6
+86358.txt : Gold Key (Milkweed) 7
+86359.txt : Gold Key (Milkweed) 8
+86360.txt : Gold Key (Milkweed) 9
+86361.txt : Gold Key (Leaf) 2
+86362.txt : Gold Key (Leaf) 3
+86363.txt : Gold Key (Leaf) 4
+86364.txt : Gold Key (Leaf) 5
+86365.txt : Gold Key (Leaf) 6
+86366.txt : Gold Key (Leaf) 7
+86367.txt : Gold Key (Leaf) 8
+86368.txt : Gold Key (Leaf) 9
+86369.txt : Pine Door #WC2
+86370.txt : Pine Door #WC3
+86371.txt : Pine Door #WC4
+86372.txt : Pine Door #WC5
+86373.txt : Pine Door #WC6
+86374.txt : Pine Door #WC7
+86375.txt : Pine Door #WC8
+86376.txt : Pine Door #WC9
+86377.txt : Pine Door #WM2
+86378.txt : Pine Door #WM3
+86379.txt : Pine Door #WM4
+86380.txt : Pine Door #WM5
+86381.txt : Pine Door #WM6
+86382.txt : Pine Door #WM7
+86383.txt : Pine Door #WM8
+86384.txt : Pine Door #WM9
+86385.txt : Pine Door #WL2
+86386.txt : Pine Door #WL3
+86387.txt : Pine Door #WL4
+86388.txt : Pine Door #WL5
+86389.txt : Pine Door #WL6
+86390.txt : Pine Door #WL7
+86391.txt : Pine Door #WL8
+86392.txt : Pine Door #WL9
+86393.txt : Open Pine Needle Door# installed WC2
+86394.txt : Open Pine Needle Door# installed WC3
+86395.txt : Open Pine Needle Door# installed WC4
+86396.txt : Open Pine Needle Door# installed WC5
+86397.txt : Open Pine Needle Door# installed WC6
+86398.txt : Open Pine Needle Door# installed WC7
+86399.txt : Open Pine Needle Door# installed WC8
+86400.txt : Open Pine Needle Door# installed WC9
+86401.txt : Open Pine Needle Door# installed WM2
+86402.txt : Open Pine Needle Door# installed WM3
+86403.txt : Open Pine Needle Door# installed WM4
+86405.txt : Open Pine Needle Door# installed WM5
+86406.txt : Open Pine Needle Door# installed WM6
+86407.txt : Open Pine Needle Door# installed WM7
+86408.txt : Open Pine Needle Door# installed WM8
+86409.txt : Open Pine Needle Door# installed WM9
+86410.txt : Open Pine Needle Door# installed WL2
+86411.txt : Open Pine Needle Door# installed WL3
+86412.txt : Open Pine Needle Door# installed WL4
+86413.txt : Open Pine Needle Door# installed WL5
+86414.txt : Open Pine Needle Door# installed WL6
+86415.txt : Open Pine Needle Door# installed WL7
+86416.txt : Open Pine Needle Door# installed WL8
+86417.txt : Open Pine Needle Door# installed WL9
+86418.txt : Pine Door#Installed WC2
+86419.txt : Pine Door#Installed WC3
+86420.txt : Pine Door#Installed WC4
+86421.txt : Pine Door#Installed WC5
+86422.txt : Pine Door#Installed WC6
+86423.txt : Pine Door#Installed WC7
+86424.txt : Pine Door#Installed WC8
+86425.txt : Pine Door#Installed WC9
+86426.txt : Pine Door#Installed WM2
+86427.txt : Pine Door#Installed WM3
+86428.txt : Pine Door#Installed WM4
+86429.txt : Pine Door#Installed WM5
+86430.txt : Pine Door#Installed WM6
+86431.txt : Pine Door#Installed WM7
+86432.txt : Pine Door#Installed WM8
+86433.txt : Pine Door#Installed WM9
+86434.txt : Pine Door#Installed WL2
+86435.txt : Pine Door#Installed WL3
+86436.txt : Pine Door#Installed WL4
+86437.txt : Pine Door#Installed WL5
+86438.txt : Pine Door#Installed WL6
+86439.txt : Pine Door#Installed WL7
+86440.txt : Pine Door#Installed WL8
+86441.txt : Pine Door#Installed WL9
+86442.txt : Open Pine Needle Door# installed SC2
+86443.txt : Open Pine Needle Door# installed SC3
+86444.txt : Open Pine Needle Door# installed SC4
+86445.txt : Open Pine Needle Door# installed SC5
+86446.txt : Open Pine Needle Door# installed SC6
+86447.txt : Open Pine Needle Door# installed SC7
+86448.txt : Open Pine Needle Door# installed SC8
+86449.txt : Open Pine Needle Door# installed SC9
+86450.txt : Open Pine Needle Door# installed SM2
+86451.txt : Open Pine Needle Door# installed SM3
+86452.txt : Open Pine Needle Door# installed SM4
+86453.txt : Open Pine Needle Door# installed SM5
+86454.txt : Open Pine Needle Door# installed SM6
+86455.txt : Open Pine Needle Door# installed SM7
+86456.txt : Open Pine Needle Door# installed SM8
+86457.txt : Open Pine Needle Door# installed SM9
+86458.txt : Open Pine Needle Door# installed SL2
+86466.txt : Pine Door #SC2
+86467.txt : Pine Door #SC3
+86468.txt : Pine Door #SC4
+86469.txt : Pine Door #SC5
+86470.txt : Pine Door #SC6
+86471.txt : Pine Door #SC7
+86472.txt : Pine Door #SC8
+86473.txt : Pine Door #SC9
+86474.txt : Pine Door #SM2
+86475.txt : Pine Door #SM3
+86476.txt : Pine Door #SM4
+86477.txt : Pine Door #SM5
+86478.txt : Pine Door #SM6
+86479.txt : Pine Door #SM7
+86480.txt : Pine Door #SM8
+86481.txt : Pine Door #SM9
+86482.txt : Pine Door#Installed SC2
+86483.txt : Pine Door#Installed SC3
+86484.txt : Pine Door#Installed SC4
+86485.txt : Pine Door#Installed SC5
+86486.txt : Pine Door#Installed SC6
+86487.txt : Pine Door#Installed SC7
+86488.txt : Pine Door#Installed SC8
+86489.txt : Pine Door#Installed SC9
+86490.txt : Pine Door#Installed SM2
+86491.txt : Pine Door#Installed SM3
+86492.txt : Pine Door#Installed SM4
+86493.txt : Pine Door#Installed SM5
+86494.txt : Pine Door#Installed SM6
+86495.txt : Pine Door#Installed SM7
+86496.txt : Pine Door#Installed SM8
+86497.txt : Pine Door#Installed SM9
+86498.txt : Pine Door#Installed SL2
+86499.txt : Pine Door#Installed SL3
+86500.txt : Pine Door#Installed SL4
+86501.txt : Pine Door#Installed SL5
+86502.txt : Pine Door#Installed SL6
+86503.txt : Pine Door#Installed SL7
+86504.txt : Pine Door#Installed SL8
+86505.txt : Pine Door#Installed SL9
+86506.txt : Open Pine Needle Door# installed GC2
+86507.txt : Open Pine Needle Door# installed GC3
+86508.txt : Open Pine Needle Door# installed GC4
+86509.txt : Open Pine Needle Door# installed GC5
+86510.txt : Open Pine Needle Door# installed GC6
+86511.txt : Open Pine Needle Door# installed GC7
+86512.txt : Open Pine Needle Door# installed GC8
+86513.txt : Open Pine Needle Door# installed GC9
+86514.txt : Open Pine Needle Door# installed GM2
+86515.txt : Open Pine Needle Door# installed GM3
+86516.txt : Open Pine Needle Door# installed GM4
+86517.txt : Open Pine Needle Door# installed GM5
+86518.txt : Open Pine Needle Door# installed GM6
+86519.txt : Open Pine Needle Door# installed GM7
+86520.txt : Open Pine Needle Door# installed GM8
+86521.txt : Open Pine Needle Door# installed GM9
+86522.txt : Open Pine Needle Door# installed GL2
+86523.txt : Open Pine Needle Door# installed GL3
+86524.txt : Open Pine Needle Door# installed GL4
+86525.txt : Open Pine Needle Door# installed GL5
+86526.txt : Open Pine Needle Door# installed GL6
+86527.txt : Open Pine Needle Door# installed GL7
+86528.txt : Open Pine Needle Door# installed GL8
+86529.txt : Open Pine Needle Door# installed GL9
+86530.txt : Pine Door #SL2
+86531.txt : Open Pine Needle Door# installed SL3
+86532.txt : Open Pine Needle Door# installed SL4
+86533.txt : Open Pine Needle Door# installed SL5
+86534.txt : Open Pine Needle Door# installed SL6
+86535.txt : Open Pine Needle Door# installed SL7
+86536.txt : Open Pine Needle Door# installed SL8
+86537.txt : Open Pine Needle Door# installed SL9
+86538.txt : Pine Door #GC2
+86539.txt : Pine Door #GC3
+86540.txt : Pine Door #GC4
+86541.txt : Pine Door #GC5
+86542.txt : Pine Door #GC6
+86543.txt : Pine Door #GC7
+86544.txt : Pine Door #GC8
+86545.txt : Pine Door #GC9
+86546.txt : Pine Door #GM2
+86547.txt : Pine Door #GM3
+86548.txt : Pine Door #GM4
+86549.txt : Pine Door #GM5
+86550.txt : Pine Door #GM6
+86551.txt : Pine Door #GM7
+86552.txt : Pine Door #GM8
+86553.txt : Pine Door #GM9
+86554.txt : Pine Door #GL2
+86555.txt : Pine Door #GL3
+86556.txt : Pine Door #GL4
+86557.txt : Pine Door #GL5
+86558.txt : Pine Door #GL6
+86559.txt : Pine Door #GL7
+86560.txt : Pine Door #GL8
+86561.txt : Pine Door #GL9
+86562.txt : Pine Door#Installed GC2
+86563.txt : Pine Door#Installed GC3
+86564.txt : Pine Door#Installed GC4
+86565.txt : Pine Door#Installed GC5
+86566.txt : Pine Door#Installed GC6
+86567.txt : Pine Door#Installed GC7
+86568.txt : Pine Door#Installed GC8
+86569.txt : Pine Door#Installed GC9
+86570.txt : Pine Door#Installed GM2
+86571.txt : Pine Door#Installed GM3
+86572.txt : Pine Door#Installed GM4
+86573.txt : Pine Door#Installed GM5
+86574.txt : Pine Door#Installed GM6
+86575.txt : Pine Door#Installed GM7
+86576.txt : Pine Door#Installed GM8
+86577.txt : Pine Door#Installed GM9
+86578.txt : Pine Door#Installed GL2
+86579.txt : Pine Door#Installed GL3
+86580.txt : Pine Door#Installed GL4
+86581.txt : Pine Door#Installed GL5
+86582.txt : Pine Door#Installed GL6
+86583.txt : Pine Door#Installed GL7
+86584.txt : Pine Door#Installed GL8
+86585.txt : Pine Door#Installed GL9
+86586.txt : Ancient Stone Wall #lucky
+86587.txt : Ancient Stone Wall #baget
+86588.txt : Ancient Stone Wall #oblivion
+86589.txt : Ancient Stone Wall #ivory
+86590.txt : Ancient Stone Wall #meow
+86591.txt : Ancient Stone Wall #commonwealth
+86592.txt : Crown of Avalon
+86593.txt : Crown of Lucky Foot Nation
+86594.txt : Crown of Republique du Baget
+86595.txt : Crown of Oblivion Empire
+86596.txt : Crown of Ivory Empire
+86597.txt : Crown of Sparta
+86598.txt : Crown of The Commonwealth
+86599.txt : Crown of Meow Empire
+86600.txt : Vial of Medicine
+86601.txt : Templar Sword #scabbard
+86602.txt : Scabbard #templar
+86603.txt : Templar Shield
+86604.txt : Templar Sword
+86605.txt : Templar Sword #scabbard TEST
+86606.txt : Ancient Stone Wall #templar
+86607.txt : Banner #meow
+86608.txt : Banner #lucky
+86609.txt : Banner #oblivion
+86610.txt : Banner #common
+86611.txt : Banner #templar
+86612.txt : Banner #baget
+86613.txt : Banner #ivory
+86614.txt : Banner #sparta
+86615.txt : Banner #avalon
+86616.txt : The Tree of Knowledge
+86617.txt : Rooster Chick
+86618.txt : Hen Chick
+86619.txt : Pine Door#SL3
+86620.txt : Pine Door#SL4
+86621.txt : Pine Door#SL5
+86622.txt : Pine Door#SL6
+86623.txt : Pine Door#SL7
+86624.txt : Pine Door#SL8
+86625.txt : Pine Door#SL9
+86626.txt : Burning Cheroot
+86627.txt : Burning Cheroot #2
+86628.txt : Burning Cheroot #3
+86629.txt : Nesting Hen #eggless
+86633.txt : Dead Bull Mammoth #meatless
+86634.txt : Mammoth Hide Gambeson
+86635.txt : Templar Crown
+86636.txt : Cooked Mammoth Meat
+86637.txt : @ Barriers
+86638.txt : @ Banners
+86639.txt : Goose Feathers
+86640.txt : @ 2HOL Swords
+86641.txt : @ 2HOL Scabbards
+86642.txt : @ 2HOL Holstered
+86643.txt : @ Invasions
+86644.txt : @ 2HOL Shields
+86645.txt : Mason Jar of Iron
+86646.txt : Mason Jar of Iron in Wooden Tongs
+86647.txt : Hot Jar of Iron in Wooden Tongs
+86648.txt : Hot Jar of Iron on Flat Rock
+86649.txt : Cool Jar of Iron on Flat Rock
+86650.txt : Cool Jar of Iron in Wooden Tongs
+86651.txt : Iron Griddle on Flat Rock
+86652.txt : Iron Griddle
+86653.txt : Iron Griddle with Raw Egg
+86654.txt : Iron Griddle with Poaching Egg
+86655.txt : Iron Griddle with Cooked Egg
+86656.txt : Iron Griddle with Poached Egg
+86657.txt : @ Silk Clothes
+86658.txt : Grape Vine Graft
+86659.txt : Tobacco Seed
+86660.txt : Egg #male rooster
+86661.txt : Egg #female hen
+86662.txt : Apple Cutting
+86663.txt : Dry Apple Cutting
+86664.txt : Wet Apple Cutting
+86665.txt : Apple Sapling
+86666.txt : Poplar Sapling
+86667.txt : Autumn Apple Tree
+86668.txt : Spring Apple Tree
+86669.txt : The Tree of Knowledge #barren
+86670.txt : Winter Apple Tree
+86671.txt : Ploughed Furrow
+86672.txt : Wet Vineyard Plot with Vine
+86673.txt : Vineyard Plot with Thriving Vine #pollen A
+86674.txt : Vineyard Plot with Thriving Vine #pollen B
+86675.txt : Vineyard Plot with Fading Vine #1A
+86676.txt : Vineyard Plot with Fading Vine #1B
+86677.txt : Wet Vineyard Plot with Vine #1B
+86678.txt : Vineyard Plot with Vine #1B
+86679.txt : Vineyard Plot with Vine #2A
+86680.txt : Wet Vineyard Plot with Vine #2A
+86681.txt : Grape Cutting #1A
+86682.txt : Grape Cutting #1B
+86683.txt : Flowering Vineyard #1B
+86684.txt : Flowering Vineyard #2B
+86685.txt : Fruiting Vineyard #1B
+86686.txt : Fruiting Vineyard #2B
+86687.txt : Flowering Vineyard #C
+86688.txt : @ 2HOL grapes
+86689.txt : @ 2HOL grape flowers
+86690.txt : Fruiting Vineyard #C
+86691.txt : Bucket of Grapes #good
+86692.txt : Bucket of Grape Must #good
+86693.txt : Bucket of Grape Juice #good
+86694.txt : Flowering Vineyard #C cut
+86695.txt : Grape Cutting #charlie
+86696.txt : Hoops
+86697.txt : Windmill Kit
+86698.txt : Bolt of Silk Cloth #4
+86699.txt : White Silk Rolls with Flat Rock
+86700.txt : Ropes
+86701.txt : Figure Eight and Mammoth Hide
+86702.txt : Ripe Tobacco Plants #seedless
+86703.txt : Cured Tobacco Leaves #3
+86704.txt : Cured Tobacco Leaves #2
+86705.txt : Cured Tobacco Leaves #1
+86706.txt : Burning Butt #3
+86707.txt : @ 2HOL stews
+86708.txt : @ 2HOL stews veggie
+86709.txt : Bowl of Veggie Stew
+86710.txt : Iron Griddle on Flat Rock #hot
+86711.txt : Stove Pot on Flat Rock #hot
+86712.txt : Stove Pot on Flat Rock #cool
+86713.txt : Camping Stove #water heating
+86714.txt : Camping Stove #hot stew veggie
+86715.txt : Camping Stove #cold stew ashes veggie
+86716.txt : Mammoth Hide Skirt
+86717.txt : Mammoth Hide Helm
+86718.txt : Figure Eight
+86719.txt : Mammoth Tackle
+86720.txt : Steel Blade Blank with Copper Plate
+86721.txt : Blade Blank and Copper Plate in Tongs
+86722.txt : Hot Blank and Copper Plate in Tongs
+86723.txt : Hot Blank and Copper Plate#flat rock
+86724.txt : Cool Blank and Copper Plate in Tongs
+86725.txt : Cool Blank and Copper Plate#flat rock
+86726.txt : Copper Clad Sword#flat rock
+86727.txt : Mammoth Tusks
+86728.txt : Mammoth Tusks #3
+86730.txt : Flint and Steel
+86731.txt : @ 2HOL Eggs
+86732.txt : Vinegar Bottle
+86733.txt : @ Unshot Mammoth
+86734.txt : @ Unshot 2HOL birds
+86735.txt : @ Unshot Mammoth cows
+86736.txt : Mossy Big Hard Rock #bull eating
+86737.txt : Mossy Big Hard Rock #cow eating
+86738.txt : Bull Mammoth with Plough
+86740.txt : Firewood Stack
+86741.txt : Firewood Stack #3
+86742.txt : Firewood Stack #4
+86743.txt : Bull Mammoth Calf #just left
+86744.txt : Cow Mammoth Calf #just left
+86745.txt : @ Shot Mammoth cows
+86746.txt : @ Shot Mammoth bulls
+86747.txt : Dead Cow Mammoth#meatless
+86748.txt : Plough Kit
+86749.txt : Dead Bull Mammoth #just killed
+86751.txt : Hen #brooding unfertilized
+86754.txt : Milkweed Coin
+86755.txt : Milkweed Coins #2
+86756.txt : Milkweed Coins #3
+86757.txt : Milkweed Coins #4
+86758.txt : Milkweed Coins #5
+86759.txt : Milkweed Coins #10
+86760.txt : Milkweed Coins #15
+86761.txt : Silver Coin
+86762.txt : Silver Coins #2
+86763.txt : Silver Coins #3
+86764.txt : Silver Coins #4
+86765.txt : Silver Coins #5
+86766.txt : Windmill #2hoL Advertisement
+86767.txt : Silver Ore #2HOL
+86768.txt : Silver Ore in Wooden Tongs #2HOL
+86769.txt : Hot Silver Bloom #2HOL
+86770.txt : Cold Silver Bloom #2HOL
+86771.txt : Hot Silver Bloom in Wooden Tongs #2HOL
+86772.txt : Cold Silver Bloom in Wooden Tongs #2HOL
+86773.txt : Cold Silver Bloom on Flat Rock #2HOL
+86774.txt : Hot Silver Bloom on Flat Rock #2HOL
+86775.txt : Silver Vein
+86776.txt : Five Silver Coins on Flat Rock
+86777.txt : Mammoth Hide Gambeson #cloak
+86778.txt : Mammoth Hide Gambeson #cloak blue
+86779.txt : Mammoth Hide Gambeson #cloak red
+86780.txt : Mammoth Hide Gambeson #cloak blue gold
+86781.txt : Mammoth Hide Gambeson #cloak red gold
+86782.txt : Mammoth Hide Officer Helm
+86783.txt : Ancient Stone Wall Corner
+87784.txt : Recon Chopper
+87785.txt : Wild Stallion
+87786.txt : Bridled Stallion
+87787.txt : Armored Charger
+87788.txt : Armored War Charger
+87789.txt : Armored War Charger #templar
+87790.txt : Armored War Charger #oblivion
+87791.txt : Armored War Charger #baget
+87792.txt : Armored War Charger #sparta
+87793.txt : Armored War Charger #ivory
+87794.txt : Armored War Charger #avalon
+87795.txt : Armored War Charger #meow
+87797.txt : Armored War Charger #commonwealth
+87798.txt : Armored War Charger #lucky
+87799.txt : @ 2HOL Chargers
+87800.txt : Rocket Explosion
+87801.txt : @ 2HOL Bannermen
+87802.txt : @ 2HOL Cavalry
+87803.txt : Mammoth Greaves
+87804.txt : @ 2HOL Bees
+87805.txt : Dead Honeybee
+87806.txt : @ armor
+87808.txt : Work Stallion
+87809.txt : Captured Stallion
+87810.txt : Fur Coat Stallion
+87811.txt : Fur Coat Stallion #strap
+87812.txt : Merchant
+87813.txt : Merchant#following
+87814.txt : Merchant Goods
+87815.txt : Dye Merchant
+87816.txt : Dye Merchant Goods
+87817.txt : Leprechaun
+87818.txt : Leprechaun Chance
+87819.txt : Small Money Bag
+87820.txt : Medium Money Bag
+87821.txt : Large Money Bag
+87822.txt : Gold Bars
+87823.txt : Small Money Bag#empty
+87824.txt : Medium Money Bag#5
+87825.txt : Large Money Bag#10
+87826.txt : Loom with Silk Warp
+87827.txt : Loom with Silk Cloth
+87828.txt : Loom with Cut Silk Cloth
+87829.txt : Skeleton Horse
+87830.txt : Cotton Plant
+87831.txt : Cotton Plant#budding
+87832.txt : Cotton Plant#boll
+87833.txt : Cotton Plant#pickable
+87834.txt :  Cotton Sapling
+87835.txt : Cotton Seed
+87836.txt : Spinning Wheel
+87837.txt : Spinning Wheel#in use
+87838.txt : Cotton Capsule
+87839.txt : Loom with Cotton Cloth
+87840.txt : Loom with Cut Cotton Cloth
+87841.txt : Bolt of Cotton Cloth
+87842.txt : Loom with Cotton Warp
+87843.txt : Cotton Yarn
+87844.txt : Dry Planted Cotton Seed
+87845.txt : Wet Planted Cotton Seed
+87846.txt :  Wet Cotton Sapling
+87847.txt : Wild Cotton Plant#pickable
+87848.txt : Short and Curved Shaft
+87849.txt : Clothing Wheel
+87850.txt : Clothing Wheel#in progress
+87851.txt : Clothing Wheel#complete
+87852.txt : Spinning Wheel Frame
+87853.txt : Spinning Wheel Frame and Wheel
+87854.txt : Stack of Cotton Bolts
+87855.txt : Stack of Cloth Bolts
+87856.txt : Cave
+87857.txt : Mine
+87858.txt : Mine#upgrade1
+87859.txt : Mine#upgrade2
+87860.txt : Mine#upgrade3
+87861.txt : Mining Loot
+87862.txt : Silver Ore Pile
+87863.txt : Hand Cart with Loom
+87864.txt : @ Cart Movable Object
+87865.txt : @ Movable Object in Cart
+87866.txt : Hand Cart with Spinning Wheel
+87867.txt : Empty Creamery Stack
+87874.txt : Salt Water
+87875.txt : Bowl of Bait
+87876.txt : Cheese Wedge In a Bowl
+87877.txt : Bread In a Bowl
+87878.txt : Worm In a Bowl
+87879.txt : @ Pre-Bait Bowl
+87880.txt : Stand with Flag#kitchen
+87881.txt : Stand with Flag#blacksmith
+87882.txt : Stand with Flag#tailor
+87883.txt : Bear House Flag Stand
+87884.txt : Llama House Flag Stand
+87885.txt : Wolf House Flag Stand
+87886.txt : Horse House Flag Stand
+87887.txt : Flag Stand
+87888.txt : Stone Wall#flagholder
+87889.txt : Stone Wall#horseflag
+87890.txt : Stone Wall#wolfflag
+87891.txt : Stone Wall#llamaflag
+87892.txt : Stone Wall#bearflag
+87893.txt : Stone Wall#kitchenflag
+87894.txt : Stone Wall#blacksmithflag
+87895.txt : Stone Wall#tailorflag
+87896.txt : Tailor Flag Roll
+87897.txt : Blacksmith Flag Roll
+87898.txt : Kitchen Flag Roll
+87899.txt : Horse Flag Roll
+87900.txt : Wolf Flag Roll
+87901.txt : Llama Flag Roll
+87902.txt : Bear Flag Roll
+87903.txt : FlagItems
+87904.txt : FlagRolls
+87905.txt : FlagStands
+87906.txt : FlagWall
+87907.txt : Stone Wall#flagholdefloor
+87908.txt : Flag Wall Holder
+87910.txt : Cotton Fustanella
+87911.txt : Cotton Shawl
+87912.txt : Cotton Sheet
+87913.txt : Cotton Sheets
+87914.txt : Cotton Sheets#3
+87915.txt : Cotton Sheets#4
+87916.txt : Backpack with Fishing Pole
+87917.txt : Backpack with Fishing Pole#hookless
+87918.txt : Filleted Fish on Flat Rock
+87919.txt : Char on Flat Rock
+87920.txt : Skewered Fillets
+87921.txt : Cooked Skewered Fillets
+87922.txt : Fish Leftovers on Flat Rock
+87923.txt : Burnt Skewered Fillets
+87924.txt : Burnt Fillet
+87925.txt : Bridge
+87927.txt : Partial Bridge Foundation
+87929.txt : Butchered Pig with Intestines
+87930.txt : Bacon
+87932.txt : Sausage
+87933.txt : Link of Sausages
+87934.txt : Tied Bridge Foundation
+87936.txt : Stack of Bacon
+87937.txt : Bacon on Plate
+87938.txt : Cooked Sausage
+87939.txt : Cooked Bacon
+87940.txt : Cooked Pork
+87941.txt : Cooked Pork on Plate
+87942.txt : Bowl of Minced Pork
+87943.txt : Intestines
+87944.txt : Sausage Casing
+87945.txt : Salt Water
+87946.txt : Woolly Mammoth
+87947.txt : Woolly Mammoth with Plough
+87949.txt : Hand Cart with Old Tires
+87950.txt : Horse-Drawn Cart with Tires
+87951.txt : Hitched Horse-Drawn Cart with Tires
+87952.txt : Tipped Horse-Drawn Cart with Tires# just tipped
+87953.txt : Tipped Horse-Drawn Cart with Tires# ground
+87954.txt : Smoldering Tinder#pineneedles
+87955.txt : Burning Tinder#pineneedles
+87956.txt : Spent Tinder#pineneedles
+87957.txt : @ Open Installed Door
+87958.txt : Key
+87959.txt : Key #WKC
+87961.txt : Key #WKC2
+87962.txt : Key #WKC3
+87963.txt : Key #WKC4
+87964.txt : Key #WKC5
+87965.txt : Key #WKC6
+87966.txt : Key #WKC7
+87967.txt : Key #WKC8
+87968.txt : Key #WKC9
+87969.txt : Key #WKL
+87971.txt : Key #WKL2
+87972.txt : Key #WKL3
+87973.txt : Key #WKL4
+87974.txt : Key #WKL5
+87975.txt : Key #WKL6
+87976.txt : Key #WKL7
+87977.txt : Key #WKL8
+87978.txt : Key #WKL9
+87979.txt : Key #WKM
+87981.txt : Key #WKM2
+87982.txt : Key #WKM3
+87983.txt : Key #WKM4
+87984.txt : Key #WKM5
+87985.txt : Key #WKM6
+87986.txt : Key #WKM7
+87987.txt : Key #WKM8
+87988.txt : Key #WKM9
+87989.txt : @ Custom Keys
+87990.txt : @ Visible Keys
+87991.txt : @ Pine Doors
+87992.txt : @ Pine Doors Open
+87993.txt : @ Pine Doors Installed
+87994.txt : Key #SKM1
+87995.txt : Key #SKM2
+87996.txt : Key #SKM3
+87997.txt : Key #SKM4
+87998.txt : Key #SKM5
+87999.txt : Key #SKM6
+88000.txt : Key #SKM7
+88001.txt : Key #SKM8
+88002.txt : Key #SKM9
+88003.txt : Key #SKL1
+88004.txt : Key #SKL2
+88005.txt : Key #SKL3
+88006.txt : Key #SKL4
+88007.txt : Key #SKL5
+88008.txt : Key #SKL6
+88009.txt : Key #SKL7
+88010.txt : Key #SKL8
+88011.txt : Key #SKL9
+88012.txt : Key #SKC1
+88013.txt : Key #SKC2
+88014.txt : Key #SKC3
+88015.txt : Key #SKC4
+88016.txt : Key #SKC5
+88017.txt : Key #SKC6
+88018.txt : Key #SKC7
+88019.txt : Key #SKC8
+88020.txt : Key #SKC9
+88021.txt : Key #GKM1
+88022.txt : Key #GKM2
+88023.txt : Key #GKM3
+88024.txt : Key #GKM4
+88025.txt : Key #GKM5
+88026.txt : Key #GKM6
+88027.txt : Key #GKM7
+88028.txt : Key #GKM8
+88029.txt : Key #GKM9
+88030.txt : Key #GKL1
+88031.txt : Key #GKL2
+88032.txt : Key #GKL3
+88033.txt : Key #GKL4
+88034.txt : Key #GKL5
+88035.txt : Key #GKL6
+88036.txt : Key #GKL7
+88037.txt : Key #GKL8
+88038.txt : Key #GKL9
+88039.txt : Key #GKC1
+88040.txt : Key #GKC2
+88041.txt : Key #GKC3
+88042.txt : Key #GKC4
+88043.txt : Key #GKC5
+88044.txt : Key #GKC6
+88045.txt : Key #GKC7
+88046.txt : Key #GKC8
+88047.txt : Key #GKC9
+88048.txt : @ Letters
+88049.txt : @ Letters Alt
+88050.txt : Rabbit Bones #nobone
+88051.txt : Bones in Bowl
+88052.txt : Bone meal in Bowl
+88053.txt : @ Basket of Bones
+88054.txt : @ Plant Stage
+88055.txt : @ Plant Stage Alt
+88056.txt : Backpack with Yew Bow
+88060.txt : Stone Wall Home#llama eveHomeMarker
+88061.txt : Stone Wall#wolf eveHomeMarker
+88062.txt : Stone Wall#bear eveHomeMarker
+88063.txt : Stone Wall#horse eveHomeMarker
+88066.txt : Black Short Trousers with Work Belt
+88067.txt : Bp Test
+88069.txt : Poipack
+88074.txt : Sandstone Wall
+88075.txt : Sandstone Wall
+88076.txt : SandStone Wall
+88077.txt : Sandstone Floor# groundOnly
+88078.txt : Sand Stone
+88079.txt : Dug Sandstone
+88080.txt : Dug Sandstone with Chisel
+88081.txt : Split Sandstone#chisel
+88082.txt : Split Sandstone with Chisel
+88083.txt : Split Sandstone with Chisel
+88086.txt : Cut Sandstone with Chisel
+88087.txt : Cut Sandstone
+88088.txt : Split Sandstone
+88089.txt : Wooden Wall
+88090.txt : Wooden Wall
+88091.txt : Wooden Wall
+88092.txt : Bamboo Wall
+88093.txt : Bamboo Wall
+88094.txt : Bamboo Wall
+88095.txt : Bamboo Floor# groundOnly
+88096.txt : Cheroot Box #open
+88097.txt : Full Cheroot Box
+88098.txt : Empty Cheroot Box
+88100.txt : Bamboo
+88101.txt : Cut Bamboo
+88102.txt : Bamboo Stump
+88103.txt : Cut Bamboo
+88104.txt : Horse Town Top
+88105.txt : Horse Town Pants
+88106.txt : Wolf Town Pants
+88107.txt : Wolf Town Top
+88108.txt : Llama Town Pants
+88109.txt : Llama Town Top
+88110.txt : Bear Town Top
+88111.txt : Bear Town Pants
+88114.txt : Horse Town Bottom#blue
+88115.txt : Horse Town Top#blue
+88116.txt : Horse Town Bottom#red
+88117.txt : Horse Town Top#red
+88118.txt : Horse Town Top#green
+88119.txt : Horse Town Bottom#green
+88120.txt : Wolf Town Top#blue
+88121.txt : Wolf Town Pants#blue
+88122.txt : Wolf Town Top#red
+88123.txt : Wolf Town Pants#red
+88124.txt : Wolf Town Top#green
+88126.txt : Wolf Town Pants#green
+88127.txt : Llama Town Top#blue
+88128.txt : Llama Town Top#red
+88129.txt : Llama Town Top#green
+88130.txt : Bear Town Pants#blue
+88131.txt : Bear Town Pants#red
+88132.txt : Bear Town Pants#green
+88133.txt : Two Balls of Thread
+88135.txt : Bear Skin Rug#ancient stone groundOnly
+88136.txt : Work Bench
+88137.txt : Wooden Table
+88138.txt : Work Bench#partial
+88139.txt : Work Bench#partial
+88140.txt : Sewing Machine
+88141.txt : Sewing Machine#thread
+88142.txt : Sewing Machine#threadfull
+88143.txt : Sewing Machine#llama
+88144.txt : Sewing Machine#bear
+88145.txt : Sewing Machine#wolf
+88146.txt : Sewing Machine#horse
+88148.txt : Sewing Machine#llama thread
+88149.txt : Sewing Machine#bear thread
+88150.txt : Sewing Machine#wolf thread
+88151.txt : Sewing Machine#horse thread
+88152.txt : Unattached Partial Sewing Machine
+88153.txt : Hot Partial Sewing Machine#flat rock
+88154.txt : Partial Sewing Machine#flat rock
+88155.txt : Unattached Sewing Machine
+88156.txt : Hen #pecking
+88157.txt : Head Wrap
+88158.txt : Head Wrap#basket
+88159.txt : Head Wrap basket onGround
+88160.txt : Head Wrap onGround
+88161.txt : Feather Hat
+88162.txt : Cowboy Hat
+88163.txt : Pirate Hat
+88164.txt : Pile of Turkey Feather
+88165.txt : @Egg Pile
+88166.txt : Nest #eggpile1
+88167.txt : Nest #eggpile3
+88168.txt : Nest#eggpile2
+88171.txt : @Chance to lay
+88173.txt : Hen#held
+88174.txt : Nesting Hen #eggless fertilized
+88175.txt : @Chick Chance
+88176.txt : Blunt War Sword
+88177.txt : Egg in Nest #male
+88178.txt : Egg in Nest #female
+88179.txt : Brooding Hen #male
+88180.txt : Brooding Hen #female
+88181.txt : Chicken Bones
+88182.txt : Anniversary Statue
+88183.txt : Anniversary Statue #ancient
+88184.txt : Ancient Sandstone Wall
+88185.txt : Ancient Sandstone Wall
+88186.txt : Ancient SandStone Wall
+88187.txt : Ancient Bamboo Wall
+88188.txt : Ancient Bamboo Wall
+88189.txt : Ancient Bamboo Wall
+88190.txt : Cut Sandstone#just removed
+88191.txt : Pirate Hat on Water
+88192.txt : Rooster #held
+88193.txt : Backpack with Blunt Sword
+88194.txt : Sharp War Sword#just sharpened
+88195.txt : Work Bench #repairable
+88196.txt : Steel Hoe#just repaired
+88197.txt : Steel Adze#just repaired
+88198.txt : Steel Axe#just repaired
+88199.txt : Steel Mining Pick#just repaired
+88200.txt : Shovel#just repaired
+88201.txt : Boards with Two Shafts
+88202.txt : Fishing Pot
+88203.txt : Fishing Pot#in water
+88204.txt : Fishing Pot with Crab
+88205.txt : Fishing Pot with Lobster
+88206.txt : Lobster
+88207.txt : Crab
+88208.txt : Fishing Pot with Lobster# ground
+88209.txt : Fishing Pot with Crab# ground
+88210.txt : Broken Fishing Pot
+88211.txt : Cooked Lobster on Plate
+88212.txt : Cooked Crab on Plate
+88213.txt : Perhaps a Catch
+88214.txt : Perhaps a Catch#low chance
+88215.txt : Fish Leftovers
+88216.txt : Baited Fishing Pot
+88217.txt : Fishing Pot#in water baited
+88218.txt : Fishing Pot#in water baited ready
+88219.txt : Fishing Pot#in water ready
+88220.txt : Two Short Shafts
+88221.txt : Partial Fishing Pot
+88222.txt : Anniversary Party Hat
+88223.txt : Dyed Paper
+88224.txt : Crab in Simmering Water
+88225.txt : Cooked Crab in Simmering Water
+88226.txt : Dispatched Crab
+88227.txt : Cooked Crab in Clay Bowl
+88228.txt : Cooked Crab on Ashes
+88229.txt : Lobster in Simmering Water
+88230.txt : Cooked Lobster in Simmering Water
+88231.txt : Cooked Lobster on Ashes
+88232.txt : Cooked Lobster in Clay Bowl
+88233.txt : Poipack with Yew Bow
+88234.txt : Tapped Maple Tree
+88235.txt : Tapped Maple Tree with Bucket
+88236.txt : Bucket of Maple Sap
+88237.txt : Poipack with Fishing Pole
+88238.txt : Poipack with Fishing Pole#hookless
+88239.txt : Stack of Empty Bucket
+88242.txt : Full Dung Bucket
+88243.txt : Partial Dung Bucket
+88244.txt : Dung Box
+88245.txt : Egg in Simmering Water
+88246.txt : Boiled Egg in Clay Bowl
+88247.txt : Boiled Egg on Clay Plate
+88248.txt : Peeled Boiled Egg on Clay Plate
+88250.txt : Cut Boiled Egg on Clay Plate
+88251.txt : Steel Pick on Poipack
+88252.txt : Shovel on Poipack
+88253.txt : Hoe on Poipack
+88254.txt : Adze on Poipack
+88255.txt : Axe on Poipack
+88256.txt : Pile of Fleeces
+88257.txt : Pile of Mouflon Hides
+88258.txt : Pile of Sheep Skins
+88259.txt : Pile of Seal Skins
+88260.txt : Pile of Bear Skins
+88261.txt : Pile of Wolf Skins
+88262.txt : Pile of Snake Skins
+88263.txt : Pile of Sharp Stones
+88264.txt : Pile of Snares
+88265.txt : Pile of Arrows
+88266.txt : Pile of Ear of Corns
+88267.txt : Pile of Dried Corn
+88268.txt : Pile of Shucked Corn
+88269.txt : Pile of Onions
+88270.txt : Pile of Tomatoes
+88271.txt : Pile of Cotton Capsules
+88272.txt : Stack of Fishing Pots
+88273.txt : Pile of Worms
+88274.txt : Two Kindling
+88275.txt : Pile of Clay
+88276.txt : Pile of Adobe
+88277.txt : Pile of Baked Potatoes
+88278.txt : Pile of Raw Potatoes
+88279.txt : Pile of Flint Arrowheads
+88280.txt : Stack of Wooden Disks
+88281.txt : Pile of Apples
+88282.txt : Fishing Hat
+88283.txt : Rose Crown
+88284.txt : Nest
+88285.txt : Hen# fed held
+88286.txt : Pile of Eggs
+88287.txt : Hen# pregnant held
+88288.txt : Bee Sting# sick emot_7_35  food_0.3 fever_15
+88289.txt : Swarm of Angry Bees#just stung
+88290.txt : Pine Floor#groundOnly
+88291.txt : Leaf Floor#groundOnly
+88292.txt : Basket of Leaves
+88293.txt : Leaf Pile
+88294.txt : Stack of Jar Molds
+88295.txt : Pile of Clay Crocks
+88297.txt : Basket with Stakes
+88298.txt : Tatami Floor#groundOnly
+88299.txt : Sand Floor#groundOnly
+88300.txt : Sand Castle#ground
+88301.txt : Sand Castle#2 ground
+88302.txt : Sand Castle#3 ground
+88303.txt : Bucket of Sand
+88304.txt : Sand Pile#ground
+88305.txt : Sand Pile#ground footsteps
+88306.txt : Anger# emot_2_3
+88307.txt : Rose Stack
+88308.txt : Rose Stack#red pink
+88309.txt : Rose Stack#red blue
+88310.txt : Boiled Egg in Simmering Water
+88311.txt : Boiled Egg on Ashes
+88312.txt : Fleeing Rabbit
+88313.txt : Fleeing Rabbit# groundOnly
+88314.txt : @Dug Rabbit
+88315.txt : Stakes in Clay Bowl
