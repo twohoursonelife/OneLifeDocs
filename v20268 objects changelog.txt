@@ -1,0 +1,157 @@
+============================================
+Objects changelog 2HOL v20267 -> v20268
+============================================
+
+CHANGES
+
+87925.txt : Bridge#groundOnly -> 87925.txt : Bridge
+88195.txt : Steel Material on Work Bench -> 88195.txt : Work Bench #repairable
+
+ADDITIONS
+
+88317.txt : Cheese Wheel Pile
+88319.txt : Blowpipe With Hot Glass Jar
+88320.txt : Blowpipe With Hot Glass Tube
+88321.txt : Blowpipe With Cool Glass Jar
+88322.txt : Blowpipe With Cool Glass Tube
+88323.txt : Blowpipe With Detached Glass Jar
+88324.txt : Blowpipe With Detached Glass Tube
+88325.txt : Blowpipe With Hot Glass Bottle
+88326.txt : Blowpipe With Cool Glass Bottle
+88327.txt : Blowpipe With Detached Glass Bottle
+88328.txt : Glass Bottle
+88329.txt : Bear Cave#bait
+88330.txt : Boot
+88331.txt : Pile of Arctic Char
+88332.txt : Stack of Stone Blocks
+88333.txt : Pile of Cut Stones
+88334.txt : Pile of Shrimps
+88335.txt : Pile of Pine Needles
+88336.txt : Pile of Short Shafts
+88337.txt : Pile of Yew Branches
+88338.txt : Pile of Straight Branches
+88339.txt : Pile of Steel Rods
+88340.txt : Pile of Steel Pipes
+88341.txt : Stack of Hubbard Squash
+88342.txt : Pile of Wild Onions
+88343.txt : Pile of Wild Carrots
+88344.txt : Pile of Bananas
+88345.txt : Pile of Mangoes
+88346.txt : Domestic Pig on Rope
+88347.txt : Domestic Cow on Rope
+88349.txt : Milk Cow on Rope
+88351.txt : Domestic Sheep on Rope
+88352.txt : Shorn Sheep on Rope
+88355.txt : Stone Wall with Shelf
+88357.txt : Stone Wall with Shelves
+88358.txt : Bowl of Minced Beef
+88359.txt : Bowl of Minced Mutton
+88360.txt : Bowl of Raw Mutton
+88361.txt : Bowl of Raw Beef
+88362.txt : Skinned Cow
+88363.txt : Skinned Bison
+88364.txt : Skinned Bison #with hide
+88365.txt : Skinned Cow #with hide
+88366.txt : Butchered Bison
+88367.txt : Butchered Cow
+88368.txt : Bison Skin
+88369.txt : Cow Skin
+88370.txt : Cow Bones
+88371.txt : Bison Bones
+88372.txt : Raw Beef
+88373.txt : Dead Cow #shot
+88374.txt : Dead Cow #shot arrow
+88375.txt : Basket of Cow Bones
+88376.txt : Basket of Bison Bones
+88377.txt : Bison Bones#dumped
+88378.txt : Cow Bones#dumped
+88379.txt : Raw Steak Pie
+88380.txt : Cooked Steak Pie
+88381.txt : Raw Steak and Onion Pie
+88382.txt : Cooked Steak and Onion Pie
+88383.txt : Raw Pork Pie
+88384.txt : Cooked Pork Pie
+88385.txt : Raw Honey Bunny Pie
+88386.txt : Cooked Honey Bunny Pie
+88387.txt : Raw Pork and Apple Pie
+88388.txt : Cooked Pork and Apple Pie
+88389.txt : Bowl of Minced Beef and Onion
+88390.txt : Plucked Chicken on Plate
+88392.txt : Cut Raw Chicken on Plate
+88393.txt : Cut Raw Chicken and Bones on Plate
+88394.txt : Raw Chicken Pie
+88395.txt : Cooked Chicken Pie
+88396.txt : Dug Potatoes
+88397.txt : Bison Hat
+88398.txt : Hedge Wall
+88399.txt : Hedge Wall
+88400.txt : Hedge Wall
+88401.txt : Hedge Wall#half
+88402.txt : Hedge Wall#half
+88403.txt : Hedge Wall#half
+88404.txt : Domestic Hedge
+88405.txt : Wild Hedge
+88406.txt : Shears with Hedge Cutting
+88407.txt : Dry Hedge Sapling
+88408.txt : Wet Hedge Sapling
+88409.txt : Staked Hedge
+88410.txt : Dug Hedge
+88411.txt : Planted Domestic Hedge#corner
+88412.txt : Planted Domestic Hedge#vertical
+88413.txt : Planted Domestic Hedge#horizontal
+88414.txt : Watered Hedge Wall#half
+88415.txt : Watered Hedge Wall#half
+88416.txt : Watered Hedge Wall#half
+88417.txt : Planted Domestic Hedge#corner staked
+88418.txt : Planted Domestic Hedge#horizontal staked
+88419.txt : Planted Domestic Hedge#vertical staked
+88420.txt : Dug Hedge with Stakes
+88421.txt : Dug Dead Hedge
+88422.txt : Open Fence Gate#wedged
+88423.txt : Cage
+88424.txt : Cage Action
+88425.txt : Cage Transition# sick food_10 fever_1
+88426.txt : Poipack with Sword
+88427.txt : Poipack with Blunt Sword
+88428.txt : Two Lassos
+88429.txt : Hot Steel Rod and Gold Ingot on Flat Rock
+88430.txt : Steel Rod and Gold Ingot on Flat Rock
+88431.txt : Gold Ingot on Flat Rock
+88432.txt : Hedge Cutting
+88433.txt : Dug Wild Hedge
+88434.txt : Fed Domestic Sheep #justFed
+88435.txt : Fed Domestic Sheep
+88436.txt : Fed Domestic Pig #justFed
+88437.txt : Fed Domestic Pig
+88438.txt : Fed Domestic Sheep on Rope
+88439.txt : Fed Domestic Pig on Rope
+88440.txt : Fed Domestic Cow on Rope
+88441.txt : Fed Domestic Cow #justFed
+88442.txt : Bucket of Corn
+88443.txt : Tipped Corn Kernels
+88444.txt : Tipped Corn Kernels #last
+88446.txt : Bucket of Corn #last
+88447.txt : Bucket of Feed
+88449.txt : WaterIng Can
+88450.txt : Empty Watering Can
+88451.txt : Blacksmith Apron
+88452.txt : Blacksmith Apron #with hammer
+88453.txt : Skull Mask
+88454.txt : Skull Mask
+88455.txt : Half Stone Wall
+88456.txt : Half Stone Wall with Shelf
+88457.txt : Ancient Half Stone Wall
+88458.txt : Ancient Half Stone Wall with Shelf
+88459.txt : Small Cut Stones
+88460.txt : Basket of Small Cut Stones
+88461.txt : Half Stone Wall with Boards
+88462.txt : Ancient Half Stone Wall with Boards
+88463.txt : Cut Stones #just piled
+88464.txt : Small Cut Stones #just dumped
+88465.txt : Full Watering Can
+88467.txt : @Dry Plant
+88468.txt : @Wet Plant
+88469.txt : Bucket and Two Pipes on Work Bench
+88470.txt : Bucket and Pipe on Work Bench
+88471.txt : Bucket on Work Bench
+88472.txt : Water Can on Work Bench
